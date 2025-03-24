@@ -1,0 +1,244 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP" tvg-logo="" group-title="lista druga",TVP
+http://109.233.89.166/TVP_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP 1" tvg-logo="" group-title="lista druga",TVP 1
+http://109.233.89.166/TVP1_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP 2" tvg-logo="" group-title="lista druga",TVP 2
+http://109.233.89.166/TVP2_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Republika" tvg-logo="" group-title="lista druga",TV Republika
+http://109.233.89.166/TV_Republika_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="wPolsce 24" tvg-logo="" group-title="lista druga",wPolsce 24
+http://109.233.89.166/wPolsce.PL/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN" tvg-logo="" group-title="lista druga",TVN
+http://109.233.89.166/TVN_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN 7" tvg-logo="" group-title="lista druga",TVN 7
+http://109.233.89.166/TVN_7_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Wydarzenia 24" tvg-logo="" group-title="lista druga",Wydarzenia 24
+http://109.233.89.166/Wydarzenia_24_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="13 Ulica" tvg-logo="" group-title="lista druga",13 Ulica
+http://109.233.89.166/13_Ulica_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="4FUN" tvg-logo="" group-title="lista druga",4FUN
+http://178.219.128.68:64888/4FUNTV
+#EXTINF:-1 tvg-id="ext" tvg-name="4FUN KIDS" tvg-logo="" group-title="lista druga",4FUN KIDS
+http://178.219.128.68:64888/4FUNKIDS
+#EXTINF:-1 tvg-id="ext" tvg-name="Active Family" tvg-logo="" group-title="lista druga",Active Family
+http://109.233.89.166/Active_Family_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Ale Kino+" tvg-logo="" group-title="lista druga",Ale Kino+
+http://178.219.128.68:64889/ALEKINOHD
+#EXTINF:-1 tvg-id="ext" tvg-name="Alfa TVP" tvg-logo="" group-title="lista druga",Alfa TVP
+http://109.233.89.166/Alfa_TVP_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="" group-title="lista druga",AMC
+http://109.233.89.166/AMC_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet" tvg-logo="" group-title="lista druga",Animal Planet
+http://109.233.89.166/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Antena TV" tvg-logo="" group-title="lista druga",Antena TV
+http://109.233.89.166/Antena_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="" group-title="lista druga",AXN
+http://109.233.89.166/CanalPlus_Sport1_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Baby TV" tvg-logo="" group-title="lista druga",Baby TV
+http://178.219.128.68:64889/BABYTV
+#EXTINF:-1 tvg-id="ext" tvg-name="BBC BRIT" tvg-logo="" group-title="lista druga",BBC BRIT
+http://178.219.128.68:64889/BBCBRITHD
+#EXTINF:-1 tvg-id="ext" tvg-name="BBC World News" tvg-logo="" group-title="lista druga",BBC World News
+http://109.233.89.166/BBC_World_News/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Boomerang" tvg-logo="" group-title="lista druga",Boomerang
+http://109.233.89.166/Boomerang_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal+ 1" tvg-logo="" group-title="lista druga",Canal+ 1
+http://178.219.128.68:64889/CANA1HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal+ 360" tvg-logo="" group-title="lista druga",Canal+ 360
+http://178.219.128.68:64889/CANAFAMIHD
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal+ Film" tvg-logo="" group-title="lista druga",Canal+ Film
+http://178.219.128.68:64889/CANAFILMHD
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal+ Premium" tvg-logo="" group-title="lista druga",Canal+ Premium
+http://178.219.128.68:64889/CANAHD
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal+ Seriale" tvg-logo="" group-title="lista druga",Canal+ Seriale
+http://178.219.128.68:64888/CANASERIHD
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal+ Dokument" tvg-logo="" group-title="lista druga",Canal+ Dokument
+http://178.219.128.68:64889/CANADOKUHD
+#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network" tvg-logo="" group-title="lista druga",Cartoon Network
+http://109.233.89.166/Cartoon_Network_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinemax" tvg-logo="" group-title="lista druga",Cinemax
+http://109.233.89.166/CINEMAX_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinemax 2" tvg-logo="" group-title="lista druga",Cinemax 2
+http://109.233.89.166/CINEMAX_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Comedy Central" tvg-logo="" group-title="lista druga",Comedy Central
+http://109.233.89.166/Comedy_Central_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery" tvg-logo="" group-title="lista druga",Discovery
+http://109.233.89.166/Discovery_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Channel" tvg-logo="" group-title="lista druga",Discovery Channel
+http://109.233.89.166/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Historia" tvg-logo="" group-title="lista druga",Discovery Historia
+http://109.233.89.166/Discovery_Historia/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Life" tvg-logo="" group-title="lista druga",Discovery Life
+http://109.233.89.166/Discovery_Life_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Channel" tvg-logo="" group-title="lista druga",Disney Channel
+http://109.233.89.166/Disney_Channel/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Junior" tvg-logo="" group-title="lista druga",Disney Junior
+http://109.233.89.166/Disney_Junior/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney XD" tvg-logo="" group-title="lista druga",Disney XD
+http://178.219.128.68:64888/DISNXD
+#EXTINF:-1 tvg-id="ext" tvg-name="Domo+" tvg-logo="" group-title="lista druga",Domo+
+http://178.219.128.68:64889/DOMOHD
+#EXTINF:-1 tvg-id="ext" tvg-name="Kuchnia+" tvg-logo="" group-title="lista druga",Kuchnia+
+http://178.219.128.68:64889/KUCHHD
+#EXTINF:-1 tvg-id="ext" tvg-name="DTX" tvg-logo="" group-title="lista druga",DTX
+http://109.233.89.166/DTX_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Duck TV" tvg-logo="" group-title="lista druga",Duck TV
+http://178.219.128.68:64888/DUCKTV
+#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 1" tvg-logo="" group-title="lista druga",Eleven Sports 1
+http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 2" tvg-logo="" group-title="lista druga",Eleven Sports 2
+http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 3" tvg-logo="" group-title="lista druga",Eleven Sports 3
+http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 4" tvg-logo="" group-title="lista druga",Eleven Sports 4
+http://109.233.89.166/ELEVEN_SPORTS_4_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Eska ROCK" tvg-logo="" group-title="lista druga",Eska ROCK
+http://178.219.128.68:64889/ESKAROCKTV
+#EXTINF:-1 tvg-id="ext" tvg-name="Eska TV" tvg-logo="" group-title="lista druga",Eska TV
+http://109.233.89.166/ESKA_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Eurosport 1" tvg-logo="" group-title="lista druga",Eurosport 1
+http://109.233.89.166/Eurosport_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Eurosport 2" tvg-logo="" group-title="lista druga",Eurosport 2
+http://109.233.89.166/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Extreme Channel" tvg-logo="" group-title="lista druga",Extreme Channel
+http://109.233.89.166/Extreme_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Fashion TV" tvg-logo="" group-title="lista druga",Fashion TV
+http://109.233.89.166/Fashion_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Food Network" tvg-logo="" group-title="lista druga",Food Network
+http://109.233.89.166/Food_Network_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="FX" tvg-logo="" group-title="lista druga",FX
+http://109.233.89.166/FOX_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="" group-title="lista druga",HBO
+http://109.233.89.166/HBO_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO 2" tvg-logo="" group-title="lista druga",HBO 2
+http://109.233.89.166/HBO_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO 3" tvg-logo="" group-title="lista druga",HBO 3
+http://109.233.89.166/HBO_3_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HGTV" tvg-logo="" group-title="lista druga",HGTV
+http://109.233.89.166/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="History" tvg-logo="" group-title="lista druga",History
+http://109.233.89.166/History_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="History 2" tvg-logo="" group-title="lista druga",History 2
+http://109.233.89.166/History_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Home TV" tvg-logo="" group-title="lista druga",Home TV
+http://109.233.89.166/TVR_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ID" tvg-logo="" group-title="lista druga",ID
+http://178.219.128.68:64888/IDHD
+#EXTINF:-1 tvg-id="ext" tvg-name="Kino Polska" tvg-logo="" group-title="lista druga",Kino Polska
+http://109.233.89.166/Kino_Polska_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Kino TV" tvg-logo="" group-title="lista druga",Kino TV
+http://178.219.128.68:64888/KINOTV
+#EXTINF:-1 tvg-id="ext" tvg-name="Metro TV" tvg-logo="" group-title="lista druga",Metro TV
+http://109.233.89.166/Metro_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Hits" tvg-logo="" group-title="lista druga",MTV Hits
+http://109.233.89.166/MTV_Hits/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Polska" tvg-logo="" group-title="lista druga",MTV Polska
+http://109.233.89.166/MTV_Polska_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic Wild" tvg-logo="" group-title="lista druga",National Geographic Wild
+http://109.233.89.166/National_Geograph ... index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Nick Jr" tvg-logo="" group-title="lista druga",Nick Jr
+http://178.219.128.68:64888/NICKJR
+#EXTINF:-1 tvg-id="ext" tvg-name="Nickelodeon" tvg-logo="" group-title="lista druga",Nickelodeon
+http://109.233.89.166/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NOWA TV" tvg-logo="" group-title="lista druga",NOWA TV
+http://178.219.128.68:64889/NOWATVHD
+#EXTINF:-1 tvg-id="ext" tvg-name="Paramount Channel" tvg-logo="" group-title="lista druga",Paramount Channel
+http://109.233.89.166/Paramount_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="POLO" tvg-logo="" group-title="lista druga",POLO
+http://178.219.128.68:64888/POLOTV
+#EXTINF:-1 tvg-id="ext" tvg-name="Polo TV" tvg-logo="" group-title="lista druga",Polo TV
+http://109.233.89.166/Polo_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Polonia 1" tvg-logo="" group-title="lista druga",Polonia 1
+http://109.233.89.166/Polonia_1/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Polsat" tvg-logo="" group-title="lista druga",Polsat
+http://109.233.89.166/Polsat_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Polsat 2" tvg-logo="" group-title="lista druga",Polsat 2
+http://109.233.89.166/Polsat_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Polsat Doku" tvg-logo="" group-title="lista druga",Polsat Doku
+http://109.233.89.166/Polsat_Doku_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Polsat Film" tvg-logo="" group-title="lista druga",Polsat Film
+http://109.233.89.166/Polsat_Film_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Polsat JimJam" tvg-logo="" group-title="lista druga",Polsat JimJam
+http://109.233.89.166/Polsat_JimJam/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Polsat News" tvg-logo="" group-title="lista druga",Polsat News
+http://109.233.89.166/Polsat_News_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Polsat News 2" tvg-logo="" group-title="lista druga",Polsat News 2
+http://109.233.89.166/Polsat_News_2/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Polsat News Polityka" tvg-logo="" group-title="lista druga",Polsat News Polityka
+http://109.233.89.166/Polsat_News_Polityka/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Polsat Play" tvg-logo="" group-title="lista druga",Polsat Play
+http://109.233.89.166/Polsat_Play_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Polsat Seriale" tvg-logo="" group-title="lista druga",Polsat Seriale
+http://109.233.89.166/Polsat_Seriale_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Polsat Sport 1" tvg-logo="" group-title="lista druga",Polsat Sport 1
+http://178.219.128.68:64889/POLSSPORHD
+#EXTINF:-1 tvg-id="ext" tvg-name="Polsat Sport 3" tvg-logo="" group-title="lista druga",Polsat Sport 3
+http://178.219.128.68:64889/POLSSPORNEWSHD
+#EXTINF:-1 tvg-id="ext" tvg-name="PULS 2" tvg-logo="" group-title="lista druga",PULS 2
+http://178.219.128.68:64889/PULS2HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Romance TV" tvg-logo="" group-title="lista druga",Romance TV
+http://109.233.89.166/Romance_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SciFi" tvg-logo="" group-title="lista druga",SciFi
+http://109.233.89.166/SciFi_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stoklatka" tvg-logo="" group-title="lista druga",Stoklatka
+http://109.233.89.166/Stopklatka_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Super Polsat" tvg-logo="" group-title="lista druga",Super Polsat
+http://109.233.89.166/Super_Polsat_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TeenNick" tvg-logo="" group-title="lista druga",TeenNick
+http://109.233.89.166/TeenNick/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Tele 5" tvg-logo="" group-title="lista druga",Tele 5
+http://109.233.89.166/Tele_5_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="" group-title="lista druga",TLC
+http://178.219.128.68:64888/TLCHD
+#EXTINF:-1 tvg-id="ext" tvg-name="Warner TV" tvg-logo="" group-title="lista druga",Warner TV
+http://178.219.128.68:64888/TNTHD
+#EXTINF:-1 tvg-id="ext" tvg-name="Travel Channel" tvg-logo="" group-title="lista druga",Travel Channel
+http://109.233.89.166/Travel_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TTV" tvg-logo="" group-title="lista druga",TTV
+http://178.219.128.68:64889/TTVHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TV 4" tvg-logo="" group-title="lista druga",TV 4
+http://109.233.89.166/TV4_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV 6" tvg-logo="" group-title="lista druga",TV 6
+http://109.233.89.166/TV6_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Puls" tvg-logo="" group-title="lista druga",TV Puls
+http://178.219.128.68:64889/TVPULSHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN 24" tvg-logo="" group-title="lista druga",TVN 24
+http://109.233.89.166/TVN_24_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN FABULA" tvg-logo="" group-title="lista druga",TVN FABULA
+http://178.219.128.68:64889/TVNFABUHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN Fabuła" tvg-logo="" group-title="lista druga",TVN Fabuła
+http://109.233.89.166/TVN_Fabula_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN Style" tvg-logo="" group-title="lista druga",TVN Style
+http://109.233.89.166/TVN_Style_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN Turbo" tvg-logo="" group-title="lista druga",TVN Turbo
+http://109.233.89.166/TVN_Turbo_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP Dokument" tvg-logo="" group-title="lista druga",TVP Dokument
+http://109.233.89.166/TVP_Dokument_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP Info" tvg-logo="" group-title="lista druga",TVP Info
+http://109.233.89.166/TVP_INFO_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP Nauka" tvg-logo="" group-title="lista druga",TVP Nauka
+http://109.233.89.166/TVP_Nauka/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP Polonia" tvg-logo="" group-title="lista druga",TVP Polonia
+http://109.233.89.166/TVP_Polonia_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP Rozrywka" tvg-logo="" group-title="lista druga",TVP Rozrywka
+http://109.233.89.166/TVP_Rozrywka/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP Seriale" tvg-logo="" group-title="lista druga",TVP Seriale
+http://109.233.89.166/TVP_Seriale/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP Sport" tvg-logo="" group-title="lista druga",TVP Sport
+http://109.233.89.166/TVP_Sport_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVS" tvg-logo="" group-title="lista druga",TVS
+http://178.219.128.68:64888/TVS
+#EXTINF:-1 tvg-id="ext" tvg-name="VH1" tvg-logo="" group-title="lista druga",VH1
+http://109.233.89.166/VH1/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="VOX" tvg-logo="" group-title="lista druga",VOX
+http://109.233.89.166/VOX/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Warner TV" tvg-logo="" group-title="lista druga",Warner TV
+http://109.233.89.166/TNT_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="World Fashion Channel" tvg-logo="" group-title="lista druga",World Fashion Channel
+http://109.233.89.166/World_Fashion_Channel/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="WP" tvg-logo="" group-title="lista druga",WP
+http://109.233.89.166/WP_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Zoom TV" tvg-logo="" group-title="lista druga",Zoom TV
+http://109.233.89.166/Zoom_TV_HD/index.m3u8
+
