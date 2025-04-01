@@ -1,616 +1,848 @@
 #EXTM3U url-tvg="https://epg.ovh/pltv.xml"
-#EXTINF:-1 tvg-id="CanalPlusKuchnia.pl" tvg-name="Canal+ Kuchnia (1080p)" tvg-logo="https://i.imgur.com/d1JTJBl.png" group-title="lista pierwsza",Canal+ Kuchnia (1080p)
-http://178.219.128.68:64889/KUCHHD
-#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="Canal+ Seriale (1080p)" tvg-logo="https://i.imgur.com/B55Rl3T.png" group-title="lista pierwsza",Canal+ Seriale (1080p)
-http://178.219.128.68:64888/CANASERIHD
-#EXTINF:-1 tvg-id="NovelaTV.pl" tvg-name="Novela TV (576p)" tvg-logo="https://i.imgur.com/qgqS2vy.png" group-title="lista pierwsza",Novela TV (576p)
-http://195.189.60.33:9019/play/a008
-#EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="Polsat Seriale (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/512px-Polsat_Seriale_2021_gradient.svg.png" group-title="lista pierwsza",Polsat Seriale (1080p)
-http://109.233.89.166/Polsat_Seriale_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale (1080p)" tvg-logo="https://i.imgur.com/MuRtvXk.png" group-title="lista pierwsza",TVP Seriale (1080p)
-http://109.233.89.166/TVP_Seriale/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="Canal+ Sport 2 (1080p)" tvg-logo="https://i.imgur.com/Aq2hnUj.png" group-title="lista pierwsza",Canal+ Sport 2 (1080p)
-http://178.219.128.68:64888/CANASPOR2HD
-#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="Canal+ Sport 3 (1080p)" tvg-logo="https://i.imgur.com/QZwPFa8.png" group-title="lista pierwsza",Canal+ Sport 3 (1080p)
-http://185.236.229.62:9981/play/a05e
-#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-name="Canal+ Sport 4 (1080p)" tvg-logo="https://i.imgur.com/BNAPYAx.png" group-title="lista pierwsza",Canal+ Sport 4 (1080p)
-http://185.236.229.62:9981/play/a05f
-#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal+ Sport (1080p)" tvg-logo="https://i.imgur.com/E0WTMa2.png" group-title="lista pierwsza",Canal+ Sport (1080p)
-http://178.219.128.68:64888/CANASPORHD
-#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="Fight Klub (1080p)" tvg-logo="https://i.imgur.com/6kaNvZi.png" group-title="lista pierwsza",Fight Klub (1080p)
-http://185.236.229.62:9981/play/a02l
-#EXTINF:-1 tvg-id="NSportPlus.pl" tvg-name="NSport+ (1080p)" tvg-logo="https://i.imgur.com/Kpx4GUi.png" group-title="lista pierwsza",NSport+ (1080p)
-http://185.236.229.62:9981/play/a05h
-#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/512px-Polsat_Sport_2021_gradient.svg.png" group-title="lista pierwsza",Polsat Sport (1080p)
-http://109.233.89.170/Polsat_Sport_HD/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="Polsat Sport Extra (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/512px-Polsat_Sport_Extra_2021_gradient.svg.png" group-title="lista pierwsza",Polsat Sport Extra (1080p)
-http://109.233.89.170/Polsat_Sport_Extra_HD/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight (1080p)" tvg-logo="https://i.imgur.com/8x1FV3o.png" group-title="lista pierwsza",Polsat Sport Fight (1080p)
-http://109.233.89.170/Polsat_Sport_Fight_HD/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1 (1080p)" tvg-logo="https://i.imgur.com/hy1SKE0.png" group-title="lista pierwsza",Polsat Sport Premium 1 (1080p)
-http://195.189.60.33:9003/play/a002
-#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="Polsat Sport Premium 2 (1080p)" tvg-logo="https://i.imgur.com/myyWeXY.png" group-title="lista pierwsza",Polsat Sport Premium 2 (1080p)
-http://195.189.60.33:9003/play/a003
-#EXTINF:-1 tvg-id="PolsatSportPremium3PPV.pl" tvg-name="Polsat Sport Premium 3 PPV (1080p)" tvg-logo="https://i.imgur.com/leFNP03.png" group-title="lista pierwsza",Polsat Sport Premium 3 PPV (1080p)
-http://195.189.60.33:9002/play/a009
-#EXTINF:-1 tvg-id="PolsatSportPremium4PPV.pl" tvg-name="Polsat Sport Premium 4 PPV (1080p)" tvg-logo="https://i.imgur.com/SulxUvc.png" group-title="lista pierwsza",Polsat Sport Premium 4 PPV (1080p)
-http://195.189.60.33:9002/play/a00a
-#EXTINF:-1 tvg-id="PolsatSportPremium5PPV.pl" tvg-name="Polsat Sport Premium 5 PPV (1080p)" tvg-logo="https://i.imgur.com/W1uhsGm.png" group-title="lista pierwsza",Polsat Sport Premium 5 PPV (1080p)
-http://195.189.60.33:9013/play/a00m
-#EXTINF:-1 tvg-id="DaVinci.pl" tvg-name="Da Vinci (1080p)" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="lista pierwsza",Da Vinci (1080p)
-http://109.233.89.170/Da_Vinci_HD/index.m3u8
-#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+ (1080p)" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="lista pierwsza",EbS+ (1080p)
-https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
-#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS (1080p)" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="lista pierwsza",EbS (1080p)
-https://streams.prd.commavservices.eu/live/ebs/index.m3u8
-#EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-name="EWTN Poland (1080p)" tvg-logo="https://i.imgur.com/VtKYELf.png" group-title="lista pierwsza",EWTN Poland (1080p)
-https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Motowizja.pl" tvg-name="Motowizja (1080p)" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/bqxkrtsb2dvLW1pZ3JhdGVkL21vdG93aXpqYS5wbmeSlQJkAMLDlQIAKMLD" group-title="lista pierwsza",Motowizja (1080p)
-http://109.233.89.170/Motowizja_HD/index.m3u8
-#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="Nat Geo People" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/512px-New_NatGeo_People_logo.svg.png" group-title="lista pierwsza",Nat Geo People
-http://185.236.229.62:9981/play/a06f
-#EXTINF:-1 tvg-id="TVPKultura2.pl" tvg-name="TVP Kultura 2 (1080p)" tvg-logo="https://i.imgur.com/hXAUpMj.png" group-title="lista pierwsza",TVP Kultura 2 (1080p)
-https://irylek.ct8.pl/stream/tvpkultura2
-#EXTINF:-1 tvg-id="ParamountNetwork.pl" tvg-name="Paramount Network (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="lista pierwsza",Paramount Network (1080p)
-http://109.233.89.166/Paramount_Channel_HD/index.m3u8
-#EXTINF:-1 tvg-id="PolsatComedyCentralExtraHD.pl" tvg-name="Polsat Comedy Central Extra HD (1080p)" tvg-logo="https://i.imgur.com/6GOWgtE.png" group-title="lista pierwsza",Polsat Comedy Central Extra HD (1080p)
-http://195.189.60.33:9015/play/a00b
-#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/512px-Polsat_News_2_2021_gradient.svg.png" group-title="lista pierwsza",Polsat News 2 (1080p)
-http://109.233.89.166/Polsat_News_2/index.m3u8
-#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="lista pierwsza",Polsat News (720p) [Geo-blocked]
-http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
-#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News (1080p)" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="lista pierwsza",Polsat News (1080p)
-http://109.233.89.166/Polsat_News_HD/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="Polsat Sport News (1080p)" tvg-logo="https://i.imgur.com/InChYmt.png" group-title="lista pierwsza",Polsat Sport News (1080p)
-http://109.233.89.170/Polsat_Sport_News_HD/index.m3u8
-#EXTINF:-1 tvg-id="TrusoTV.pl" tvg-name="Truso TV (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/GUsauxk.png" group-title="lista pierwsza",Truso TV (576p) [Not 24/7]
-https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="TVWielkopolska.pl" tvg-name="TV Wielkopolska (614p)" tvg-logo="https://i.imgur.com/uh46ZOy.png" group-title="lista pierwsza",TV Wielkopolska (614p)
-https://stream6.nadaje.com:35308/live/stream-1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPWilno.pl" tvg-name="TVP Wilno (1080p)" tvg-logo="https://i.imgur.com/8oORLGF.png" group-title="lista pierwsza",TVP Wilno (1080p)
-https://irylek.ct8.pl/stream/tvpwilno
-#EXTINF:-1 tvg-id="TeletoonPlus.pl" tvg-name="Teletoon+ (Poland) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/512px-T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="lista pierwsza",Teletoon+ (Poland) (1080p)
-http://178.219.128.68:64889/TELEHD
-#EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-name="Telewizja Biznesowa (1080p)" tvg-logo="https://i.imgur.com/XC7i7ZL.png" group-title="lista pierwsza",Telewizja Biznesowa (1080p)
-https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusDokument.pl" tvg-name="Canal+ Dokument (1080p)" tvg-logo="https://i.imgur.com/La6WF7D.png" group-title="lista pierwsza",Canal+ Dokument (1080p)
-http://178.219.128.68:64889/CANADOKUHD
-#EXTINF:-1 tvg-id="NationalGeographicWild.pl" tvg-name="National Geographic Wild (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="lista pierwsza",National Geographic Wild (1080p)
-http://109.233.89.166/National_Geographic_Wild_HD/index.m3u8
-#EXTINF:-1 tvg-id="PolsatViasatExplore.pl" tvg-name="Polsat Viasat Explore (1080p)" tvg-logo="https://i.imgur.com/gDlqO9h.png" group-title="lista pierwsza",Polsat Viasat Explore (1080p)
-http://178.219.128.68:64888/POLSVIASEXPLHD
-#EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-name="Polsat Viasat History (1080p)" tvg-logo="https://i.imgur.com/X16UGUf.png" group-title="lista pierwsza",Polsat Viasat History (1080p)
-http://178.219.128.68:64888/POLSVIASHISTHD
-#EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-name="Polsat Viasat Nature (1080p)" tvg-logo="https://i.imgur.com/TUcM0oS.png" group-title="lista pierwsza",Polsat Viasat Nature (1080p)
-http://178.219.128.68:64888/POLSVIASNATUHD
-#EXTINF:-1 tvg-id="AlfaTVP.pl" tvg-name="Alfa TVP (1080p)" tvg-logo="https://i.imgur.com/WwE7fhC.png" group-title="lista pierwsza",Alfa TVP (1080p)
-http://109.233.89.166/Alfa_TVP_HD/index.m3u8
-#EXTINF:-1 tvg-id="dlaCiebietv.pl" tvg-name="dlaCiebie.tv (1080p)" tvg-logo="https://i.imgur.com/Tf32BJa.png" group-title="lista pierwsza",dlaCiebie.tv (1080p)
-http://178.219.128.68:64889/DLAC
-#EXTINF:-1 tvg-id="Echo24.pl" tvg-name="Echo24 (720p)" tvg-logo="https://i.imgur.com/KPogWAG.png" group-title="lista pierwsza",Echo24 (720p)
-https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
-#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="Fokus TV (1080p)" tvg-logo="https://i.imgur.com/emWWd5k.png" group-title="lista pierwsza",Fokus TV (1080p)
-http://178.219.128.68:64889/FOKUTV
-#EXTINF:-1 tvg-id="NowaTV.pl" tvg-name="Nowa TV (1080p)" tvg-logo="https://i.imgur.com/8cHK49r.png" group-title="lista pierwsza",Nowa TV (1080p)
-http://109.233.89.170/NOWA_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="TelewizjaJaslo.pl" tvg-name="Telewizja Jaslo (720p)" tvg-logo="https://i.imgur.com/nV2jQQP.png" group-title="lista pierwsza",Telewizja Jaslo (720p)
-https://cdn01.sesja.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TelewizjaLuban.pl" tvg-name="Telewizja Luba  (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/t2BGp0G.jpeg" group-title="lista pierwsza",Telewizja Luba  (720p) [Not 24/7]
-http://stream.herissons.cloud/hls/tvluban.m3u8
-#EXTINF:-1 tvg-id="TVASTA.pl" tvg-name="TV ASTA (720p)" tvg-logo="https://i.imgur.com/5g7lq9N.png" group-title="lista pierwsza",TV ASTA (720p)
-https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telewizjamperium.pl" tvg-name="TV Imperium (1080p) [Not 24/7]" tvg-logo="https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" group-title="lista pierwsza",TV Imperium (1080p) [Not 24/7]
-https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
-#EXTINF:-1 tvg-id="AleKinoPlus.pl" tvg-name="Ale Kino+ (1080p)" tvg-logo="https://i.imgur.com/iZMsGnC.png" group-title="lista pierwsza",Ale Kino+ (1080p)
-http://178.219.128.68:64889/ALEKINOHD
-#EXTINF:-1 tvg-id="AMC.pl" tvg-name="AMC (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="lista pierwsza",AMC (1080p)
-http://109.233.89.166/AMC_HD/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="Canal+ Film (1080p)" tvg-logo="https://i.imgur.com/2yMtcJw.png" group-title="lista pierwsza",Canal+ Film (1080p)
-http://178.219.128.68:64889/CANAFILMHD
-#EXTINF:-1 tvg-id="CBSEuropa.pl" tvg-name="CBS Europa (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/CBS_Europa.png" group-title="lista pierwsza",CBS Europa (1080p)
-http://195.189.60.33:9011/play/a005
-#EXTINF:-1 tvg-id="FilmBoxExtra.pl" tvg-name="FilmBox Extra (1080p)" tvg-logo="https://i.imgur.com/ML7SlIW.png" group-title="lista pierwsza",FilmBox Extra (1080p)
-http://178.219.128.68:64888/FILMEXTRHD
-#EXTINF:-1 tvg-id="FilmBoxPremiumHD.pl" tvg-name="FilmBox Premium HD (1080p)" tvg-logo="https://i.imgur.com/5UniM2d.png" group-title="lista pierwsza",FilmBox Premium HD (1080p)
-http://178.219.128.68:64888/FILMPREMHD
-#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino Polska (1080p)" tvg-logo="https://i.imgur.com/lbl8K23.png" group-title="lista pierwsza",Kino Polska (1080p)
-http://109.233.89.166/Kino_Polska_HD/index.m3u8
-#EXTINF:-1 tvg-id="KinoTV.pl" tvg-name="Kino TV (1080p)" tvg-logo="https://i.imgur.com/sqjuXUO.png" group-title="lista pierwsza",Kino TV (1080p)
-http://178.219.128.68:64888/KINOTV
-#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film (1080p)" tvg-logo="https://i.imgur.com/wGH6shZ.png" group-title="lista pierwsza",Polsat Film (1080p)
-http://109.233.89.166/Polsat_Film_HD/index.m3u8
-#EXTINF:-1 tvg-id="SundanceTV.pl" tvg-name="Sundance TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png" group-title="lista pierwsza",Sundance TV (1080p)
-http://185.236.229.62:9981/play/a03i
-#EXTINF:-1 tvg-id="ActiveFamily.pl" tvg-name="Active Family (1080p)" tvg-logo="https://i.imgur.com/I1wdWAo.png" group-title="lista pierwsza",Active Family (1080p)
-http://109.233.89.166/Active_Family_HD/index.m3u8
-#EXTINF:-1 tvg-id="CANALPlus360.pl" tvg-name="CANAL+ 360 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal360_1920x1080.png/320px-Canal360_1920x1080.png" group-title="lista pierwsza",CANAL+ 360 (1080p)
-http://178.219.128.68:64889/CANAFAMIHD
-#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="13 Ulica (1080p)" tvg-logo="https://i.imgur.com/0gCNnLq.png" group-title="lista pierwsza",13 Ulica (1080p)
-http://109.233.89.166/13_Ulica_HD/index.m3u8
-#EXTINF:-1 tvg-id="AntenaHD.pl" tvg-name="Antena HD (1080p)" tvg-logo="https://i.imgur.com/obwYQZC.png" group-title="lista pierwsza",Antena HD (1080p)
-http://109.233.89.170/Antena_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="BBCFirst.pl" tvg-name="BBC First (1080p)" tvg-logo="https://i.imgur.com/UBoBYUI.png" group-title="lista pierwsza",BBC First (1080p)
-http://185.236.229.62:9981/play/a02n
-#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="Canal+ »1 (1080p)" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/RPqkrlsb2dvLW1pZ3JhdGVkL2NhbmFsLTEucG5nkpUCZADCw5UCACjCww" group-title="lista pierwsza",Canal+ »1 (1080p)
-http://178.219.128.68:64889/CANA1HD
-#EXTINF:-1 tvg-id="CBSReality.pl" tvg-name="CBS Reality (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CBS_Reality.png/512px-CBS_Reality.png" group-title="lista pierwsza",CBS Reality (1080p)
-http://109.233.89.170/CBS_Reality_HD/index.m3u8
-#EXTINF:-1 tvg-id="CrimePlusnvestigationPolsat.pl" tvg-name="Crime + Investigation Polsat (1080p)" tvg-logo="https://i.imgur.com/kSZCvah.png" group-title="lista pierwsza",Crime + Investigation Polsat (1080p)
-http://185.236.229.62:9981/play/a07w
-#EXTINF:-1 tvg-id="E.pl" tvg-name="E! (1080p)" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="lista pierwsza",E! (1080p)
-http://185.236.229.62:9981/play/a03j
-#EXTINF:-1 tvg-id="MTV.pl" tvg-name="MTV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="lista pierwsza",MTV (1080p)
-http://109.233.89.166/MTV_Polska_HD/index.m3u8
-#EXTINF:-1 tvg-id="RadiowaCzworka.pl" tvg-name="Radio Czwórka (1080p)" tvg-logo="https://i.imgur.com/VAtxF7k.png" group-title="lista pierwsza",Radio Czwórka (1080p)
-https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="4 Fun TV (576p)" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="lista pierwsza",4 Fun TV (576p)
-http://178.219.128.68:64888/4FUNTV
-#EXTINF:-1 tvg-id="AdventureTV.pl" tvg-name="Adventure TV (1080p)" tvg-logo="https://i.imgur.com/VQVr4Nk.png" group-title="lista pierwsza",Adventure TV (1080p)
-http://109.233.89.170/Adventure_HD/index.m3u8
-#EXTINF:-1 tvg-id="AXN.pl" tvg-name="AXN (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" group-title="lista pierwsza",AXN (1080p)
-http://178.219.128.68:64888/AXN
-#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="AXN Black (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/320px-AXN_Black_logo_%282015%29.svg.png" group-title="lista pierwsza",AXN Black (576p)
-http://185.236.229.62:9981/play/a075
-#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="AXN Spin (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AXN_Spin_logo_%282015%29.svg/320px-AXN_Spin_logo_%282015%29.svg.png" group-title="lista pierwsza",AXN Spin (1080p)
-http://185.236.229.62:9981/play/a044
-#EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="AXN White (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/320px-AXN_White_logo_%282015%29.svg.png" group-title="lista pierwsza",AXN White (576p)
-http://185.236.229.62:9981/play/a074
-#EXTINF:-1 tvg-id="Bigtime.pl" tvg-name="Bigtime (720p)" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="lista pierwsza",Bigtime (720p)
-https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalPlusDomo.pl" tvg-name="Canal+ Domo (1080p)" tvg-logo="https://i.imgur.com/Iz2BxbR.png" group-title="lista pierwsza",Canal+ Domo (1080p)
-http://178.219.128.68:64889/DOMOHD
-#EXTINF:-1 tvg-id="CanalPlusPremium.pl" tvg-name="Canal+ Premium (1080p)" tvg-logo="https://i.imgur.com/J8qzBV1.png" group-title="lista pierwsza",Canal+ Premium (1080p)
-http://178.219.128.68:64889/CANAHD
-#EXTINF:-1 tvg-id="CanalPlusSport5.pl" tvg-name="Canal+ Sport 5 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CANAL%2B_Sport_5.png/320px-CANAL%2B_Sport_5.png" group-title="lista pierwsza",Canal+ Sport 5 (1080p)
-http://195.189.60.33:9012/play/a009
-#EXTINF:-1 tvg-id="CarCityAdventures.pl" tvg-name="Car City Adventures (720p)" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg" group-title="lista pierwsza",Car City Adventures (720p)
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b6397b24-18b0-49c2-80bf-0333ae568e37/5.m3u8
-#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="Cinemax 2 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CINEMAX_2_logo.png" group-title="lista pierwsza",Cinemax 2 (1080p)
-http://109.233.89.166/CINEMAX_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.pl" tvg-name="Cinemax (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/320px-Cinemax_2016.svg.png" group-title="lista pierwsza",Cinemax (1080p)
-http://109.233.89.166/CINEMAX_HD/index.m3u8
-#EXTINF:-1 tvg-id="EzoTV.pl" tvg-name="Ezo TV (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/sUVgn4V.png" group-title="lista pierwsza",Ezo TV (576p) [Not 24/7]
-http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmBoxFamily.pl" tvg-name="FilmBox Family (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Filmbox_family.png/320px-Filmbox_family.png" group-title="lista pierwsza",FilmBox Family (1080p)
-http://178.219.128.68:64888/FILMFAMI
-#EXTINF:-1 tvg-id="Grjngo.pl" tvg-name="Grjngo (720p)" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="lista pierwsza",Grjngo (720p)
-https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
-#EXTINF:-1 tvg-id="HomeTV.pl" tvg-name="Home TV (1080p)" tvg-logo="https://i.imgur.com/qAFR1Cr.png" group-title="lista pierwsza",Home TV (1080p)
-http://109.233.89.166/TVR_HD/index.m3u8
-#EXTINF:-1 tvg-id="Moconomy.pl" tvg-name="Moconomy (1080p)" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg" group-title="lista pierwsza",Moconomy (1080p)
-https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetePlus.pl" tvg-name="Planete+ (1080p)" tvg-logo="https://i.imgur.com/mraCTwN.png" group-title="lista pierwsza",Planete+ (1080p)
-http://178.219.128.68:64889/PLANHD
-#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="Polo TV (1080p)" tvg-logo="https://i.imgur.com/GEJZjRB.png" group-title="lista pierwsza",Polo TV (1080p)
-http://109.233.89.166/Polo_TV/index.m3u8
-#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="Polonia 1 (1080p)" tvg-logo="https://i.imgur.com/4TVDMGD.png" group-title="lista pierwsza",Polonia 1 (1080p)
-http://178.219.128.68:64889/POLO1
-#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/512px-Polsat_2_2021_gradient.svg.png" group-title="lista pierwsza",Polsat 2 (1080p)
-http://109.233.89.166/Polsat_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat (1080p)" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="lista pierwsza",Polsat (1080p)
-http://109.233.89.166/Polsat_HD/index.m3u8
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="lista pierwsza",Polsat (1080p) [Geo-blocked]
-https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
-#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="Polsat Cafe (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/512px-Polsat_Caf%C3%A9_2021_gradient.svg.png" group-title="lista pierwsza",Polsat Cafe (1080p)
-http://109.233.89.170/Polsat_Cafe_HD/index.m3u8
-#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="Polsat Doku (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polsat_Doku_2021_gradient.svg/512px-Polsat_Doku_2021_gradient.svg.png" group-title="lista pierwsza",Polsat Doku (1080p)
-http://109.233.89.166/Polsat_Doku_HD/index.m3u8
-#EXTINF:-1 tvg-id="PolsatGames.pl" tvg-name="Polsat Games (1080p)" tvg-logo="https://i.imgur.com/OSCrBvh.png" group-title="lista pierwsza",Polsat Games (1080p)
-http://109.233.89.166/Polsat_Games/mono.m3u8
-#EXTINF:-1 tvg-id="PolsatNewsPolityka.pl" tvg-name="Polsat News Polityka (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="lista pierwsza",Polsat News Polityka (1080p)
-http://109.233.89.166/Polsat_News_Polityka/index.m3u8
-#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsat Play (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Polsat_Play_2021_gradient.svg/512px-Polsat_Play_2021_gradient.svg.png" group-title="lista pierwsza",Polsat Play (1080p)
-http://109.233.89.166/Polsat_Play_HD/index.m3u8
-#EXTINF:-1 tvg-id="PolsatRodzina.pl" tvg-name="Polsat Rodzina (1080p)" tvg-logo="https://i.imgur.com/IS0AW48.png" group-title="lista pierwsza",Polsat Rodzina (1080p)
-http://109.233.89.170/Polsat_Rodzina_HD/index.m3u8
-#EXTINF:-1 tvg-id="Puls2.pl" tvg-name="Puls 2 (1080p)" tvg-logo="https://i.imgur.com/EOnzPiZ.png" group-title="lista pierwsza",Puls 2 (1080p)
-http://178.219.128.68:64889/PULS2HD
-#EXTINF:-1 tvg-id="RedCarpetTV.pl" tvg-name="Red Carpet TV (1080p)" tvg-logo="https://i.imgur.com/Vh1auIa.png" group-title="lista pierwsza",Red Carpet TV (1080p)
-http://109.233.89.170/Red_Carpet_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="RedCarpetTVnternational.pl" tvg-name="Red Carpet TV International (1080p)" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0-width200-quality90.jpeg" group-title="lista pierwsza",Red Carpet TV International (1080p)
-https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
-#EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="Romance TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/512px-Romance_TV_Logo_10.2019.svg.png" group-title="lista pierwsza",Romance TV (1080p)
-http://109.233.89.166/Romance_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="SferaTV.pl" tvg-name="Sfera TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/aK7xfKi.png" group-title="lista pierwsza",Sfera TV (480p) [Not 24/7]
-http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="StarsTV.pl" tvg-name="Stars TV (1080p)" tvg-logo="https://i.imgur.com/NdITPCk.png" group-title="lista pierwsza",Stars TV (1080p)
-http://178.219.128.68:64888/STARTVHD
-#EXTINF:-1 tvg-id="StopklatkaTV.pl" tvg-name="Stopklatka TV (1080p)" tvg-logo="https://i.imgur.com/qqNsIkx.png" group-title="lista pierwsza",Stopklatka TV (1080p)
-http://109.233.89.166/Stopklatka_HD/index.m3u8
-#EXTINF:-1 tvg-id="StudioMedTV.pl" tvg-name="StudioMed TV (576p)" tvg-logo="https://i.imgur.com/prF1T3P.png" group-title="lista pierwsza",StudioMed TV (576p)
-http://195.189.60.33:9017/play/a004
-#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat (1080p)" tvg-logo="https://i.imgur.com/6KXJRHc.png" group-title="lista pierwsza",Super Polsat (1080p)
-http://109.233.89.166/Super_Polsat_HD/index.m3u8
-#EXTINF:-1 tvg-id="Superstacja.pl" tvg-name="Superstacja (1080p)" tvg-logo="https://i.imgur.com/uYpUnHP.png" group-title="lista pierwsza",Superstacja (1080p)
-http://109.233.89.166/Wydarzenia_24_HD/index.m3u8
-#EXTINF:-1 tvg-id="Tele5.pl" tvg-name="Tele5 (1080p)" tvg-logo="https://i.imgur.com/36ZNsIL.png" group-title="lista pierwsza",Tele5 (1080p)
-http://109.233.89.166/Tele_5_HD/index.m3u8
-#EXTINF:-1 tvg-id="TelewizjaTorun.pl" tvg-name="Telewizja Toru  (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/UNwzRHN.png" group-title="lista pierwsza",Telewizja Toru  (1080p) [Not 24/7]
-http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
-#EXTINF:-1 tvg-id="TopMoviesPolska.pl" tvg-name="Top Movies Polska (720p)" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png" group-title="lista pierwsza",Top Movies Polska (720p)
-https://d14678b7277b4f21964f367309c8f3e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_TopMoviesPolska/playlist.m3u8
-#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV4 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="lista pierwsza",TV4 (1080p)
-http://109.233.89.166/TV4_HD/index.m3u8
-#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV4 (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="lista pierwsza",TV4 (1080p) [Geo-blocked]
-https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
-#EXTINF:-1 tvg-id="TV6.pl" tvg-name="TV6 (1080p)" tvg-logo="https://i.imgur.com/sW2PQ9z.png" group-title="lista pierwsza",TV6 (1080p)
-http://109.233.89.166/TV6_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVKujawy.pl" tvg-name="TV Kujawy (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/dGP7cIW.png" group-title="lista pierwsza",TV Kujawy (576p) [Not 24/7]
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="TVOkazje.pl" tvg-name="TV Okazje (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/DbALkkV.png" group-title="lista pierwsza",TV Okazje (1080p) [Geo-blocked]
-https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
-#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="TV Puls (1080p)" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="lista pierwsza",TV Puls (1080p)
-http://109.233.89.166/TV_Puls_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-name="TV Regionalna Lubin (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/2WVNt3f.png" group-title="lista pierwsza",TV Regionalna Lubin (576p) [Not 24/7]
-https://tvreg.klemit.net/regionalna/stream/index.m3u8
-#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika (1080p)" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="lista pierwsza",TV Republika (1080p)
-http://109.233.89.166/TV_Republika_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVTorun.pl" tvg-name="TV Toru  (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/ZJ0yDWI.png" group-title="lista pierwsza",TV Toru  (1080p) [Not 24/7]
-http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-name="TV Trwam (576p)" tvg-logo="https://i.imgur.com/yq10wS5.png" group-title="lista pierwsza",TV Trwam (576p)
-http://109.233.89.170/TV_TRWAM/index.m3u8
-#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-name="TV Trwam (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/yq10wS5.png" group-title="lista pierwsza",TV Trwam (1080p) [Geo-blocked]
-https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP2 (1080p)" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="lista pierwsza",TVP2 (1080p)
-http://109.233.89.166/TVP2_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Bialystok.pl" tvg-name="TVP 3 Białystok (576p)" tvg-logo="https://i.imgur.com/zPSpvss.jpg" group-title="lista pierwsza",TVP 3 Białystok (576p)
-https://cdndai.pl/tvp3bialystoksd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Bydgoszcz.pl" tvg-name="TVP 3 Bydgoszcz (576p)" tvg-logo="https://i.imgur.com/b0Xevsc.jpg" group-title="lista pierwsza",TVP 3 Bydgoszcz (576p)
-https://cdndai.pl/tvp3bydgoszczsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Gdansk.pl" tvg-name="TVP 3 Gda sk (576p)" tvg-logo="https://i.imgur.com/wGZCj7G.jpg" group-title="lista pierwsza",TVP 3 Gda sk (576p)
-https://cdndai.pl/tvp3gdansksd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3GorzowWielkopolski.pl" tvg-name="TVP 3 Gorzów Wielkopolski (576p)" tvg-logo="https://i.imgur.com/H3jtBQm.jpg" group-title="lista pierwsza",TVP 3 Gorzów Wielkopolski (576p)
-https://cdndai.pl/tvp3gorzowsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Katowice.pl" tvg-name="TVP 3 Katowice (576p)" tvg-logo="https://i.imgur.com/burRKHa.jpg" group-title="lista pierwsza",TVP 3 Katowice (576p)
-https://cdndai.pl/tvp3katowicesd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Kielce.pl" tvg-name="TVP 3 Kielce (576p)" tvg-logo="https://i.imgur.com/YcQxM94.jpg" group-title="lista pierwsza",TVP 3 Kielce (576p)
-https://cdndai.pl/tvp3kielcesd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Krakow.pl" tvg-name="TVP 3 Kraków (576p)" tvg-logo="https://i.imgur.com/MbAKxD1.jpg" group-title="lista pierwsza",TVP 3 Kraków (576p)
-https://cdndai.pl/tvp3krakowsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Lodz.pl" tvg-name="TVP 3 Łódź (576p)" tvg-logo="https://i.imgur.com/r5wxdkB.jpg" group-title="lista pierwsza",TVP 3 Łódź (576p)
-https://cdndai.pl/tvp3lodzsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Lublin.pl" tvg-name="TVP 3 Lublin (576p)" tvg-logo="https://i.imgur.com/h7oq2yg.jpg" group-title="lista pierwsza",TVP 3 Lublin (576p)
-https://cdndai.pl/tvp3lublinsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Olsztyn.pl" tvg-name="TVP 3 Olsztyn (576p)" tvg-logo="https://i.imgur.com/Aa0HedU.jpg" group-title="lista pierwsza",TVP 3 Olsztyn (576p)
-https://cdndai.pl/tvp3olsztynsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Opole.pl" tvg-name="TVP 3 Opole (576p)" tvg-logo="https://i.imgur.com/dYRtDRA.jpg" group-title="lista pierwsza",TVP 3 Opole (576p)
-https://cdndai.pl/tvp3opolesd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Poznan.pl" tvg-name="TVP 3 Pozna  (576p)" tvg-logo="https://i.imgur.com/mTnjVGQ.jpg" group-title="lista pierwsza",TVP 3 Pozna  (576p)
-https://cdndai.pl/tvp3poznansd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Rzeszow.pl" tvg-name="TVP 3 Rzeszów (576p)" tvg-logo="https://i.imgur.com/6jGX6Xy.jpg" group-title="lista pierwsza",TVP 3 Rzeszów (576p)
-https://cdndai.pl/tvp3rzeszowsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Szczecin.pl" tvg-name="TVP 3 Szczecin (576p)" tvg-logo="https://i.imgur.com/NRb6S8z.jpg" group-title="lista pierwsza",TVP 3 Szczecin (576p)
-https://cdndai.pl/tvp3szczecinsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-name="TVP 3 Warszawa (1080p)" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" group-title="lista pierwsza",TVP 3 Warszawa (1080p)
-https://irylek.ct8.pl/stream/tvp3warszawahd
-#EXTINF:-1 tvg-id="TVP3Wroclaw.pl" tvg-name="TVP 3 Wrocław (576p)" tvg-logo="https://i.imgur.com/0em2QIh.jpg" group-title="lista pierwsza",TVP 3 Wrocław (576p)
-https://cdndai.pl/tvp3wroclawsd/index.m3u8
-#EXTINF:-1 tvg-id="TVPDokument.pl" tvg-name="TVP Dokument (1080p)" tvg-logo="https://i.imgur.com/oQUNtzs.png" group-title="lista pierwsza",TVP Dokument (1080p)
-http://109.233.89.166/TVP_Dokument_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="TVP HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/512px-TVP_HD_logo.svg.png" group-title="lista pierwsza",TVP HD (1080p)
-http://109.233.89.166/TVP_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP Historia (1080p)" tvg-logo="https://i.imgur.com/Bc4QZiy.png" group-title="lista pierwsza",TVP Historia (1080p)
-http://109.233.89.170/TVP_Historia/index.m3u8
-#EXTINF:-1 tvg-id="TVPnfo.pl" tvg-name="TVP Info (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/512px-TVP_Info_logo.svg.png" group-title="lista pierwsza",TVP Info (1080p)
-http://109.233.89.166/TVP_INFO_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVPKobieta.pl" tvg-name="TVP Kobieta (1080p)" tvg-logo="https://i.imgur.com/aAH98qO.png" group-title="lista pierwsza",TVP Kobieta (1080p)
-http://109.233.89.170/TVP_Kobieta_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVPKobieta.pl" tvg-name="TVP Kobieta (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/aAH98qO.png" group-title="lista pierwsza",TVP Kobieta (1080p) [Geo-blocked]
-https://irylek.ct8.pl/stream/tvpkobieta
-#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="TVP Kultura (1080p)" tvg-logo="https://i.imgur.com/JU858Es.png" group-title="lista pierwsza",TVP Kultura (1080p)
-http://178.219.128.68:64889/TVPKULT
-#EXTINF:-1 tvg-id="TVPNauka.pl" tvg-name="TVP Nauka (1080p)" tvg-logo="https://i.imgur.com/ga5Z8jf.png" group-title="lista pierwsza",TVP Nauka (1080p)
-http://109.233.89.166/TVP_Nauka/index.m3u8
-#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/512px-TVP_Polonia_Logo_2020.svg.png" group-title="lista pierwsza",TVP Polonia (1080p)
-http://109.233.89.166/TVP_Polonia_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka (1080p)" tvg-logo="https://i.imgur.com/05Vx5px.png" group-title="lista pierwsza",TVP Rozrywka (1080p)
-http://109.233.89.166/TVP_Rozrywka/index.m3u8
-#EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS (1080p)" tvg-logo="https://i.imgur.com/RHwlp35.png" group-title="lista pierwsza",TVS (1080p)
-http://178.219.128.68:64888/TVS
-#EXTINF:-1 tvg-id="TVT.pl" tvg-name="TVT (720p)" tvg-logo="https://i.imgur.com/oZyeUzG.png" group-title="lista pierwsza",TVT (720p)
-https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
-#EXTINF:-1 tvg-id="TVTZgorzelec.pl" tvg-name="TVT Zgorzelec (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" group-title="lista pierwsza",TVT Zgorzelec (576p) [Not 24/7]
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 tvg-id="ViasatExploreClassic.pl" tvg-name="Viasat Explore Classic (720p)" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg" group-title="lista pierwsza",Viasat Explore Classic (720p)
-https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="WPolscePL.pl" tvg-name="W Polsce PL (1080p)" tvg-logo="https://i.imgur.com/HQ8UyhL.png" group-title="lista pierwsza",W Polsce PL (1080p)
-http://109.233.89.170/wPolsce.PL/index.m3u8
-#EXTINF:-1 tvg-id="WaterPlanet.pl" tvg-name="Water Planet (576p)" tvg-logo="https://i.imgur.com/ZKczKhD.png" group-title="lista pierwsza",Water Planet (576p)
-http://195.189.60.33:9019/play/a006
-#EXTINF:-1 tvg-id="WPTV.pl" tvg-name="WP TV (1080p)" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM" group-title="lista pierwsza",WP TV (1080p)
-http://109.233.89.166/WP_HD/index.m3u8
-#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-name="Zoom TV (1080p)" tvg-logo="https://i.imgur.com/UtZM4zm.png" group-title="lista pierwsza",Zoom TV (1080p)
-http://109.233.89.166/Zoom_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids (576p)" tvg-logo="https://i.imgur.com/2JO5Y8c.png" group-title="lista pierwsza",4 Fun Kids (576p)
-http://178.219.128.68:64888/4FUNKIDS
-#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="lista pierwsza",BabyFirst
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
-#EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="CBeebies (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="lista pierwsza",CBeebies (1080p)
-http://185.236.229.62:9981/play/a06s
-#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="lista pierwsza",Disney Channel (1080p)
-http://109.233.89.166/Disney_Channel/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="Disney Junior (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="lista pierwsza",Disney Junior (1080p)
-http://178.219.128.68:64888/DISNJUNI
-#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="lista pierwsza",Disney XD (576p)
-http://178.219.128.68:64888/DISNXD
-#EXTINF:-1 tvg-id="MiniMiniPlus.pl" tvg-name="MiniMini+ (1080p)" tvg-logo="https://i.imgur.com/1AdUC53.png" group-title="lista pierwsza",MiniMini+ (1080p)
-http://178.219.128.68:64889/MINIHD
-#EXTINF:-1 tvg-id="NickJr.pl" tvg-name="Nick Jr. Poland (576i)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="lista pierwsza",Nick Jr. Poland (576i)
-http://178.219.128.68:64888/NICKJR
-#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon (576p)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="lista pierwsza",Nickelodeon (576p)
-http://109.233.89.166/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="Polsat JimJam (576p)" tvg-logo="https://i.imgur.com/GjppUlg.png" group-title="lista pierwsza",Polsat JimJam (576p)
-http://109.233.89.166/Polsat_JimJam/index.m3u8
-#EXTINF:-1 tvg-id="TVPABC2.pl" tvg-name="TVP ABC 2 (1080p)" tvg-logo="https://i.imgur.com/Ur7CUAh.png" group-title="lista pierwsza",TVP ABC 2 (1080p)
-https://irylek.ct8.pl/stream/tvpabc2
-#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC (1080p)" tvg-logo="https://i.imgur.com/wP2mpfM.png" group-title="lista pierwsza",TVP ABC (1080p)
-http://109.233.89.170/TVP_ABC/index.m3u8
-#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music (1080p)" tvg-logo="https://i.imgur.com/ZZbuTv7.png" group-title="lista pierwsza",Disco Polo Music (1080p)
-http://185.236.229.62:9981/play/a078
-#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-name="Eska Rock TV (1080p)" tvg-logo="https://i.imgur.com/o0Fg19Q.png" group-title="lista pierwsza",Eska Rock TV (1080p)
-http://178.219.128.68:64889/ESKAROCKTV
-#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV (1080p)" tvg-logo="https://i.imgur.com/N0eH0Cg.png" group-title="lista pierwsza",Eska TV (1080p)
-http://109.233.89.166/ESKA_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="EskaTVExtra.pl" tvg-name="Eska TV Extra (1080p)" tvg-logo="https://i.imgur.com/pZAFshQ.png" group-title="lista pierwsza",Eska TV Extra (1080p)
-http://178.219.128.68:64888/ESKATVEXTRHD
-#EXTINF:-1 tvg-id="NutaTV.pl" tvg-name="Nuta TV (576p)" tvg-logo="https://i.imgur.com/JHFUxDu.png" group-title="lista pierwsza",Nuta TV (576p)
-http://178.219.128.68:64888/NUTA
-#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="Polsat Music (1080p)" tvg-logo="https://i.imgur.com/uXygf1l.png" group-title="lista pierwsza",Polsat Music (1080p)
-http://109.233.89.170/Polsat_Music_HD/index.m3u8
-#EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="VOX Music TV (576p)" tvg-logo="https://i.imgur.com/N993msF.png" group-title="lista pierwsza",VOX Music TV (576p)
-http://109.233.89.166/VOX/index.m3u8
-#EXTINF:-1 tvg-id="4FunDance.pl" tvg-name="4 Fun Dance (576p)" tvg-logo="https://i.imgur.com/ZEWHe1B.png" group-title="lista pierwsza",4 Fun Dance (576p)
-http://178.219.128.68:64888/4FUNDANC
-#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="Kino Polska Muzyka (576p)" tvg-logo="https://i.imgur.com/lE1IlPQ.png" group-title="lista pierwsza",Kino Polska Muzyka (576p)
-http://185.236.229.62:9981/play/a030
-
-
-
-#EXTINF:-1 tvg-id="ext" tvg-name="TVP" tvg-logo="" group-title="lista druga",TVP
-http://109.233.89.166/TVP_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVP 1" tvg-logo="" group-title="lista druga",TVP 1
-http://109.233.89.166/TVP1_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVP 2" tvg-logo="" group-title="lista druga",TVP 2
-http://109.233.89.166/TVP2_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TV Republika" tvg-logo="" group-title="lista druga",TV Republika
-http://109.233.89.166/TV_Republika_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="wPolsce 24" tvg-logo="" group-title="lista druga",wPolsce 24
-http://109.233.89.166/wPolsce.PL/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVN" tvg-logo="" group-title="lista druga",TVN
-http://109.233.89.166/TVN_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVN 7" tvg-logo="" group-title="lista druga",TVN 7
-http://109.233.89.166/TVN_7_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Wydarzenia 24" tvg-logo="" group-title="lista druga",Wydarzenia 24
-http://109.233.89.166/Wydarzenia_24_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="13 Ulica" tvg-logo="" group-title="lista druga",13 Ulica
-http://109.233.89.166/13_Ulica_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="4FUN" tvg-logo="" group-title="lista druga",4FUN
-http://178.219.128.68:64888/4FUNTV
-#EXTINF:-1 tvg-id="ext" tvg-name="4FUN KIDS" tvg-logo="" group-title="lista druga",4FUN KIDS
-http://178.219.128.68:64888/4FUNKIDS
-#EXTINF:-1 tvg-id="ext" tvg-name="Active Family" tvg-logo="" group-title="lista druga",Active Family
-http://109.233.89.166/Active_Family_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Ale Kino+" tvg-logo="" group-title="lista druga",Ale Kino+
-http://178.219.128.68:64889/ALEKINOHD
-#EXTINF:-1 tvg-id="ext" tvg-name="Alfa TVP" tvg-logo="" group-title="lista druga",Alfa TVP
-http://109.233.89.166/Alfa_TVP_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="" group-title="lista druga",AMC
-http://109.233.89.166/AMC_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet" tvg-logo="" group-title="lista druga",Animal Planet
-http://109.233.89.166/Animal_Planet_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Antena TV" tvg-logo="" group-title="lista druga",Antena TV
-http://109.233.89.166/Antena_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="" group-title="lista druga",AXN
-http://109.233.89.166/CanalPlus_Sport1_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Baby TV" tvg-logo="" group-title="lista druga",Baby TV
-http://178.219.128.68:64889/BABYTV
-#EXTINF:-1 tvg-id="ext" tvg-name="BBC BRIT" tvg-logo="" group-title="lista druga",BBC BRIT
-http://178.219.128.68:64889/BBCBRITHD
-#EXTINF:-1 tvg-id="ext" tvg-name="BBC World News" tvg-logo="" group-title="lista druga",BBC World News
-http://109.233.89.166/BBC_World_News/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Boomerang" tvg-logo="" group-title="lista druga",Boomerang
-http://109.233.89.166/Boomerang_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal+ 1" tvg-logo="" group-title="lista druga",Canal+ 1
-http://178.219.128.68:64889/CANA1HD
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal+ 360" tvg-logo="" group-title="lista druga",Canal+ 360
-http://178.219.128.68:64889/CANAFAMIHD
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal+ Film" tvg-logo="" group-title="lista druga",Canal+ Film
-http://178.219.128.68:64889/CANAFILMHD
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal+ Premium" tvg-logo="" group-title="lista druga",Canal+ Premium
-http://178.219.128.68:64889/CANAHD
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal+ Seriale" tvg-logo="" group-title="lista druga",Canal+ Seriale
-http://178.219.128.68:64888/CANASERIHD
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal+ Dokument" tvg-logo="" group-title="lista druga",Canal+ Dokument
-http://178.219.128.68:64889/CANADOKUHD
-#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network" tvg-logo="" group-title="lista druga",Cartoon Network
-http://109.233.89.166/Cartoon_Network_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Cinemax" tvg-logo="" group-title="lista druga",Cinemax
-http://109.233.89.166/CINEMAX_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Cinemax 2" tvg-logo="" group-title="lista druga",Cinemax 2
-http://109.233.89.166/CINEMAX_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Comedy Central" tvg-logo="" group-title="lista druga",Comedy Central
-http://109.233.89.166/Comedy_Central_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Discovery" tvg-logo="" group-title="lista druga",Discovery
-http://109.233.89.166/Discovery_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Channel" tvg-logo="" group-title="lista druga",Discovery Channel
-http://109.233.89.166/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Historia" tvg-logo="" group-title="lista druga",Discovery Historia
-http://109.233.89.166/Discovery_Historia/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Life" tvg-logo="" group-title="lista druga",Discovery Life
-http://109.233.89.166/Discovery_Life_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Disney Channel" tvg-logo="" group-title="lista druga",Disney Channel
-http://109.233.89.166/Disney_Channel/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Disney Junior" tvg-logo="" group-title="lista druga",Disney Junior
-http://109.233.89.166/Disney_Junior/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Disney XD" tvg-logo="" group-title="lista druga",Disney XD
-http://178.219.128.68:64888/DISNXD
-#EXTINF:-1 tvg-id="ext" tvg-name="Domo+" tvg-logo="" group-title="lista druga",Domo+
-http://178.219.128.68:64889/DOMOHD
-#EXTINF:-1 tvg-id="ext" tvg-name="Kuchnia+" tvg-logo="" group-title="lista druga",Kuchnia+
-http://178.219.128.68:64889/KUCHHD
-#EXTINF:-1 tvg-id="ext" tvg-name="DTX" tvg-logo="" group-title="lista druga",DTX
-http://109.233.89.166/DTX_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Duck TV" tvg-logo="" group-title="lista druga",Duck TV
-http://178.219.128.68:64888/DUCKTV
-#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 1" tvg-logo="" group-title="lista druga",Eleven Sports 1
-http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 2" tvg-logo="" group-title="lista druga",Eleven Sports 2
-http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 3" tvg-logo="" group-title="lista druga",Eleven Sports 3
-http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 4" tvg-logo="" group-title="lista druga",Eleven Sports 4
-http://109.233.89.166/ELEVEN_SPORTS_4_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Eska ROCK" tvg-logo="" group-title="lista druga",Eska ROCK
-http://178.219.128.68:64889/ESKAROCKTV
-#EXTINF:-1 tvg-id="ext" tvg-name="Eska TV" tvg-logo="" group-title="lista druga",Eska TV
-http://109.233.89.166/ESKA_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Eurosport 1" tvg-logo="" group-title="lista druga",Eurosport 1
-http://109.233.89.166/Eurosport_1_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Eurosport 2" tvg-logo="" group-title="lista druga",Eurosport 2
-http://109.233.89.166/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Extreme Channel" tvg-logo="" group-title="lista druga",Extreme Channel
-http://109.233.89.166/Extreme_Channel_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Fashion TV" tvg-logo="" group-title="lista druga",Fashion TV
-http://109.233.89.166/Fashion_TV/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Food Network" tvg-logo="" group-title="lista druga",Food Network
-http://109.233.89.166/Food_Network_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="FX" tvg-logo="" group-title="lista druga",FX
-http://109.233.89.166/FOX_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="" group-title="lista druga",HBO
-http://109.233.89.166/HBO_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO 2" tvg-logo="" group-title="lista druga",HBO 2
-http://109.233.89.166/HBO_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO 3" tvg-logo="" group-title="lista druga",HBO 3
-http://109.233.89.166/HBO_3_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HGTV" tvg-logo="" group-title="lista druga",HGTV
-http://109.233.89.166/HGTV/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="History" tvg-logo="" group-title="lista druga",History
-http://109.233.89.166/History_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="History 2" tvg-logo="" group-title="lista druga",History 2
-http://109.233.89.166/History_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Home TV" tvg-logo="" group-title="lista druga",Home TV
-http://109.233.89.166/TVR_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ID" tvg-logo="" group-title="lista druga",ID
-http://178.219.128.68:64888/IDHD
-#EXTINF:-1 tvg-id="ext" tvg-name="Kino Polska" tvg-logo="" group-title="lista druga",Kino Polska
-http://109.233.89.166/Kino_Polska_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Kino TV" tvg-logo="" group-title="lista druga",Kino TV
-http://178.219.128.68:64888/KINOTV
-#EXTINF:-1 tvg-id="ext" tvg-name="Metro TV" tvg-logo="" group-title="lista druga",Metro TV
-http://109.233.89.166/Metro_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Hits" tvg-logo="" group-title="lista druga",MTV Hits
-http://109.233.89.166/MTV_Hits/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Polska" tvg-logo="" group-title="lista druga",MTV Polska
-http://109.233.89.166/MTV_Polska_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic Wild" tvg-logo="" group-title="lista druga",National Geographic Wild
-http://109.233.89.166/National_Geograph ... index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Nick Jr" tvg-logo="" group-title="lista druga",Nick Jr
-http://178.219.128.68:64888/NICKJR
-#EXTINF:-1 tvg-id="ext" tvg-name="Nickelodeon" tvg-logo="" group-title="lista druga",Nickelodeon
-http://109.233.89.166/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NOWA TV" tvg-logo="" group-title="lista druga",NOWA TV
-http://178.219.128.68:64889/NOWATVHD
-#EXTINF:-1 tvg-id="ext" tvg-name="Paramount Channel" tvg-logo="" group-title="lista druga",Paramount Channel
-http://109.233.89.166/Paramount_Channel_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="POLO" tvg-logo="" group-title="lista druga",POLO
-http://178.219.128.68:64888/POLOTV
-#EXTINF:-1 tvg-id="ext" tvg-name="Polo TV" tvg-logo="" group-title="lista druga",Polo TV
-http://109.233.89.166/Polo_TV/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Polonia 1" tvg-logo="" group-title="lista druga",Polonia 1
-http://109.233.89.166/Polonia_1/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Polsat" tvg-logo="" group-title="lista druga",Polsat
-http://109.233.89.166/Polsat_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Polsat 2" tvg-logo="" group-title="lista druga",Polsat 2
-http://109.233.89.166/Polsat_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Polsat Doku" tvg-logo="" group-title="lista druga",Polsat Doku
-http://109.233.89.166/Polsat_Doku_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Polsat Film" tvg-logo="" group-title="lista druga",Polsat Film
-http://109.233.89.166/Polsat_Film_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Polsat JimJam" tvg-logo="" group-title="lista druga",Polsat JimJam
-http://109.233.89.166/Polsat_JimJam/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Polsat News" tvg-logo="" group-title="lista druga",Polsat News
-http://109.233.89.166/Polsat_News_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Polsat News 2" tvg-logo="" group-title="lista druga",Polsat News 2
-http://109.233.89.166/Polsat_News_2/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Polsat News Polityka" tvg-logo="" group-title="lista druga",Polsat News Polityka
-http://109.233.89.166/Polsat_News_Polityka/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Polsat Play" tvg-logo="" group-title="lista druga",Polsat Play
-http://109.233.89.166/Polsat_Play_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Polsat Seriale" tvg-logo="" group-title="lista druga",Polsat Seriale
-http://109.233.89.166/Polsat_Seriale_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Polsat Sport 1" tvg-logo="" group-title="lista druga",Polsat Sport 1
-http://178.219.128.68:64889/POLSSPORHD
-#EXTINF:-1 tvg-id="ext" tvg-name="Polsat Sport 3" tvg-logo="" group-title="lista druga",Polsat Sport 3
-http://178.219.128.68:64889/POLSSPORNEWSHD
-#EXTINF:-1 tvg-id="ext" tvg-name="PULS 2" tvg-logo="" group-title="lista druga",PULS 2
-http://178.219.128.68:64889/PULS2HD
-#EXTINF:-1 tvg-id="ext" tvg-name="Romance TV" tvg-logo="" group-title="lista druga",Romance TV
-http://109.233.89.166/Romance_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SciFi" tvg-logo="" group-title="lista druga",SciFi
-http://109.233.89.166/SciFi_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Stoklatka" tvg-logo="" group-title="lista druga",Stoklatka
-http://109.233.89.166/Stopklatka_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Super Polsat" tvg-logo="" group-title="lista druga",Super Polsat
-http://109.233.89.166/Super_Polsat_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TeenNick" tvg-logo="" group-title="lista druga",TeenNick
-http://109.233.89.166/TeenNick/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Tele 5" tvg-logo="" group-title="lista druga",Tele 5
-http://109.233.89.166/Tele_5_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="" group-title="lista druga",TLC
-http://178.219.128.68:64888/TLCHD
-#EXTINF:-1 tvg-id="ext" tvg-name="Warner TV" tvg-logo="" group-title="lista druga",Warner TV
-http://178.219.128.68:64888/TNTHD
-#EXTINF:-1 tvg-id="ext" tvg-name="Travel Channel" tvg-logo="" group-title="lista druga",Travel Channel
-http://109.233.89.166/Travel_Channel_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TTV" tvg-logo="" group-title="lista druga",TTV
-http://178.219.128.68:64889/TTVHD
-#EXTINF:-1 tvg-id="ext" tvg-name="TV 4" tvg-logo="" group-title="lista druga",TV 4
-http://109.233.89.166/TV4_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TV 6" tvg-logo="" group-title="lista druga",TV 6
-http://109.233.89.166/TV6_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TV Puls" tvg-logo="" group-title="lista druga",TV Puls
-http://178.219.128.68:64889/TVPULSHD
-#EXTINF:-1 tvg-id="ext" tvg-name="TVN 24" tvg-logo="" group-title="lista druga",TVN 24
-http://109.233.89.166/TVN_24_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVN FABULA" tvg-logo="" group-title="lista druga",TVN FABULA
-http://178.219.128.68:64889/TVNFABUHD
-#EXTINF:-1 tvg-id="ext" tvg-name="TVN Fabuła" tvg-logo="" group-title="lista druga",TVN Fabuła
-http://109.233.89.166/TVN_Fabula_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVN Style" tvg-logo="" group-title="lista druga",TVN Style
-http://109.233.89.166/TVN_Style_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVN Turbo" tvg-logo="" group-title="lista druga",TVN Turbo
-http://109.233.89.166/TVN_Turbo_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVP Dokument" tvg-logo="" group-title="lista druga",TVP Dokument
-http://109.233.89.166/TVP_Dokument_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVP Info" tvg-logo="" group-title="lista druga",TVP Info
-http://109.233.89.166/TVP_INFO_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVP Nauka" tvg-logo="" group-title="lista druga",TVP Nauka
-http://109.233.89.166/TVP_Nauka/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVP Polonia" tvg-logo="" group-title="lista druga",TVP Polonia
-http://109.233.89.166/TVP_Polonia_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVP Rozrywka" tvg-logo="" group-title="lista druga",TVP Rozrywka
-http://109.233.89.166/TVP_Rozrywka/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVP Seriale" tvg-logo="" group-title="lista druga",TVP Seriale
-http://109.233.89.166/TVP_Seriale/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVP Sport" tvg-logo="" group-title="lista druga",TVP Sport
-http://109.233.89.166/TVP_Sport_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVS" tvg-logo="" group-title="lista druga",TVS
-http://178.219.128.68:64888/TVS
-#EXTINF:-1 tvg-id="ext" tvg-name="VH1" tvg-logo="" group-title="lista druga",VH1
-http://109.233.89.166/VH1/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="VOX" tvg-logo="" group-title="lista druga",VOX
-http://109.233.89.166/VOX/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Warner TV" tvg-logo="" group-title="lista druga",Warner TV
-http://109.233.89.166/TNT_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="World Fashion Channel" tvg-logo="" group-title="lista druga",World Fashion Channel
-http://109.233.89.166/World_Fashion_Channel/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="WP" tvg-logo="" group-title="lista druga",WP
-http://109.233.89.166/WP_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Zoom TV" tvg-logo="" group-title="lista druga",Zoom TV
-http://109.233.89.166/Zoom_TV_HD/index.m3u8
-
-
-
+#EXTINF:0 id="48_494" group-title="Popularne" timeshift="3" tvg-id="TVPHD.pl" tvg-name="TVP HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4034.png",TVP HD
+https://my.teleelevidenie.com/play/hls-custom-c494-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_468" group-title="Popularne" timeshift="3" tvg-id="TVP1.pl" tvg-name="TVP 1 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4019.png",TVP 1 HD
+https://my.teleelevidenie.com/play/hls-custom-c468-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_420" group-title="Popularne" timeshift="3" tvg-id="TVP2.pl" tvg-name="TVP 2 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4020.png",TVP 2 HD
+https://my.teleelevidenie.com/play/hls-custom-c420-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1799" group-title="Popularne" timeshift="3" tvg-id="TVP3.pl" tvg-name="TVP 3 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4171.png",TVP 3 HD
+https://my.teleelevidenie.com/play/hls-custom-c1799-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_433" group-title="Popularne" timeshift="3" tvg-id="TVP3Warszawa.pl" tvg-name="TVP 3" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Warszawa.png",TVP 3
+https://my.teleelevidenie.com/play/hls-custom-c433-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1797" group-title="Popularne" timeshift="3" tvg-id="TVPKobieta.pl" tvg-name="TVP Kobieta" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP_Kobieta.png",TVP Kobieta
+https://my.teleelevidenie.com/play/hls-custom-c1797-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1953" group-title="Popularne" timeshift="3" tvg-id="tvp_parlament" tvg-name="TVP Parlament" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvp_parlament.svg",TVP Parlament
+https://my.teleelevidenie.com/play/hls-custom-c1953-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1704" group-title="Popularne" timeshift="3" tvg-id="PL_TVP_WORLD" tvg-name="TVP World" tvg-logo="http://my.teleelevidenie.com/assets/logo/logotypy_1920k_tvpworld.svg",TVP World
+https://my.teleelevidenie.com/play/hls-custom-c1704-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1819" group-title="Popularne" timeshift="3" tvg-id="PL_TVP_WORLD_HD" tvg-name="TVP World HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/logotypy_1920k_tvpworld.svg",TVP World HD
+https://my.teleelevidenie.com/play/hls-custom-c1819-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1707" group-title="Popularne" tvg-id="TVP3Białystok.pl" tvg-name="TVP 3 Białystok" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Białystok.png",TVP 3 Białystok
+https://my.teleelevidenie.com/play/hls-custom-c1707-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1713" group-title="Popularne" tvg-id="TVP3Bydgoszcz.pl" tvg-name="TVP 3 Bydgoszcz" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Bydgoszcz.png",TVP 3 Bydgoszcz
+https://my.teleelevidenie.com/play/hls-custom-c1713-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1767" group-title="Popularne" tvg-id="TVP3Gdańsk.pl " tvg-name="TVP 3 Gdańsk" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Gdańsk.png",TVP 3 Gdańsk
+https://my.teleelevidenie.com/play/hls-custom-c1767-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1784" group-title="Popularne" tvg-id="TVP3GorzówWielkopolski.pl" tvg-name="TVP 3 Gorzów" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Gorzow+Wielkopolski.png",TVP 3 Gorzów
+https://my.teleelevidenie.com/play/hls-custom-c1784-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1768" group-title="Popularne" tvg-id="TVP3Katowice.pl" tvg-name="TVP 3 Katowice" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Katowice.png",TVP 3 Katowice
+https://my.teleelevidenie.com/play/hls-custom-c1768-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1699" group-title="Popularne" tvg-id="TVP3Kraków.pl" tvg-name="TVP 3 Kraków" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Kraków.png",TVP 3 Kraków
+https://my.teleelevidenie.com/play/hls-custom-c1699-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1705" group-title="Popularne" tvg-id="TVP3Kielce.pl" tvg-name="TVP 3 Kielce" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Kielce.png",TVP 3 Kielce
+https://my.teleelevidenie.com/play/hls-custom-c1705-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1602" group-title="Popularne" tvg-id="TVP3Łódź.pl" tvg-name="TVP 3 Łódź" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Łódź.png",TVP 3 Łódź
+https://my.teleelevidenie.com/play/hls-custom-c1602-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1673" group-title="Popularne" tvg-id="TVP3Lublin.pl" tvg-name="TVP 3 Lublin" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Lublin.png",TVP 3 Lublin
+https://my.teleelevidenie.com/play/hls-custom-c1673-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1700" group-title="Popularne" tvg-id="TVP3Olsztyn.pl" tvg-name="TVP 3 Olsztyn" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Olsztyn.png",TVP 3 Olsztyn
+https://my.teleelevidenie.com/play/hls-custom-c1700-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1717" group-title="Popularne" tvg-id="TVP3Opole.pl" tvg-name="TVP 3 Opole" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Opole.png",TVP 3 Opole
+https://my.teleelevidenie.com/play/hls-custom-c1717-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1780" group-title="Popularne" tvg-id="TVP3Poznań.pl" tvg-name="TVP 3 Poznań" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Poznań.png",TVP 3 Poznań
+https://my.teleelevidenie.com/play/hls-custom-c1780-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1698" group-title="Popularne" tvg-id="TVP3Rzeszów.pl" tvg-name="TVP 3 Rzeszow" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Rzeszow.png",TVP 3 Rzeszow
+https://my.teleelevidenie.com/play/hls-custom-c1698-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1783" group-title="Popularne" tvg-id="TVP3Szczecin.pl" tvg-name="TVP 3 Szczecin" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Szczecin.png",TVP 3 Szczecin
+https://my.teleelevidenie.com/play/hls-custom-c1783-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1781" group-title="Popularne" tvg-id="TVP3Wrocław.pl" tvg-name="TVP 3 Wroclaw" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP+3+Wrocław.png",TVP 3 Wroclaw
+https://my.teleelevidenie.com/play/hls-custom-c1781-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_547" group-title="Popularne" tvg-id="Polonia1.pl" tvg-name="Polonia 1" tvg-logo="http://my.teleelevidenie.com/assets/logo/3948.png",Polonia 1
+https://my.teleelevidenie.com/play/hls-custom-c547-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1838" group-title="Popularne" tvg-id="Polonia1.pl" tvg-name="Polonia 1 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3948.png",Polonia 1 HD
+https://my.teleelevidenie.com/play/hls-custom-c1838-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1824" group-title="Popularne" tvg-id="AlfaTVP.pl" tvg-name="Alfa TVP HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/alfatvp.jpg",Alfa TVP HD
+https://my.teleelevidenie.com/play/hls-custom-c1824-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1810" group-title="Popularne" timeshift="3" tvg-id="PL_TVP_NAUKA_HD" tvg-name="TVP Nauka HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVPnauka.png",TVP Nauka HD
+https://my.teleelevidenie.com/play/hls-custom-c1810-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_504" group-title="Popularne" timeshift="3" tvg-id="TVPolonia.pl" tvg-name="TVP Polonia" tvg-logo="http://my.teleelevidenie.com/assets/logo/3895.png",TVP Polonia
+https://my.teleelevidenie.com/play/hls-custom-c504-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_371" group-title="Popularne" timeshift="3" tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale" tvg-logo="http://my.teleelevidenie.com/assets/logo/3897.png",TVP Seriale
+https://my.teleelevidenie.com/play/hls-custom-c371-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_503" group-title="Popularne" timeshift="3" tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka" tvg-logo="http://my.teleelevidenie.com/assets/logo/3896.png",TVP Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c503-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1798" group-title="Popularne" timeshift="3" tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3896.png",TVP Rozrywka HD
+https://my.teleelevidenie.com/play/hls-custom-c1798-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_515" group-title="Popularne" timeshift="3" tvg-id="TVPKultura.pl" tvg-name="TVP Kultura HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3894.png",TVP Kultura HD
+https://my.teleelevidenie.com/play/hls-custom-c515-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1880" group-title="Popularne" timeshift="3" tvg-id="TVPKultura2.pl" tvg-name="TVP Kultura 2 HD " tvg-logo="http://my.teleelevidenie.com/assets/logo/TVP_Kultura_2_2020.png",TVP Kultura 2 HD 
+https://my.teleelevidenie.com/play/hls-custom-c1880-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1381" group-title="Popularne" timeshift="3" tvg-id="TVPWilno.pl" tvg-name="TVP Wilno HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvp_wilno.png",TVP Wilno HD
+https://my.teleelevidenie.com/play/hls-custom-c1381-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1836" group-title="Popularne" timeshift="3" tvg-id="iTVN.pl" tvg-name="iTVN HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/ITVN_logo.jpg",iTVN HD
+https://my.teleelevidenie.com/play/hls-custom-c1836-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1837" group-title="Popularne" timeshift="3" tvg-id="iTVNExtra.pl" tvg-name="iTVN Extra HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/itvn-extra-logo-vector.png",iTVN Extra HD
+https://my.teleelevidenie.com/play/hls-custom-c1837-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_414" group-title="Popularne" timeshift="3" tvg-id="TVN.pl" tvg-name="TVN HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4026.png",TVN HD
+https://my.teleelevidenie.com/play/hls-custom-c414-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_386" group-title="Popularne" timeshift="3" tvg-id="TVN7.pl" tvg-name="TVN 7 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4025.png",TVN 7 HD
+https://my.teleelevidenie.com/play/hls-custom-c386-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_532" group-title="Popularne" timeshift="3" tvg-id="Polsat.pl" tvg-name="Polsat HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Polsat.png",Polsat HD
+https://my.teleelevidenie.com/play/hls-custom-c532-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_517" group-title="Popularne" timeshift="3" tvg-id="Polsat2.pl" tvg-name="Polsat 2 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Polsat+2.png",Polsat 2 HD
+https://my.teleelevidenie.com/play/hls-custom-c517-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_407" group-title="Popularne" timeshift="3" tvg-id="SuperPolsat.pl" tvg-name="Super Polsat HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Super+Polsat.png",Super Polsat HD
+https://my.teleelevidenie.com/play/hls-custom-c407-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_365" group-title="Popularne" timeshift="3" tvg-id="TVPuls.pl" tvg-name="TV Puls HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3884.png",TV Puls HD
+https://my.teleelevidenie.com/play/hls-custom-c365-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1671" group-title="Popularne" timeshift="3" tvg-id="TVPuls2.pl" tvg-name="TV Puls 2 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3960.png",TV Puls 2 HD
+https://my.teleelevidenie.com/play/hls-custom-c1671-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_529" group-title="Popularne" timeshift="3" tvg-id="TV4.pl" tvg-name="TV 4 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4022.png",TV 4 HD
+https://my.teleelevidenie.com/play/hls-custom-c529-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_350" group-title="Popularne" timeshift="3" tvg-id="TV6.pl" tvg-name="TV 6 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4024.png",TV 6 HD
+https://my.teleelevidenie.com/play/hls-custom-c350-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_548" group-title="Popularne" tvg-id="Tele5.pl" tvg-name="Tele 5" tvg-logo="http://my.teleelevidenie.com/assets/logo/3870.png",Tele 5
+https://my.teleelevidenie.com/play/hls-custom-c548-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1860" group-title="Popularne" tvg-id="Tele5.pl" tvg-name="Tele 5 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/2560px-Tele_5_HD_Logo_2021.svg.png",Tele 5 HD
+https://my.teleelevidenie.com/play/hls-custom-c1860-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_345" group-title="Popularne" timeshift="3" tvg-id="Metro.pl" tvg-name="Metro" tvg-logo="http://my.teleelevidenie.com/assets/logo/3827.png",Metro
+https://my.teleelevidenie.com/play/hls-custom-c345-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1796" group-title="Popularne" tvg-id="Metro.pl" tvg-name="Metro HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3827.png",Metro HD
+https://my.teleelevidenie.com/play/hls-custom-c1796-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_359" group-title="Popularne" timeshift="3" tvg-id="WP.pl" tvg-name="WP" tvg-logo="http://my.teleelevidenie.com/assets/logo/3909.png",WP
+https://my.teleelevidenie.com/play/hls-custom-c359-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1844" group-title="Popularne" timeshift="3" tvg-id="WP.pl" tvg-name="WP HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3909.png",WP HD
+https://my.teleelevidenie.com/play/hls-custom-c1844-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_533" group-title="Popularne" timeshift="3" tvg-id="NowaTV.pl" tvg-name="Nowa TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/3928.png",Nowa TV
+https://my.teleelevidenie.com/play/hls-custom-c533-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_444" group-title="Popularne" timeshift="3" tvg-id="ZoomTV.pl" tvg-name="Zoom TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/1636.png",Zoom TV
+https://my.teleelevidenie.com/play/hls-custom-c444-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1843" group-title="Popularne" timeshift="3" tvg-id="ZoomTV.pl" tvg-name="Zoom TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/1636.png",Zoom TV HD
+https://my.teleelevidenie.com/play/hls-custom-c1843-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_498" group-title="Popularne" tvg-id="TVC.pl" tvg-name="TVC" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVC.png",TVC
+https://my.teleelevidenie.com/play/hls-custom-c498-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1850" group-title="Popularne" tvg-id="TVC.pl" tvg-name="TVC HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVC_HD_PL.svg",TVC HD
+https://my.teleelevidenie.com/play/hls-custom-c1850-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_377" group-title="Popularne" tvg-id="TVS.pl" tvg-name="TVS" tvg-logo="http://my.teleelevidenie.com/assets/logo/3903.png",TVS
+https://my.teleelevidenie.com/play/hls-custom-c377-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1848" group-title="Popularne" tvg-id="TVT.pl" tvg-name="TVT" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvt.png",TVT
+https://my.teleelevidenie.com/play/hls-custom-c1848-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1859" group-title="Popularne" tvg-id="TVRegionalna.pl" tvg-name="TV Regio" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVRegio-655.png",TV Regio
+https://my.teleelevidenie.com/play/hls-custom-c1859-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_415" group-title="Rozrywka" timeshift="3" tvg-id="13Ulica.pl" tvg-name="13 Ulica HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4078.png",13 Ulica HD
+https://my.teleelevidenie.com/play/hls-custom-c415-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_375" group-title="Rozrywka" timeshift="3" tvg-id="Fox.pl" tvg-name="FX HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/1370.png",FX HD
+https://my.teleelevidenie.com/play/hls-custom-c375-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_436" group-title="Rozrywka" timeshift="3" tvg-id="FXComedy.pl" tvg-name="FX Comedy HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4056.png",FX Comedy HD
+https://my.teleelevidenie.com/play/hls-custom-c436-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_406" group-title="Rozrywka" timeshift="3" tvg-id="ComedyCentral.pl" tvg-name="Comedy Central HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4054.png",Comedy Central HD
+https://my.teleelevidenie.com/play/hls-custom-c406-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_353" group-title="Rozrywka" timeshift="3" tvg-id="ComedyCentralFamily.pl" tvg-name="Polsat Comedy Central Extra" tvg-logo="http://my.teleelevidenie.com/assets/logo/4055.png",Polsat Comedy Central Extra
+https://my.teleelevidenie.com/play/hls-custom-c353-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_507" group-title="Rozrywka" timeshift="3" tvg-id="AXN.pl" tvg-name="AXN HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4079.png",AXN HD
+https://my.teleelevidenie.com/play/hls-custom-c507-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_389" group-title="Rozrywka" tvg-id="AXN.pl" tvg-name="AXN" tvg-logo="http://my.teleelevidenie.com/assets/logo/3039.png",AXN
+https://my.teleelevidenie.com/play/hls-custom-c389-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_522" group-title="Rozrywka" timeshift="3" tvg-id="AXNSpinHD.pl" tvg-name="AXN Spin HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4081.png",AXN Spin HD
+https://my.teleelevidenie.com/play/hls-custom-c522-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_461" group-title="Rozrywka" timeshift="3" tvg-id="AXNBlack.pl" tvg-name="AXN Black" tvg-logo="http://my.teleelevidenie.com/assets/logo/4080.png",AXN Black
+https://my.teleelevidenie.com/play/hls-custom-c461-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_398" group-title="Rozrywka" timeshift="3" tvg-id="AXNWhite.pl" tvg-name="AXN White" tvg-logo="http://my.teleelevidenie.com/assets/logo/3732.png",AXN White
+https://my.teleelevidenie.com/play/hls-custom-c398-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_463" group-title="Rozrywka" timeshift="3" tvg-id="TTV.PL" tvg-name="TTV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4029.png",TTV HD
+https://my.teleelevidenie.com/play/hls-custom-c463-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_402" group-title="Rozrywka" timeshift="3" tvg-id="BBCFirst.pl" tvg-name="BBC First" tvg-logo="http://my.teleelevidenie.com/assets/logo/4052.png",BBC First
+https://my.teleelevidenie.com/play/hls-custom-c402-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_488" group-title="Rozrywka" timeshift="3" tvg-id="EPICDramaHD.pl" tvg-name="Epic Drama HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4094.png",Epic Drama HD
+https://my.teleelevidenie.com/play/hls-custom-c488-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_338" group-title="Rozrywka" timeshift="3" tvg-id="RomanceTV.pl" tvg-name="Romance TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/3040.png",Romance TV
+https://my.teleelevidenie.com/play/hls-custom-c338-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_546" group-title="Rozrywka" tvg-id="NovelaTV.pl" tvg-name="Novela TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/3929.png",Novela TV
+https://my.teleelevidenie.com/play/hls-custom-c546-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1847" group-title="Rozrywka" tvg-id="NovelaTV.pl" tvg-name="Novela TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3929.png",Novela TV HD
+https://my.teleelevidenie.com/play/hls-custom-c1847-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_477" group-title="Rozrywka" timeshift="3" tvg-id="HGTV.pl" tvg-name="HGTV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4031.png",HGTV HD
+https://my.teleelevidenie.com/play/hls-custom-c477-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_482" group-title="Rozrywka" timeshift="3" tvg-id="C+Domo.pl" tvg-name="Canal+ Domo HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4150.png",Canal+ Domo HD
+https://my.teleelevidenie.com/play/hls-custom-c482-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_514" group-title="Rozrywka" timeshift="3" tvg-id="KUCHNIA.TV.pl" tvg-name="Canal+ Kuchnia HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4149.png",Canal+ Kuchnia HD
+https://my.teleelevidenie.com/play/hls-custom-c514-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_457" group-title="Rozrywka" timeshift="3" tvg-id="TVNStyle.pl" tvg-name="TVN Style HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4136.png",TVN Style HD
+https://my.teleelevidenie.com/play/hls-custom-c457-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_378" group-title="Rozrywka" timeshift="3" tvg-id="PolsatRodzina.pl" tvg-name="Polsat Rodzina" tvg-logo="http://my.teleelevidenie.com/assets/logo/Polsat+Rodzina.png",Polsat Rodzina
+https://my.teleelevidenie.com/play/hls-custom-c378-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_381" group-title="Rozrywka" timeshift="3" tvg-id="PolsatCafe.pl" tvg-name="Polsat Cafe HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Polsat+Café.png",Polsat Cafe HD
+https://my.teleelevidenie.com/play/hls-custom-c381-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1004" group-title="Rozrywka" timeshift="3" tvg-id="PolsatSeriale.pl" tvg-name="Polsat Seriale HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/PolsatSeriale_new.png",Polsat Seriale HD
+https://my.teleelevidenie.com/play/hls-custom-c1004-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_445" group-title="Rozrywka" timeshift="3" tvg-id="PolsatPlay.pl" tvg-name="Polsat Play HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4114.png",Polsat Play HD
+https://my.teleelevidenie.com/play/hls-custom-c445-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_426" group-title="Rozrywka" timeshift="3" tvg-id="PolsatFood.pl" tvg-name="Food Network HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/2140.png",Food Network HD
+https://my.teleelevidenie.com/play/hls-custom-c426-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_549" group-title="Rozrywka" timeshift="3" tvg-id="WaterPlanet.pl" tvg-name="Water Planet" tvg-logo="http://my.teleelevidenie.com/assets/logo/3907.png",Water Planet
+https://my.teleelevidenie.com/play/hls-custom-c549-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1851" group-title="Rozrywka" tvg-id="WaterPlanet.pl" tvg-name="Water Planet HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/WaterPlanet_HD_logo_1.jpg",Water Planet HD
+https://my.teleelevidenie.com/play/hls-custom-c1851-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_440" group-title="Rozrywka" timeshift="3" tvg-id="Travel.pl" tvg-name="Travel Channel HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3614.png",Travel Channel HD
+https://my.teleelevidenie.com/play/hls-custom-c440-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_408" group-title="Rozrywka" tvg-id="Adventure.pl" tvg-name="Adventure HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4130.png",Adventure HD
+https://my.teleelevidenie.com/play/hls-custom-c408-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_495" group-title="Rozrywka" timeshift="3" tvg-id="TLC.pl" tvg-name="TLC HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4143.png",TLC HD
+https://my.teleelevidenie.com/play/hls-custom-c495-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_519" group-title="Rozrywka" timeshift="3" tvg-id="E!.pl" tvg-name="E! Entertainment" tvg-logo="http://my.teleelevidenie.com/assets/logo/1020.png",E! Entertainment
+https://my.teleelevidenie.com/play/hls-custom-c519-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_354" group-title="Rozrywka" tvg-id="ActiveFamily.pl" tvg-name="Active Family" tvg-logo="http://my.teleelevidenie.com/assets/logo/4128.png",Active Family
+https://my.teleelevidenie.com/play/hls-custom-c354-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_537" group-title="Rozrywka" tvg-id="RedCarpetTV.pl" tvg-name="Red Carpet TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/4139.png",Red Carpet TV
+https://my.teleelevidenie.com/play/hls-custom-c537-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_454" group-title="Film" timeshift="3" tvg-id="AMC.pl" tvg-name="AMC" tvg-logo="http://my.teleelevidenie.com/assets/logo/3003.png",AMC
+https://my.teleelevidenie.com/play/hls-custom-c454-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_393" group-title="Film" timeshift="3" tvg-id="WarnerTV.pl" tvg-name="Warner TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/560px-Warner_Channel_HD.svg.png",Warner TV HD
+https://my.teleelevidenie.com/play/hls-custom-c393-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_518" group-title="Film" timeshift="3" tvg-id="Paramount.pl" tvg-name="Paramount Network HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4071.png",Paramount Network HD
+https://my.teleelevidenie.com/play/hls-custom-c518-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_401" group-title="Film" timeshift="3" tvg-id="AleKino.pl" tvg-name="Ale kino+ HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4074.png",Ale kino+ HD
+https://my.teleelevidenie.com/play/hls-custom-c401-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_431" group-title="Film" timeshift="3" tvg-id="CanalPlusPremium.pl" tvg-name="Canal+ Premium HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/canalpluspremium.png",Canal+ Premium HD
+https://my.teleelevidenie.com/play/hls-custom-c431-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_527" group-title="Film" tvg-id="CanalplusFamily2.pl" tvg-name="Canal+ 1 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4057.png",Canal+ 1 HD
+https://my.teleelevidenie.com/play/hls-custom-c527-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_516" group-title="Film" timeshift="3" tvg-id="CanalplusFilm.pl" tvg-name="Canal+ Film HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4059.png",Canal+ Film HD
+https://my.teleelevidenie.com/play/hls-custom-c516-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_496" group-title="Film" timeshift="3" tvg-id="Canal+360.pl" tvg-name="Canal+ 360 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Canal_360_2024.png",Canal+ 360 HD
+https://my.teleelevidenie.com/play/hls-custom-c496-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_464" group-title="Film" timeshift="3" tvg-id="CanalPlusSeriale.pl" tvg-name="Canal+ Seriale HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4061.png",Canal+ Seriale HD
+https://my.teleelevidenie.com/play/hls-custom-c464-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_666" group-title="Film" timeshift="3" tvg-id="Canalplus4K.pl" tvg-name="CANAL+ 4K Ultra HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4062.png",CANAL+ 4K Ultra HD
+https://my.teleelevidenie.com/play/hls-custom-c666-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1365" group-title="Rozrywka" timeshift="3" tvg-id="Novelas+.pl" tvg-name="Novelas+ HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/NovelasHD.png",Novelas+ HD
+https://my.teleelevidenie.com/play/hls-custom-c1365-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_100" group-title="Rozrywka" timeshift="3" tvg-id="PL_GAMETOON_HD" tvg-name="Gametoon HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/gametoon.png",Gametoon HD
+https://my.teleelevidenie.com/play/hls-custom-c100-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_487" group-title="Film" timeshift="3" tvg-id="HBO.pl" tvg-name="HBO HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4063.png",HBO HD
+https://my.teleelevidenie.com/play/hls-custom-c487-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_438" group-title="Film" timeshift="3" tvg-id="HBO2.pl" tvg-name="HBO 2 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4064.png",HBO 2 HD
+https://my.teleelevidenie.com/play/hls-custom-c438-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_379" group-title="Film" timeshift="3" tvg-id="HBO3.pl" tvg-name="HBO 3 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4065.png",HBO 3 HD
+https://my.teleelevidenie.com/play/hls-custom-c379-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_356" group-title="Film" timeshift="3" tvg-id="CinemaxHD.pl" tvg-name="Cinemax HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3757.png",Cinemax HD
+https://my.teleelevidenie.com/play/hls-custom-c356-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_439" group-title="Film" timeshift="3" tvg-id="Cinemax2.pl" tvg-name="Cinemax 2 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4067.png",Cinemax 2 HD
+https://my.teleelevidenie.com/play/hls-custom-c439-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_421" group-title="Film" timeshift="3" tvg-id="PolsatFilm.pl" tvg-name="Polsat Film HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Polsat+Film.png",Polsat Film HD
+https://my.teleelevidenie.com/play/hls-custom-c421-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_341" group-title="Film" timeshift="3" tvg-id="TVNFabula.pl" tvg-name="TVN Fabula HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4069.png",TVN Fabula HD
+https://my.teleelevidenie.com/play/hls-custom-c341-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_510" group-title="Film" timeshift="3" tvg-id="StopklatkaTV.pl" tvg-name="Stopklatka TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/3659.png",Stopklatka TV
+https://my.teleelevidenie.com/play/hls-custom-c510-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1839" group-title="Film" timeshift="3" tvg-id="StopklatkaTV.pl" tvg-name="Stopklatka TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/stopklatkahd.png",Stopklatka TV HD
+https://my.teleelevidenie.com/play/hls-custom-c1839-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_486" group-title="Film" timeshift="3" tvg-id="KinoPolska.pl" tvg-name="Kino Polska HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4070.png",Kino Polska HD
+https://my.teleelevidenie.com/play/hls-custom-c486-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_475" group-title="Film" timeshift="3" tvg-id="KinoTV.pl" tvg-name="Kino TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4085.png",Kino TV HD
+https://my.teleelevidenie.com/play/hls-custom-c475-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1840" group-title="Film" tvg-id="BollywoodHD.pl" tvg-name="Bollywood HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/BollywoodHD_logo.png",Bollywood HD
+https://my.teleelevidenie.com/play/hls-custom-c1840-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1833" group-title="Film" tvg-id="Dizi.pl" tvg-name="Toja TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/dizi.png",Toja TV
+https://my.teleelevidenie.com/play/hls-custom-c1833-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1834" group-title="Film" tvg-id="PL_KAPITAN_BOMBA" tvg-name="Kapitan Bomba" tvg-logo="http://my.teleelevidenie.com/assets/logo/kapitan_bomba.png",Kapitan Bomba
+https://my.teleelevidenie.com/play/hls-custom-c1834-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1835" group-title="Film" tvg-id="PL_PORUCZNIK_KABURA" tvg-name="Porucznik Kabura" tvg-logo="http://my.teleelevidenie.com/assets/logo/porucznik_kabura.png",Porucznik Kabura
+https://my.teleelevidenie.com/play/hls-custom-c1835-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1849" group-title="Film" timeshift="3" tvg-id="Filmax.pl" tvg-name="Filmax HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Filmax_red.png",Filmax HD
+https://my.teleelevidenie.com/play/hls-custom-c1849-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_443" group-title="Film" timeshift="3" tvg-id="FilmboxPremium.pl" tvg-name="Filmbox Premium HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4090.png",Filmbox Premium HD
+https://my.teleelevidenie.com/play/hls-custom-c443-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_425" group-title="Film" timeshift="3" tvg-id="FilmboxExtra.pl" tvg-name="Filmbox Extra HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4088.png",Filmbox Extra HD
+https://my.teleelevidenie.com/play/hls-custom-c425-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_418" group-title="Film" timeshift="3" tvg-id="FilmboxAction.pl" tvg-name="Filmbox Action" tvg-logo="http://my.teleelevidenie.com/assets/logo/3781.png",Filmbox Action
+https://my.teleelevidenie.com/play/hls-custom-c418-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_459" group-title="Film" timeshift="3" tvg-id="FilmboxFamily.pl" tvg-name="Filmbox Family" tvg-logo="http://my.teleelevidenie.com/assets/logo/3783.png",Filmbox Family
+https://my.teleelevidenie.com/play/hls-custom-c459-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_497" group-title="Film" timeshift="3" tvg-id="FilmboxArthouse.pl" tvg-name="Filmbox ArtHouse" tvg-logo="http://my.teleelevidenie.com/assets/logo/3780.png",Filmbox ArtHouse
+https://my.teleelevidenie.com/play/hls-custom-c497-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1862" group-title="Film" tvg-id="FilmboxArthouse.pl" tvg-name="Filmbox ArtHouse HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/FilmBox_Arthouse_HD.svg",Filmbox ArtHouse HD
+https://my.teleelevidenie.com/play/hls-custom-c1862-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_451" group-title="Film" timeshift="3" tvg-id="SundanceChannel.pl" tvg-name="Sundance TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4076.png",Sundance TV HD
+https://my.teleelevidenie.com/play/hls-custom-c451-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_530" group-title="Film" timeshift="3" tvg-id="CBSEuropa.pl" tvg-name="CBS Europe HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4084.png",CBS Europe HD
+https://my.teleelevidenie.com/play/hls-custom-c530-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_392" group-title="Film" timeshift="3" tvg-id="SciFi.pl" tvg-name="SciFi HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4077.png",SciFi HD
+https://my.teleelevidenie.com/play/hls-custom-c392-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_974" group-title="Film" tvg-id="PL_VOD202" tvg-name="Polsat VOD 202" tvg-logo="http://my.teleelevidenie.com/assets/logo/VOD202.png",Polsat VOD 202
+https://my.teleelevidenie.com/play/hls-custom-c974-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_975" group-title="Film" tvg-id="PL_VOD203" tvg-name="Polsat VOD 203" tvg-logo="http://my.teleelevidenie.com/assets/logo/VOD203.png",Polsat VOD 203
+https://my.teleelevidenie.com/play/hls-custom-c975-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_976" group-title="Film" tvg-id="PL_VOD204" tvg-name="Polsat VOD 204" tvg-logo="http://my.teleelevidenie.com/assets/logo/VOD204.png",Polsat VOD 204
+https://my.teleelevidenie.com/play/hls-custom-c976-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_364" group-title="Film" tvg-id="PL_VOD205" tvg-name="Polsat VOD 205" tvg-logo="http://my.teleelevidenie.com/assets/logo/4098.png",Polsat VOD 205
+https://my.teleelevidenie.com/play/hls-custom-c364-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_383" group-title="Film" tvg-id="PL_VOD206" tvg-name="Polsat VOD 206" tvg-logo="http://my.teleelevidenie.com/assets/logo/4099.png",Polsat VOD 206
+https://my.teleelevidenie.com/play/hls-custom-c383-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_491" group-title="Film" tvg-id="PL_VOD207" tvg-name="Polsat VOD 207 " tvg-logo="http://my.teleelevidenie.com/assets/logo/4100.png",Polsat VOD 207 
+https://my.teleelevidenie.com/play/hls-custom-c491-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_390" group-title="Film" tvg-id="PL_VOD208" tvg-name="Polsat VOD 208" tvg-logo="http://my.teleelevidenie.com/assets/logo/4101.png",Polsat VOD 208
+https://my.teleelevidenie.com/play/hls-custom-c390-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_430" group-title="Dokument" timeshift="3" tvg-id="BBCBrit.pl" tvg-name="BBC Brit HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4109.png",BBC Brit HD
+https://my.teleelevidenie.com/play/hls-custom-c430-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_346" group-title="Dokument" timeshift="3" tvg-id="BBCEarth.pl" tvg-name="BBC Earth HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4110.png",BBC Earth HD
+https://my.teleelevidenie.com/play/hls-custom-c346-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_541" group-title="Dokument" timeshift="3" tvg-id="PLANETE.pl" tvg-name="Planete+ HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4113.png",Planete+ HD
+https://my.teleelevidenie.com/play/hls-custom-c541-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_474" group-title="Dokument" timeshift="3" tvg-id="History.pl" tvg-name="History HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/1770.png",History HD
+https://my.teleelevidenie.com/play/hls-custom-c474-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_400" group-title="Dokument" timeshift="3" tvg-id="H2.pl" tvg-name="H2 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4103.png",H2 HD
+https://my.teleelevidenie.com/play/hls-custom-c400-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_458" group-title="Dokument" timeshift="3" tvg-id="C+Dokument.pl" tvg-name="Canal+ Dokument HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4116.png",Canal+ Dokument HD
+https://my.teleelevidenie.com/play/hls-custom-c458-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_342" group-title="Dokument" timeshift="3" tvg-id="Discovery.pl" tvg-name="Discovery Channel HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4105.png",Discovery Channel HD
+https://my.teleelevidenie.com/play/hls-custom-c342-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_531" group-title="Dokument" timeshift="3" tvg-id="DiscoveryScience.pl" tvg-name="Discovery Science HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4106.png",Discovery Science HD
+https://my.teleelevidenie.com/play/hls-custom-c531-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_349" group-title="Dokument" timeshift="3" tvg-id="DiscoveryLife.pl" tvg-name="Discovery Life HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4131.png",Discovery Life HD
+https://my.teleelevidenie.com/play/hls-custom-c349-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_455" group-title="Dokument" timeshift="3" tvg-id="DiscoveryHistoria.pl" tvg-name="Discovery Historia" tvg-logo="http://my.teleelevidenie.com/assets/logo/4107.png",Discovery Historia
+https://my.teleelevidenie.com/play/hls-custom-c455-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1874" group-title="Dokument" timeshift="3" tvg-id="DiscoveryHistoria.pl" tvg-name="Discovery Historia HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4107.png",Discovery Historia HD
+https://my.teleelevidenie.com/play/hls-custom-c1874-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_382" group-title="Dokument" timeshift="3" tvg-id="DiscoveryTurboXtra.pl" tvg-name="DTX HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4108.png",DTX HD
+https://my.teleelevidenie.com/play/hls-custom-c382-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_508" group-title="Dokument" timeshift="3" tvg-id="InvestigationDiscovery.pl" tvg-name="ID HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4119.png",ID HD
+https://my.teleelevidenie.com/play/hls-custom-c508-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_360" group-title="Dokument" timeshift="3" tvg-id="NationalGeographic.pl" tvg-name="National Geographic HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4121.png",National Geographic HD
+https://my.teleelevidenie.com/play/hls-custom-c360-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_449" group-title="Dokument" timeshift="3" tvg-id="NatGeoWildHD.pl" tvg-name="Nat Geo Wild HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4123.png",Nat Geo Wild HD
+https://my.teleelevidenie.com/play/hls-custom-c449-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_485" group-title="Dokument" timeshift="3" tvg-id="NatGeoPeople.pl" tvg-name="Nat Geo People HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4122.png",Nat Geo People HD
+https://my.teleelevidenie.com/play/hls-custom-c485-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_428" group-title="Dokument" timeshift="3" tvg-id="ViasatExplorer.pl" tvg-name="Polsat Viasat Explore HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4124.png",Polsat Viasat Explore HD
+https://my.teleelevidenie.com/play/hls-custom-c428-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_492" group-title="Dokument" timeshift="3" tvg-id="ViasatHistory.pl" tvg-name="Polsat Viasat History HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4125.png",Polsat Viasat History HD
+https://my.teleelevidenie.com/play/hls-custom-c492-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_419" group-title="Dokument" timeshift="3" tvg-id="ViasatNature.pl" tvg-name="Polsat Viasat Nature HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4126.png",Polsat Viasat Nature HD
+https://my.teleelevidenie.com/play/hls-custom-c419-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2026" group-title="Dokument" tvg-id="PL_VIASAT_TRUE_CRIME" tvg-name="Viasat True Crime" tvg-logo="http://my.teleelevidenie.com/assets/logo/viasat_true_crime.png",Viasat True Crime
+https://my.teleelevidenie.com/play/hls-custom-c2026-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_476" group-title="Dokument" timeshift="3" tvg-id="CrimeInvestigation.pl" tvg-name="CI Polsat HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4120.png",CI Polsat HD
+https://my.teleelevidenie.com/play/hls-custom-c476-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_397" group-title="Dokument" timeshift="3" tvg-id="PolsatDoku.pl" tvg-name="Polsat Doku HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4115.png",Polsat Doku HD
+https://my.teleelevidenie.com/play/hls-custom-c397-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_434" group-title="Dokument" timeshift="3" tvg-id="AnimalPlanetHD.pl" tvg-name="Animal Planet HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/1184.png",Animal Planet HD
+https://my.teleelevidenie.com/play/hls-custom-c434-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_395" group-title="Dokument" tvg-id="DaVinciLearning.pl" tvg-name="Da Vinci Learning" tvg-logo="http://my.teleelevidenie.com/assets/logo/1287.png",Da Vinci Learning
+https://my.teleelevidenie.com/play/hls-custom-c395-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1855" group-title="Dokument" tvg-id="DaVinciLearning.pl" tvg-name="Da Vinci Learning HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/1287.png",Da Vinci Learning HD
+https://my.teleelevidenie.com/play/hls-custom-c1855-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1854" group-title="Popularne" tvg-id="2x2HD.pl" tvg-name="2x2 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/2x2.jpg",2x2 HD
+https://my.teleelevidenie.com/play/hls-custom-c1854-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_344" group-title="Dokument" timeshift="3" tvg-id="CBSReality.pl" tvg-name="CBS Reality" tvg-logo="http://my.teleelevidenie.com/assets/logo/1028.png",CBS Reality
+https://my.teleelevidenie.com/play/hls-custom-c344-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_448" group-title="Dokument" timeshift="3" tvg-id="BBCLifestyle.pl" tvg-name="BBC Lifestyle HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4132.png",BBC Lifestyle HD
+https://my.teleelevidenie.com/play/hls-custom-c448-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_380" group-title="Dokument" timeshift="3" tvg-id="FokusTV.pl" tvg-name="Fokus TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/3786.png",Fokus TV
+https://my.teleelevidenie.com/play/hls-custom-c380-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_523" group-title="Dokument" timeshift="3" tvg-id="TVPHistoria.pl" tvg-name="TVP Historia" tvg-logo="http://my.teleelevidenie.com/assets/logo/3893.png",TVP Historia
+https://my.teleelevidenie.com/play/hls-custom-c523-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1958" group-title="Dokument" tvg-id="TVPHistoria.pl" tvg-name="TVP Historia HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3893.png",TVP Historia HD
+https://my.teleelevidenie.com/play/hls-custom-c1958-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1793" group-title="Dokument" tvg-id="TVPHistoria2.pl" tvg-name="TVP Historia 2" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvp_historia2.jpg",TVP Historia 2
+https://my.teleelevidenie.com/play/hls-custom-c1793-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1294" group-title="Dokument" timeshift="3" tvg-id="TVPDokument.pl" tvg-name="TVP Dokument HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVPDokument.png",TVP Dokument HD
+https://my.teleelevidenie.com/play/hls-custom-c1294-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_481" group-title="Sport" timeshift="3" tvg-id="Eurosport1.pl" tvg-name="Eurosport 1 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/2965.png",Eurosport 1 HD
+https://my.teleelevidenie.com/play/hls-custom-c481-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_372" group-title="Sport" timeshift="3" tvg-id="Eurosport2.pl" tvg-name="Eurosport 2 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/1747.png",Eurosport 2 HD
+https://my.teleelevidenie.com/play/hls-custom-c372-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2027" group-title="Sport" timeshift="3" tvg-id="Canal+Extra1.pl" tvg-name="Canal+ Extra 1 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/extra1.png",Canal+ Extra 1 HD
+https://my.teleelevidenie.com/play/hls-custom-c2027-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2028" group-title="Sport" timeshift="3" tvg-id="Canal+Extra2.pl" tvg-name="Canal+ Extra 2 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/extra2.png",Canal+ Extra 2 HD
+https://my.teleelevidenie.com/play/hls-custom-c2028-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2029" group-title="Sport" timeshift="3" tvg-id="Canal+Extra3.pl" tvg-name="Canal+ Extra 3 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/extra3.png",Canal+ Extra 3 HD
+https://my.teleelevidenie.com/play/hls-custom-c2029-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2030" group-title="Sport" timeshift="3" tvg-id="Canal+Extra4.pl" tvg-name="Canal+ Extra 4 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/extra4.png",Canal+ Extra 4 HD
+https://my.teleelevidenie.com/play/hls-custom-c2030-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2040" group-title="Sport" timeshift="3" tvg-id="PL_CANAL_SPORT_EXTRA5_HD" tvg-name="Canal+ Extra 5 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/extra5.png",Canal+ Extra 5 HD
+https://my.teleelevidenie.com/play/hls-custom-c2040-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2041" group-title="Sport" timeshift="3" tvg-id="PL_CANAL_SPORT_EXTRA6_HD" tvg-name="Canal+ Extra 6 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/extra6.png",Canal+ Extra 6 HD
+https://my.teleelevidenie.com/play/hls-custom-c2041-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2042" group-title="Sport" timeshift="3" tvg-id="PL_CANAL_SPORT_EXTRA7_HD" tvg-name="Canal+ Extra 7 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/extra7.png",Canal+ Extra 7 HD
+https://my.teleelevidenie.com/play/hls-custom-c2042-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1597" group-title="Sport" timeshift="3" tvg-id="ElevenSports1.pl" tvg-name="Eleven Sports 1 4K" tvg-logo="http://my.teleelevidenie.com/assets/logo/elevensports1_4k_1-632x221-1.png",Eleven Sports 1 4K
+https://my.teleelevidenie.com/play/hls-custom-c1597-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_343" group-title="Sport" timeshift="3" tvg-id="ElevenSports1.pl" tvg-name="Eleven Sports 1 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4248.png",Eleven Sports 1 HD
+https://my.teleelevidenie.com/play/hls-custom-c343-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_450" group-title="Sport" timeshift="3" tvg-id="ElevenSports2.pl" tvg-name="Eleven Sports 2 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4247.png",Eleven Sports 2 HD
+https://my.teleelevidenie.com/play/hls-custom-c450-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_502" group-title="Sport" timeshift="3" tvg-id="ElevenSports3.pl" tvg-name="Eleven Sports 3 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4246.png",Eleven Sports 3 HD
+https://my.teleelevidenie.com/play/hls-custom-c502-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_416" group-title="Sport" timeshift="3" tvg-id="ElevenSports4.pl" tvg-name="Eleven Sports 4 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4245.png",Eleven Sports 4 HD
+https://my.teleelevidenie.com/play/hls-custom-c416-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_376" group-title="Sport" timeshift="3" tvg-id="PolsatSport.pl" tvg-name="Polsat Sport 1 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4242.png",Polsat Sport 1 HD
+https://my.teleelevidenie.com/play/hls-custom-c376-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_490" group-title="Sport" timeshift="3" tvg-id="PolsatSportExtra.pl" tvg-name="Polsat Sport 2 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4241.png",Polsat Sport 2 HD
+https://my.teleelevidenie.com/play/hls-custom-c490-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_540" group-title="Sport" timeshift="3" tvg-id="PolsatSportNews.pl" tvg-name="Polsat Sport 3 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4240.png",Polsat Sport 3 HD
+https://my.teleelevidenie.com/play/hls-custom-c540-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_511" group-title="Sport" timeshift="3" tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4239.png",Polsat Sport Fight HD
+https://my.teleelevidenie.com/play/hls-custom-c511-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_452" group-title="Sport" timeshift="3" tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1" tvg-logo="http://my.teleelevidenie.com/assets/logo/4233.png",Polsat Sport Premium 1
+https://my.teleelevidenie.com/play/hls-custom-c452-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_417" group-title="Sport" timeshift="3" tvg-id="PolsatSportPremium2.pl" tvg-name="Polsat Sport Premium 2" tvg-logo="http://my.teleelevidenie.com/assets/logo/4232.png",Polsat Sport Premium 2
+https://my.teleelevidenie.com/play/hls-custom-c417-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_480" group-title="Sport" timeshift="3" tvg-id="PolsatSportPpv3.pl" tvg-name="Polsat Sport Premium 3" tvg-logo="http://my.teleelevidenie.com/assets/logo/4231.png",Polsat Sport Premium 3
+https://my.teleelevidenie.com/play/hls-custom-c480-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_337" group-title="Sport" timeshift="3" tvg-id="PolsatSportPpv4.pl" tvg-name="Polsat Sport Premium 4" tvg-logo="http://my.teleelevidenie.com/assets/logo/4230.png",Polsat Sport Premium 4
+https://my.teleelevidenie.com/play/hls-custom-c337-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_348" group-title="Sport" timeshift="3" tvg-id="PolsatSportPpv5.pl" tvg-name="Polsat Sport Premium 5" tvg-logo="http://my.teleelevidenie.com/assets/logo/4229.png",Polsat Sport Premium 5
+https://my.teleelevidenie.com/play/hls-custom-c348-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_352" group-title="Sport" timeshift="3" tvg-id="PolsatSportPpv6.pl" tvg-name="Polsat Sport Premium 6" tvg-logo="http://my.teleelevidenie.com/assets/logo/4228.png",Polsat Sport Premium 6
+https://my.teleelevidenie.com/play/hls-custom-c352-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1607" group-title="Sport" tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1 [HEVC/low]" tvg-logo="http://my.teleelevidenie.com/assets/logo/4233.png",Polsat Sport Premium 1 [HEVC/low]
+https://my.teleelevidenie.com/play/hls-custom-c1607-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1608" group-title="Sport" tvg-id="PolsatSportPremium2.pl" tvg-name="Polsat Sport Premium 2 [HEVC/low]" tvg-logo="http://my.teleelevidenie.com/assets/logo/4232.png",Polsat Sport Premium 2 [HEVC/low]
+https://my.teleelevidenie.com/play/hls-custom-c1608-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1609" group-title="Sport" tvg-id="PolsatSportPpv3.pl" tvg-name="Polsat Sport Premium 3 [HEVC/low]" tvg-logo="http://my.teleelevidenie.com/assets/logo/4231.png",Polsat Sport Premium 3 [HEVC/low]
+https://my.teleelevidenie.com/play/hls-custom-c1609-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1610" group-title="Sport" tvg-id="PolsatSportPpv4.pl" tvg-name="Polsat Sport Premium 4 [HEVC/low]" tvg-logo="http://my.teleelevidenie.com/assets/logo/4230.png",Polsat Sport Premium 4 [HEVC/low]
+https://my.teleelevidenie.com/play/hls-custom-c1610-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1611" group-title="Sport" tvg-id="PolsatSportPpv5.pl" tvg-name="Polsat Sport Premium 5 [HEVC/low]" tvg-logo="http://my.teleelevidenie.com/assets/logo/4229.png",Polsat Sport Premium 5 [HEVC/low]
+https://my.teleelevidenie.com/play/hls-custom-c1611-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1612" group-title="Sport" tvg-id="PolsatSportPpv6.pl" tvg-name="Polsat Sport Premium 6 [HEVC/low]" tvg-logo="http://my.teleelevidenie.com/assets/logo/4228.png",Polsat Sport Premium 6 [HEVC/low]
+https://my.teleelevidenie.com/play/hls-custom-c1612-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_483" group-title="Sport" timeshift="3" tvg-id="CanalplusSports.pl" tvg-name="Canal+ Sport HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4254.png",Canal+ Sport HD
+https://my.teleelevidenie.com/play/hls-custom-c483-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_469" group-title="Sport" timeshift="3" tvg-id="CanalplusSport2.pl" tvg-name="Canal+ Sport 2 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4253.png",Canal+ Sport 2 HD
+https://my.teleelevidenie.com/play/hls-custom-c469-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_841" group-title="Sport" timeshift="3" tvg-id="CanalPlusSport3.pl" tvg-name="Canal+ Sport 3 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4252.png",Canal+ Sport 3 HD
+https://my.teleelevidenie.com/play/hls-custom-c841-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_840" group-title="Sport" timeshift="3" tvg-id="CanalPlusSport4.pl" tvg-name="Canal+ Sport 4 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4251.png",Canal+ Sport 4 HD
+https://my.teleelevidenie.com/play/hls-custom-c840-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_489" group-title="Sport" timeshift="3" tvg-id="C+Sport5.pl" tvg-name="Canal+ Sport 5 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/canal_spor5_hd.png",Canal+ Sport 5 HD
+https://my.teleelevidenie.com/play/hls-custom-c489-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_387" group-title="Sport" timeshift="3" tvg-id="CanalPlusNow.pl" tvg-name="Canal+ Now" tvg-logo="http://my.teleelevidenie.com/assets/logo/4227.png",Canal+ Now
+https://my.teleelevidenie.com/play/hls-custom-c387-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1889" group-title="Uncategorized" tvg-id="C+SportCZ.cz" tvg-name="Canal+ Sport (CZ)" tvg-logo="http://my.teleelevidenie.com/assets/logo/canalsporthd_cz.png",Canal+ Sport (CZ)
+https://my.teleelevidenie.com/play/hls-custom-c1889-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_484" group-title="Sport" timeshift="3" tvg-id="TVPSport.pl" tvg-name="TVP Sport HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4249.png",TVP Sport HD
+https://my.teleelevidenie.com/play/hls-custom-c484-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_362" group-title="Sport" timeshift="3" tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4111.png",TVN Turbo HD
+https://my.teleelevidenie.com/play/hls-custom-c362-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_334" group-title="Sport" timeshift="3" tvg-id="Motowizja.pl" tvg-name="Motowizja HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4112.png",Motowizja HD
+https://my.teleelevidenie.com/play/hls-custom-c334-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_385" group-title="Sport" timeshift="3" tvg-id="ExtremeSports.pl" tvg-name="Extreme Sports HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4234.png",Extreme Sports HD
+https://my.teleelevidenie.com/play/hls-custom-c385-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1852" group-title="Sport" tvg-id="SportowaTV.pl" tvg-name="Sportowa TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/sportowatv.jpeg",Sportowa TV
+https://my.teleelevidenie.com/play/hls-custom-c1852-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1858" group-title="Sport" tvg-id="GinxTV.pl" tvg-name="GINX eSports HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/GINX_2020_Logo.png",GINX eSports HD
+https://my.teleelevidenie.com/play/hls-custom-c1858-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1159" group-title="Sport" tvg-id="NauticalChannel.pl" tvg-name="Nautical HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/nautical.png",Nautical HD
+https://my.teleelevidenie.com/play/hls-custom-c1159-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1868" group-title="Sport" tvg-id="XtremeTV.pl" tvg-name="Xtreme TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/Xtremetv.jpg",Xtreme TV
+https://my.teleelevidenie.com/play/hls-custom-c1868-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1863" group-title="Sport" tvg-id="PrimeFight.blt" tvg-name="Prime Fight HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/prime_fight_logo.png",Prime Fight HD
+https://my.teleelevidenie.com/play/hls-custom-c1863-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_501" group-title="Sport" tvg-id="SportKlub.pl" tvg-name="Sport Klub HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4236.png",Sport Klub HD
+https://my.teleelevidenie.com/play/hls-custom-c501-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_471" group-title="Sport" tvg-id="FightKlub.pl" tvg-name="FightKlub HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4237.png",FightKlub HD
+https://my.teleelevidenie.com/play/hls-custom-c471-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_413" group-title="Sport" tvg-id="FightBox.pl" tvg-name="FightBox HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/2452.png",FightBox HD
+https://my.teleelevidenie.com/play/hls-custom-c413-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1663" group-title="Sport" tvg-id="FightSports.es" tvg-name="Fight Sports HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/fightsportshd.png",Fight Sports HD
+https://my.teleelevidenie.com/play/hls-custom-c1663-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_534" group-title="Sport" tvg-id="GolfChannel.pl" tvg-name="Golf Channel" tvg-logo="http://my.teleelevidenie.com/assets/logo/3021.png",Golf Channel
+https://my.teleelevidenie.com/play/hls-custom-c534-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_405" group-title="Sport" timeshift="3" tvg-id="PolsatGames.pl" tvg-name="Polsat Games HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Polsat+Games.png",Polsat Games HD
+https://my.teleelevidenie.com/play/hls-custom-c405-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_374" group-title="Informacje" timeshift="3" tvg-id="TVPInfo.pl" tvg-name="TVP Info HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4267.png",TVP Info HD
+https://my.teleelevidenie.com/play/hls-custom-c374-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_435" group-title="Informacje" timeshift="3" tvg-id="TVN24.pl" tvg-name="TVN 24 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4266.png",TVN 24 HD
+https://my.teleelevidenie.com/play/hls-custom-c435-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1997" group-title="Informacje" tvg-id="TVN24.pl" tvg-name="TVN 24 HD International" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVN24_International.png",TVN 24 HD International
+https://my.teleelevidenie.com/play/hls-custom-c1997-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_366" group-title="Informacje" timeshift="3" tvg-id="TVN24Bis.pl" tvg-name="TVN 24 BiS HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4265.png",TVN 24 BiS HD
+https://my.teleelevidenie.com/play/hls-custom-c366-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_535" group-title="Informacje" timeshift="3" tvg-id="PolsatNews.pl" tvg-name="Polsat News HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Polsat+News.png",Polsat News HD
+https://my.teleelevidenie.com/play/hls-custom-c535-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_423" group-title="Informacje" timeshift="3" tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2" tvg-logo="http://my.teleelevidenie.com/assets/logo/POLSAT+NEWS+2.png",Polsat News 2
+https://my.teleelevidenie.com/play/hls-custom-c423-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1960" group-title="Informacje" tvg-id="Wydarzenia24.pl" tvg-name="Polsat News Polityka" tvg-logo="http://my.teleelevidenie.com/assets/logo/polsatnewspolityka.svg",Polsat News Polityka
+https://my.teleelevidenie.com/play/hls-custom-c1960-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_358" group-title="Informacje" timeshift="3" tvg-id="TVrepublika.pl" tvg-name="TV Republika" tvg-logo="http://my.teleelevidenie.com/assets/logo/3885.png",TV Republika
+https://my.teleelevidenie.com/play/hls-custom-c358-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1871" group-title="Informacje" timeshift="3" tvg-id="TVrepublika.pl" tvg-name="TV Republika HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/tv-republika-hd.png",TV Republika HD
+https://my.teleelevidenie.com/play/hls-custom-c1871-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1869" group-title="Informacje" tvg-id="PL_NEWS24_HD" tvg-name="News 24 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/News24_Logo_2022.jpg",News 24 HD
+https://my.teleelevidenie.com/play/hls-custom-c1869-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_538" group-title="Informacje" timeshift="3" tvg-id="Wydarzenia24.pl" tvg-name="Wydarzenia 24" tvg-logo="http://my.teleelevidenie.com/assets/logo/Wydarzenia+24.png",Wydarzenia 24
+https://my.teleelevidenie.com/play/hls-custom-c538-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_539" group-title="Informacje" tvg-id="wPolsce.pl" tvg-name="wPolsce24" tvg-logo="http://my.teleelevidenie.com/assets/logo/4260.png",wPolsce24
+https://my.teleelevidenie.com/play/hls-custom-c539-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1872" group-title="Informacje" tvg-id="wPolsce.pl" tvg-name="wPolsce24 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4260.png",wPolsce24 HD
+https://my.teleelevidenie.com/play/hls-custom-c1872-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_462" group-title="Dla dzieci" timeshift="3" tvg-id="TVPABC.pl" tvg-name="TVP ABC" tvg-logo="http://my.teleelevidenie.com/assets/logo/3892.png",TVP ABC
+https://my.teleelevidenie.com/play/hls-custom-c462-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1811" group-title="Dla dzieci" tvg-id="TVPABC.pl" tvg-name="TVP ABC HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3892.png",TVP ABC HD
+https://my.teleelevidenie.com/play/hls-custom-c1811-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1881" group-title="Dla dzieci" timeshift="3" tvg-id="TVP_ABC2.pl" tvg-name="TVP ABC 2 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvp-abc-2-logo-261A3D8FB7-seeklogo.com.png",TVP ABC 2 HD
+https://my.teleelevidenie.com/play/hls-custom-c1881-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_361" group-title="Dla dzieci" timeshift="3" tvg-id="DisneyXD.pl" tvg-name="Disney XD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3682.png",Disney XD
+https://my.teleelevidenie.com/play/hls-custom-c361-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_370" group-title="Dla dzieci" timeshift="3" tvg-id="DisneyChannel.pl" tvg-name="Disney Channel HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4160.png",Disney Channel HD
+https://my.teleelevidenie.com/play/hls-custom-c370-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_422" group-title="Dla dzieci" timeshift="3" tvg-id="DisneyJr.pl" tvg-name="Disney Junior" tvg-logo="http://my.teleelevidenie.com/assets/logo/4161.png",Disney Junior
+https://my.teleelevidenie.com/play/hls-custom-c422-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_470" group-title="Dla dzieci" timeshift="3" tvg-id="CartoonNetwork.pl" tvg-name="Cartoon Network HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4155.png",Cartoon Network HD
+https://my.teleelevidenie.com/play/hls-custom-c470-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_403" group-title="Dla dzieci" timeshift="3" tvg-id="BabyTV.pl" tvg-name="Baby TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/1391.png",Baby TV
+https://my.teleelevidenie.com/play/hls-custom-c403-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2082" group-title="Dla dzieci" tvg-id="PL_BABY_TV_HD" tvg-name="Baby TV HD",Baby TV HD
+https://my.teleelevidenie.com/play/hls-custom-c2082-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_411" group-title="Dla dzieci" timeshift="3" tvg-id="CBeebies.pl" tvg-name="BBC Cbeebies" tvg-logo="http://my.teleelevidenie.com/assets/logo/4163.png",BBC Cbeebies
+https://my.teleelevidenie.com/play/hls-custom-c411-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_446" group-title="Dla dzieci" timeshift="3" tvg-id="JimJam.pl" tvg-name="Polsat JimJam" tvg-logo="http://my.teleelevidenie.com/assets/logo/4166.png",Polsat JimJam
+https://my.teleelevidenie.com/play/hls-custom-c446-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1596" group-title="Dla dzieci" tvg-id="TeenNick.pl" tvg-name="TeenNick" tvg-logo="http://my.teleelevidenie.com/assets/logo/teennick.png",TeenNick
+https://my.teleelevidenie.com/play/hls-custom-c1596-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_404" group-title="Dla dzieci" timeshift="3" tvg-id="NickJr.pl" tvg-name="Nick Jr" tvg-logo="http://my.teleelevidenie.com/assets/logo/4159.png",Nick Jr
+https://my.teleelevidenie.com/play/hls-custom-c404-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_467" group-title="Dla dzieci" timeshift="3" tvg-id="NickPolska.pl" tvg-name="Nickelodeon" tvg-logo="http://my.teleelevidenie.com/assets/logo/3587.png",Nickelodeon
+https://my.teleelevidenie.com/play/hls-custom-c467-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_473" group-title="Dla dzieci" timeshift="3" tvg-id="Nicktoons.pl" tvg-name="Nicktoons HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4158.png",Nicktoons HD
+https://my.teleelevidenie.com/play/hls-custom-c473-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_509" group-title="Dla dzieci" timeshift="3" tvg-id="CARTOONITO" tvg-name="Cartoonito HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/CARTOONITO.png",Cartoonito HD
+https://my.teleelevidenie.com/play/hls-custom-c509-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_388" group-title="Dla dzieci" timeshift="3" tvg-id="MINIMINI.pl" tvg-name="MiniMini+ HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4165.png",MiniMini+ HD
+https://my.teleelevidenie.com/play/hls-custom-c388-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_524" group-title="Dla dzieci" timeshift="3" tvg-id="Teletoon.pl" tvg-name="Teletoon+ HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4164.png",Teletoon+ HD
+https://my.teleelevidenie.com/play/hls-custom-c524-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1841" group-title="Dla dzieci" timeshift="3" tvg-id="PL_TOP_KIDS_HD" tvg-name="Top Kids HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/topkids.png",Top Kids HD
+https://my.teleelevidenie.com/play/hls-custom-c1841-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1842" group-title="Dla dzieci" timeshift="3" tvg-id="TopKidsJr.pl" tvg-name="Top Kids Jr HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Junior_Music_Logo.png",Top Kids Jr HD
+https://my.teleelevidenie.com/play/hls-custom-c1842-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1856" group-title="Dla dzieci" tvg-id="DuckTV.pl" tvg-name="Duck TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/ducktvhd.jpg",Duck TV HD
+https://my.teleelevidenie.com/play/hls-custom-c1856-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1857" group-title="Dla dzieci" tvg-id="PL_DUCK_TV_PLUS_HD" tvg-name="Duck TV Plus HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Duck_TV_Plus.svg",Duck TV Plus HD
+https://my.teleelevidenie.com/play/hls-custom-c1857-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_340" group-title="Muzyka" tvg-id="EskaTV.pl" tvg-name="Eska TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/3774.png",Eska TV
+https://my.teleelevidenie.com/play/hls-custom-c340-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_357" group-title="Muzyka" tvg-id="EskaROCK.pl" tvg-name="Eska Rock TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3773.png",Eska Rock TV HD
+https://my.teleelevidenie.com/play/hls-custom-c357-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_465" group-title="Muzyka" tvg-id="EskaTVExtra.pl" tvg-name="Eska TV Extra HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3772.png",Eska TV Extra HD
+https://my.teleelevidenie.com/play/hls-custom-c465-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_363" group-title="Muzyka" tvg-id="VoxMusicTV.pl" tvg-name="VOX Music TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4202.png",VOX Music TV HD
+https://my.teleelevidenie.com/play/hls-custom-c363-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_367" group-title="Muzyka" tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4206.png",Disco Polo Music HD
+https://my.teleelevidenie.com/play/hls-custom-c367-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_396" group-title="Muzyka" tvg-id="PoloTV.pl" tvg-name="Polo TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/3947.png",Polo TV
+https://my.teleelevidenie.com/play/hls-custom-c396-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_368" group-title="Muzyka" tvg-id="KinoPolskaMuzyka.pl" tvg-name="Kino Polska Muzyka" tvg-logo="http://my.teleelevidenie.com/assets/logo/4207.png",Kino Polska Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c368-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_335" group-title="Muzyka" timeshift="3" tvg-id="MTV.pl" tvg-name="MTV Polska HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4215.png",MTV Polska HD
+https://my.teleelevidenie.com/play/hls-custom-c335-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_209" group-title="Muzyka" tvg-id="vh-1-classic" tvg-name="MTV 80s" tvg-logo="http://my.teleelevidenie.com/assets/logo/MTV_80s.png",MTV 80s
+https://my.teleelevidenie.com/play/hls-custom-c209-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_240" group-title="Muzyka" tvg-id="MTV90s.pl" tvg-name="MTV 90s" tvg-logo="http://my.teleelevidenie.com/assets/logo/MTV_90s.png",MTV 90s
+https://my.teleelevidenie.com/play/hls-custom-c240-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_441" group-title="Muzyka" tvg-id="mtvlive-hd" tvg-name="MTV Live HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/MTV+Live+HD.png",MTV Live HD
+https://my.teleelevidenie.com/play/hls-custom-c441-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_409" group-title="Muzyka" tvg-id="MTVMusicPolska.pl" tvg-name="MTV Music 24" tvg-logo="http://my.teleelevidenie.com/assets/logo/MTV_Music24.png",MTV Music 24
+https://my.teleelevidenie.com/play/hls-custom-c409-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_131" group-title="Muzyka" tvg-id="MTVDance.eu" tvg-name="club MTV" tvg-logo="http://my.teleelevidenie.com/assets/logo/1200px-Club_MTV_2021_logo.svg.png",club MTV
+https://my.teleelevidenie.com/play/hls-custom-c131-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1595" group-title="Muzyka" tvg-id="MusicBox.pl" tvg-name="Music Box Polska HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/music-box.png",Music Box Polska HD
+https://my.teleelevidenie.com/play/hls-custom-c1595-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_311" group-title="Muzyka" tvg-id="MTVHits.eu" tvg-name="MTV Hits" tvg-logo="http://my.teleelevidenie.com/assets/logo/1232.png",MTV Hits
+https://my.teleelevidenie.com/play/hls-custom-c311-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1804" group-title="Muzyka" tvg-id="NTV_EURO90" tvg-name="Eurodance 90" tvg-logo="http://my.teleelevidenie.com/assets/logo/Eurodance+90.png",Eurodance 90
+https://my.teleelevidenie.com/play/hls-custom-c1804-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_651" group-title="HD Каналы" tvg-id="iconcerts_hd" tvg-name="Stingray iConcerts HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/iconcerts.png",Stingray iConcerts HD
+https://my.teleelevidenie.com/play/hls-custom-c651-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1870" group-title="Muzyka" tvg-id="MixTape.pl" tvg-name="Mix tape HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Mixtape_TV_MIXTAPE-700x445.png",Mix tape HD
+https://my.teleelevidenie.com/play/hls-custom-c1870-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1866" group-title="Muzyka" tvg-id="StingrayDjazz.fr" tvg-name="Jazz TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/jazz_pl.png",Jazz TV HD
+https://my.teleelevidenie.com/play/hls-custom-c1866-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1867" group-title="Muzyka" tvg-id="Twoja.TV.pl" tvg-name="Twoja TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/twoja_tv_hd.png",Twoja TV HD
+https://my.teleelevidenie.com/play/hls-custom-c1867-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_456" group-title="Muzyka" tvg-id="MTV00s.pl" tvg-name="MTV 00s" tvg-logo="http://my.teleelevidenie.com/assets/logo/MTV_00s_remaster.png",MTV 00s
+https://my.teleelevidenie.com/play/hls-custom-c456-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_453" group-title="Muzyka" tvg-id="NutaTV.pl" tvg-name="Nuta TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/4198.png",Nuta TV
+https://my.teleelevidenie.com/play/hls-custom-c453-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1864" group-title="Muzyka" tvg-id="NutaTV.pl" tvg-name="Nuta TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Nutatv-hd.png",Nuta TV HD
+https://my.teleelevidenie.com/play/hls-custom-c1864-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1805" group-title="Muzyka" tvg-id="NutaGold.pl" tvg-name="Nuta Gold" tvg-logo="http://my.teleelevidenie.com/assets/logo/nutagold.png",Nuta Gold
+https://my.teleelevidenie.com/play/hls-custom-c1805-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1865" group-title="Muzyka" tvg-id="NutaGold.pl" tvg-name="Nuta Gold HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Nuta_Gold.png",Nuta Gold HD
+https://my.teleelevidenie.com/play/hls-custom-c1865-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_472" group-title="Muzyka" tvg-id="StarsTV.pl" tvg-name="Stars TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/4201.png",Stars TV
+https://my.teleelevidenie.com/play/hls-custom-c472-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_478" group-title="Muzyka" tvg-id="PowerTV.pl" tvg-name="Power TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/3122.png",Power TV
+https://my.teleelevidenie.com/play/hls-custom-c478-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1861" group-title="Muzyka" tvg-id="PowerTV.pl" tvg-name="Power TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/powertv_hd.png",Power TV HD
+https://my.teleelevidenie.com/play/hls-custom-c1861-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_479" group-title="Muzyka" tvg-id="PolsatMusic.pl" tvg-name="Polsat Music HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4205.png",Polsat Music HD
+https://my.teleelevidenie.com/play/hls-custom-c479-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_493" group-title="Muzyka" tvg-id="4FunDance.pl" tvg-name="4Fun Dance" tvg-logo="http://my.teleelevidenie.com/assets/logo/3620.png",4Fun Dance
+https://my.teleelevidenie.com/play/hls-custom-c493-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_499" group-title="Muzyka" tvg-id="4fun.pl" tvg-name="4FUN.TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/3622.png",4FUN.TV
+https://my.teleelevidenie.com/play/hls-custom-c499-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_505" group-title="Dla dzieci" tvg-id="4FunGoldHits.pl" tvg-name="4Fun Kids" tvg-logo="http://my.teleelevidenie.com/assets/logo/4fun_kids.png",4Fun Kids
+https://my.teleelevidenie.com/play/hls-custom-c505-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_51" group-title="Muzyka" tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="http://my.teleelevidenie.com/assets/logo/1021.png",Mezzo
+https://my.teleelevidenie.com/play/hls-custom-c51-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_101" group-title="Muzyka" tvg-id="MezzoLiveHD.pl" tvg-name="Mezzo Live HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/1383.png",Mezzo Live HD
+https://my.teleelevidenie.com/play/hls-custom-c101-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1110" group-title="Muzyka" tvg-id="4evermusic" tvg-name="4ever music HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4ever_music.png",4ever music HD
+https://my.teleelevidenie.com/play/hls-custom-c1110-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1305" group-title="Muzyka" tvg-id="eumusic" tvg-name="EU Music HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/eu-music.png",EU Music HD
+https://my.teleelevidenie.com/play/hls-custom-c1305-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_580" group-title="Muzyka" tvg-id="PUBLIC_PERVIY_MUZIKALNIY_HD" tvg-name="First Music Channel HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3511s.png",First Music Channel HD
+https://my.teleelevidenie.com/play/hls-custom-c580-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1289" group-title="Muzyka" tvg-id="mbu" tvg-name="Music Box HD Ukraine" tvg-logo="http://my.teleelevidenie.com/assets/logo/Music+Box+UA+HD.png",Music Box HD Ukraine
+https://my.teleelevidenie.com/play/hls-custom-c1289-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1306" group-title="Muzyka" tvg-id="Viva.de" tvg-name="VIVA" tvg-logo="http://my.teleelevidenie.com/assets/logo/VIVA.png",VIVA
+https://my.teleelevidenie.com/play/hls-custom-c1306-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1122" group-title="Muzyka" tvg-id="TraceUrban.eu" tvg-name="Trace Urban HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/trace_urban_hd.png",Trace Urban HD
+https://my.teleelevidenie.com/play/hls-custom-c1122-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1875" group-title="Sport" tvg-id="PL_CANAL_EVENT1" tvg-name="PPV: Canal+ EVENT 1" tvg-logo="http://my.teleelevidenie.com/assets/logo/PPV-Logo-Final.png",PPV: Canal+ EVENT 1
+https://my.teleelevidenie.com/play/hls-custom-c1875-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1876" group-title="Sport" tvg-id="PL_CANAL_EVENT2" tvg-name="PPV: Canal+ EVENT 2" tvg-logo="http://my.teleelevidenie.com/assets/logo/PPV-Logo-Final.png",PPV: Canal+ EVENT 2
+https://my.teleelevidenie.com/play/hls-custom-c1876-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1877" group-title="Sport" tvg-id="PL_CANAL_EVENT3" tvg-name="PPV: Canal+ EVENT 3" tvg-logo="http://my.teleelevidenie.com/assets/logo/PPV-Logo-Final.png",PPV: Canal+ EVENT 3
+https://my.teleelevidenie.com/play/hls-custom-c1877-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1878" group-title="Sport" tvg-id="PL_CANAL_EVENT4" tvg-name="PPV: Canal+ EVENT 4" tvg-logo="http://my.teleelevidenie.com/assets/logo/PPV-Logo-Final.png",PPV: Canal+ EVENT 4
+https://my.teleelevidenie.com/play/hls-custom-c1878-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1718" group-title="Sport" timeshift="3" tvg-id="KSW.pl" tvg-name="PPV: NO EVENT" tvg-logo="http://my.teleelevidenie.com/assets/logo/PPV-Logo-Final.png",PPV: NO EVENT
+https://my.teleelevidenie.com/play/hls-custom-c1718-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1000" group-title="Sport" timeshift="3" tvg-id="PL_PPV_1" tvg-name="PPV: KSW 104" tvg-logo="http://my.teleelevidenie.com/assets/logo/PPV-Logo-Final.png",PPV: KSW 104
+https://my.teleelevidenie.com/play/hls-custom-c1000-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1317" group-title="Sport" timeshift="3" tvg-id="PPV_DAZN" tvg-name="PPV: SHAQ ALL STARS LEAGUE" tvg-logo="http://my.teleelevidenie.com/assets/logo/PPV-Logo-Final.png",PPV: SHAQ ALL STARS LEAGUE
+https://my.teleelevidenie.com/play/hls-custom-c1317-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2006" group-title="Sport" timeshift="3" tvg-id="PPV_PLAYER" tvg-name="PPV: NO EVENT" tvg-logo="http://my.teleelevidenie.com/assets/logo/PPV-Logo-Final.png",PPV: NO EVENT
+https://my.teleelevidenie.com/play/hls-custom-c2006-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_551" group-title="Popularne" tvg-id="HomeTV.pl" tvg-name="Home TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/HomeTV.png",Home TV
+https://my.teleelevidenie.com/play/hls-custom-c551-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1845" group-title="Popularne" tvg-id="HomeTV.pl" tvg-name="Home TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Home_TV_HD_2020.svg",Home TV HD
+https://my.teleelevidenie.com/play/hls-custom-c1845-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1846" group-title="Popularne" tvg-id="RedTopTV.pl" tvg-name="Red Top HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/REDTOP.png",Red Top HD
+https://my.teleelevidenie.com/play/hls-custom-c1846-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_882" group-title="Dokument" tvg-id="NASATV.us" tvg-name="NASA TV UHD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4129.png",NASA TV UHD
+https://my.teleelevidenie.com/play/hls-custom-c882-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_665" group-title="Popularne" tvg-id="TVtrwam.pl" tvg-name="TV Trwam HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4255.png",TV Trwam HD
+https://my.teleelevidenie.com/play/hls-custom-c665-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1853" group-title="Popularne" tvg-id="DocuBox.pl" tvg-name="Docubox Polska HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/docubox-hd_2.png",Docubox Polska HD
+https://my.teleelevidenie.com/play/hls-custom-c1853-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_683" group-title="Dokument" tvg-id="Docubox.eu" tvg-name="Docubox" tvg-logo="http://my.teleelevidenie.com/assets/logo/docubox-hd.png",Docubox
+https://my.teleelevidenie.com/play/hls-custom-c683-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_275" group-title="Informacje" tvg-id="CNN.nws" tvg-name="CNN International" tvg-logo="http://my.teleelevidenie.com/assets/logo/1609.png",CNN International
+https://my.teleelevidenie.com/play/hls-custom-c275-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_842" group-title="Informacje" tvg-id="CNN.nws" tvg-name="CNN International HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4256.png",CNN International HD
+https://my.teleelevidenie.com/play/hls-custom-c842-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_938" group-title="Informacje" tvg-id="cnbc" tvg-name="CNBC Europe HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/cnbc-europe.png",CNBC Europe HD
+https://my.teleelevidenie.com/play/hls-custom-c938-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1309" group-title="Informacje" tvg-id="DeutscheWelleEN.de" tvg-name="DW English HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/dwlogo.png",DW English HD
+https://my.teleelevidenie.com/play/hls-custom-c1309-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_878" group-title="Rozrywka" tvg-id="StudioMedTV.pl" tvg-name="StudioMed TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/4134.png",StudioMed TV HD
+https://my.teleelevidenie.com/play/hls-custom-c878-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_998" group-title="Informacje" tvg-id="Biznes24HD" tvg-name="Biznes24 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/biznes24.png",Biznes24 HD
+https://my.teleelevidenie.com/play/hls-custom-c998-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1999" group-title="Informacje" tvg-id="PL_TELEWIZIJA_BIZNESOWA" tvg-name="Telewizja Biznesowa" tvg-logo="http://my.teleelevidenie.com/assets/logo/telewizijabiznesowa.png",Telewizja Biznesowa
+https://my.teleelevidenie.com/play/hls-custom-c1999-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1998" group-title="Informacje" tvg-id="PL_POLONICO_TV" tvg-name="Polonico TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/polonicotv.jpg",Polonico TV
+https://my.teleelevidenie.com/play/hls-custom-c1998-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_879" group-title="Rozrywka" tvg-id="TVOkazje.pl" tvg-name="TVO" tvg-logo="http://my.teleelevidenie.com/assets/logo/4146.png",TVO
+https://my.teleelevidenie.com/play/hls-custom-c879-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_880" group-title="Rozrywka" tvg-id="TBNpolska.pl" tvg-name="TBN Polska" tvg-logo="http://my.teleelevidenie.com/assets/logo/4048.png",TBN Polska
+https://my.teleelevidenie.com/play/hls-custom-c880-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_891" group-title="Informacje" tvg-id="FOXNewsChannel.us" tvg-name="Fox News" tvg-logo="http://my.teleelevidenie.com/assets/logo/FoxNews.png",Fox News
+https://my.teleelevidenie.com/play/hls-custom-c891-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_744" group-title="Informacje" tvg-id="bbc-world" tvg-name="BBC World News Europe HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/BBC+World+News.png",BBC World News Europe HD
+https://my.teleelevidenie.com/play/hls-custom-c744-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_853" group-title="Dokument" tvg-id="love-nature-4k" tvg-name="Love Nature 4K" tvg-logo="http://my.teleelevidenie.com/assets/logo/lovenature4k.png",Love Nature 4K
+https://my.teleelevidenie.com/play/hls-custom-c853-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_852" group-title="Dokument" tvg-id="museum.fr" tvg-name="Museum 4K" tvg-logo="http://my.teleelevidenie.com/assets/logo/museum.png",Museum 4K
+https://my.teleelevidenie.com/play/hls-custom-c852-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_985" group-title="Sport" tvg-id="InsightUHD.eu" tvg-name="Insight UHD" tvg-logo="http://my.teleelevidenie.com/assets/logo/insight-tv-hd.png",Insight UHD
+https://my.teleelevidenie.com/play/hls-custom-c985-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1031" group-title="Radio" tvg-id="RADIO_PL_ANTYRADIO" tvg-name="[RADIO PL] Antyradio" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_ANTYRADIO.png",[RADIO PL] Antyradio
+https://my.teleelevidenie.com/play/hls-custom-c1031-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1032" group-title="Radio" tvg-id="RADIO_PL_CHILLIZET" tvg-name="[RADIO PL] Chillizet" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_CHILLIZET.png",[RADIO PL] Chillizet
+https://my.teleelevidenie.com/play/hls-custom-c1032-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1034" group-title="Radio" tvg-id="RADIO_PL_MELORADIO" tvg-name="[RADIO PL] Melo Radio" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_MELORADIO.png",[RADIO PL] Melo Radio
+https://my.teleelevidenie.com/play/hls-custom-c1034-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1035" group-title="Radio" tvg-id="RADIO_PL_MUZO_FM" tvg-name="[RADIO PL] Muzo FM" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_MUZO_FM.png",[RADIO PL] Muzo FM
+https://my.teleelevidenie.com/play/hls-custom-c1035-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1036" group-title="Radio" tvg-id="RADIO_PL_RADIOZET" tvg-name="[RADIO PL] Radio Zet" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_RADIOZET.png",[RADIO PL] Radio Zet
+https://my.teleelevidenie.com/play/hls-custom-c1036-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1037" group-title="Radio" tvg-id="RADIO_PL_TOK_FM" tvg-name="[RADIO PL] Tok FM" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_TOK_FM.png",[RADIO PL] Tok FM
+https://my.teleelevidenie.com/play/hls-custom-c1037-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1040" group-title="Radio" tvg-id="RADIO_PL_RMF" tvg-name="[RADIO PL] RMF FM" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_RMF.png",[RADIO PL] RMF FM
+https://my.teleelevidenie.com/play/hls-custom-c1040-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1039" group-title="Radio" tvg-id="RADIO_PL_RMF_CLASSIC" tvg-name="[RADIO PL] RMF Classic" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_RMF_CLASSIC.png",[RADIO PL] RMF Classic
+https://my.teleelevidenie.com/play/hls-custom-c1039-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1041" group-title="Radio" tvg-id="RADIO_PL_RMF_MAXXX" tvg-name="[RADIO PL] RMF Maxxx" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_RMF_MAXXX.png",[RADIO PL] RMF Maxxx
+https://my.teleelevidenie.com/play/hls-custom-c1041-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1045" group-title="Radio" tvg-id="RADIO_PL_RADIO24" tvg-name="[RADIO PL] Polskie Radio 24" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_RADIO24.png",[RADIO PL] Polskie Radio 24
+https://my.teleelevidenie.com/play/hls-custom-c1045-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1038" group-title="Radio" tvg-id="RADIO_PL_JEDYNKA" tvg-name="[RADIO PL] Polskie Radio Jedynka" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_JEDYNKA.png",[RADIO PL] Polskie Radio Jedynka
+https://my.teleelevidenie.com/play/hls-custom-c1038-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1044" group-title="Radio" tvg-id="RADIO_PL_DWOJKA" tvg-name="[RADIO PL] Polskie Radio Dwójka" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_DWOJKA.png",[RADIO PL] Polskie Radio Dwójka
+https://my.teleelevidenie.com/play/hls-custom-c1044-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1042" group-title="Radio" tvg-id="RADIO_PL_TROJKA" tvg-name="[RADIO PL] Polskie Radio Trójka" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_TROJKA.png",[RADIO PL] Polskie Radio Trójka
+https://my.teleelevidenie.com/play/hls-custom-c1042-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1043" group-title="Radio" tvg-id="RADIO_PL_ZLOTE_PRZEBOJE" tvg-name="[RADIO PL] Radio Zlote Przeboje" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_ZLOTE_PRZEBOJE.png",[RADIO PL] Radio Zlote Przeboje
+https://my.teleelevidenie.com/play/hls-custom-c1043-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1033" group-title="Radio" tvg-id="RADIO_PL_JASNA_GORA" tvg-name="[RADIO PL] Jasna Góra" tvg-logo="http://my.teleelevidenie.com/assets/logo/RADIO_PL_JASNA_GORA.png",[RADIO PL] Jasna Góra
+https://my.teleelevidenie.com/play/hls-custom-c1033-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1067" group-title="Radio" tvg-id="PL_RADIO_NOWY_SWIAT" tvg-name="[RADIO PL] Radio Nowy Świat" tvg-logo="http://my.teleelevidenie.com/assets/logo/radio_nowysv.png",[RADIO PL] Radio Nowy Świat
+https://my.teleelevidenie.com/play/hls-custom-c1067-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1099" group-title="Radio" tvg-id="PL_RADIO_NEWONCE" tvg-name="[RADIO_PL] Newonce" tvg-logo="http://my.teleelevidenie.com/assets/logo/radio_newonce.png",[RADIO_PL] Newonce
+https://my.teleelevidenie.com/play/hls-custom-c1099-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1382" group-title="Radio" tvg-id="PL_RADIO357" tvg-name="[RADIO PL] Radio 357" tvg-logo="http://my.teleelevidenie.com/assets/logo/Radio+357.png",[RADIO PL] Radio 357
+https://my.teleelevidenie.com/play/hls-custom-c1382-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1884" group-title="Radio" tvg-id="PL_RADIO_MOJERADIO" tvg-name="[RADIO PL] Moje Radio" tvg-logo="http://my.teleelevidenie.com/assets/logo/mojeradio.png",[RADIO PL] Moje Radio
+https://my.teleelevidenie.com/play/hls-custom-c1884-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1895" group-title="Radio" tvg-id="PL_RADIO_ESKA" tvg-name="[RADIO PL] Radio Eska",[RADIO PL] Radio Eska
+https://my.teleelevidenie.com/play/hls-custom-c1895-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1207" group-title="HD Каналы" tvg-id="Classica.eu" tvg-name="Stingray Classica HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Stingray+Classica.png",Stingray Classica HD
+https://my.teleelevidenie.com/play/hls-custom-c1207-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1225" group-title="HD Каналы" tvg-id="LoveNature.eu" tvg-name="Love Nature HD [RU]" tvg-logo="http://my.teleelevidenie.com/assets/logo/Love_Nature_TV.png",Love Nature HD [RU]
+https://my.teleelevidenie.com/play/hls-custom-c1225-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_854" group-title="Uncategorized" tvg-id="MyZen.nl" tvg-name="MyZen 4K" tvg-logo="http://my.teleelevidenie.com/assets/logo/MyZen+4K.png",MyZen 4K
+https://my.teleelevidenie.com/play/hls-custom-c854-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1234" group-title="HD Каналы" tvg-id="c-music" tvg-name="Stingray CMusic HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Stingray+CMusic.png",Stingray CMusic HD
+https://my.teleelevidenie.com/play/hls-custom-c1234-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1268" group-title="HD Каналы" tvg-id="INT_HERITAGE_4K" tvg-name="4K Heritage" tvg-logo="http://my.teleelevidenie.com/assets/logo/4K+Heritage.png",4K Heritage
+https://my.teleelevidenie.com/play/hls-custom-c1268-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1873" group-title="Informacje" tvg-id="FashionBox.cz" tvg-name="FashionBox HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/fashionboxhd-logo.png",FashionBox HD
+https://my.teleelevidenie.com/play/hls-custom-c1873-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_710" group-title="Rozrywka" tvg-id="FashionOne4k.eu" tvg-name="Fashion One HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/fashion-one-hd.png",Fashion One HD
+https://my.teleelevidenie.com/play/hls-custom-c710-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_294" group-title="Informacje" timeshift="3" tvg-id="english-club" tvg-name="English Club TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/englishclub.png",English Club TV HD
+https://my.teleelevidenie.com/play/hls-custom-c294-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_570" group-title="Rozrywka" tvg-id="fast-n-funbox-hd" tvg-name="Fast & FunBox" tvg-logo="http://my.teleelevidenie.com/assets/logo/fastfunbox-hd.png",Fast & FunBox
+https://my.teleelevidenie.com/play/hls-custom-c570-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2043" group-title="Rozrywka" tvg-id="fast-n-funbox-hd" tvg-name="Fast & FunBox HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/fastfunbox-hd.png",Fast & FunBox HD
+https://my.teleelevidenie.com/play/hls-custom-c2043-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1274" group-title="Uncategorized" tvg-id="eSportsTV.eu" tvg-name="eSports One HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/eSports+One+HD.png",eSports One HD
+https://my.teleelevidenie.com/play/hls-custom-c1274-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_707" group-title="Uncategorized" tvg-id=" TravelXP.eu" tvg-name="Travel XP HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3628.png",Travel XP HD
+https://my.teleelevidenie.com/play/hls-custom-c707-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1520" group-title="Dokument" tvg-id="TravelXP.eu" tvg-name="Travel XP 4K" tvg-logo="http://my.teleelevidenie.com/assets/logo/Travelxp_logo_31Jan2020.jpg",Travel XP 4K
+https://my.teleelevidenie.com/play/hls-custom-c1520-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1180" group-title="Uncategorized" tvg-id="DuckTV.pl" tvg-name="Duck TV [ENG]" tvg-logo="http://my.teleelevidenie.com/assets/logo/ducktv.png",Duck TV [ENG]
+https://my.teleelevidenie.com/play/hls-custom-c1180-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1278" group-title="HD Каналы" tvg-id="MoozHD.ro" tvg-name="MOOZ 4K" tvg-logo="http://my.teleelevidenie.com/assets/logo/MOOZ+4K.png",MOOZ 4K
+https://my.teleelevidenie.com/play/hls-custom-c1278-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1539" group-title="Rozrywka" tvg-id="Antena.pl" tvg-name="Antena Polska" tvg-logo="http://my.teleelevidenie.com/assets/logo/AntenaHD.png",Antena Polska
+https://my.teleelevidenie.com/play/hls-custom-c1539-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1800" group-title="Rozrywka" tvg-id="Antena.pl" tvg-name="Antena Polska HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/AntenaHD.png",Antena Polska HD
+https://my.teleelevidenie.com/play/hls-custom-c1800-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1435" group-title="Uncategorized" tvg-id="US_ESR" tvg-name="ESports Revolution HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/esports_revolution.png",ESports Revolution HD
+https://my.teleelevidenie.com/play/hls-custom-c1435-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1453" group-title="Muzyka" tvg-id="360-tunebox" tvg-name="360TuneBox" tvg-logo="http://my.teleelevidenie.com/assets/logo/360tunebox.png",360TuneBox
+https://my.teleelevidenie.com/play/hls-custom-c1453-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1477" group-title="Новостные" tvg-id="belsat" tvg-name="BelSat TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/belsat.png",BelSat TV
+https://my.teleelevidenie.com/play/hls-custom-c1477-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1879" group-title="HD Каналы" tvg-id="belsat" tvg-name="BelSat TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/belsat.png",BelSat TV HD
+https://my.teleelevidenie.com/play/hls-custom-c1879-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1462" group-title="Uncategorized" tvg-id="AljazeeraEng.il" tvg-name="Al Jazeera English" tvg-logo="http://my.teleelevidenie.com/assets/logo/al-jazeera-international.png",Al Jazeera English
+https://my.teleelevidenie.com/play/hls-custom-c1462-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1461" group-title="Uncategorized" tvg-id="AljazeeraEng.il" tvg-name="Al Jazeera English HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/al-jazeera-international.png",Al Jazeera English HD
+https://my.teleelevidenie.com/play/hls-custom-c1461-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1601" group-title="Informacje" tvg-id="PL_KUJAWY_TV" tvg-name="Kujawy TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvk.png",Kujawy TV
+https://my.teleelevidenie.com/play/hls-custom-c1601-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1896" group-title="Uncategorized" tvg-id="PL_TVJ" tvg-name="TVJ" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvj.jpeg",TVJ
+https://my.teleelevidenie.com/play/hls-custom-c1896-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_593" group-title="Uncategorized" tvg-id="DeLuxeMusic.de" tvg-name="Deluxe music HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/deluxemusichd.png",Deluxe music HD
+https://my.teleelevidenie.com/play/hls-custom-c593-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_836" group-title="Uncategorized" tvg-id="DeLuxeMusic.de" tvg-name="Deluxe music" tvg-logo="http://my.teleelevidenie.com/assets/logo/3764.png",Deluxe music
+https://my.teleelevidenie.com/play/hls-custom-c836-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1890" group-title="Muzyka" tvg-id="DE_DELUXE_DANCE" tvg-name="Deluxe Dance" tvg-logo="http://my.teleelevidenie.com/assets/logo/deluxedance.png",Deluxe Dance
+https://my.teleelevidenie.com/play/hls-custom-c1890-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1891" group-title="Muzyka" tvg-id="DE_DELUXE_FLASHBACK" tvg-name="Deluxe Flashback" tvg-logo="http://my.teleelevidenie.com/assets/logo/Deluxe_Flashback_Logo_2023.png",Deluxe Flashback
+https://my.teleelevidenie.com/play/hls-custom-c1891-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1892" group-title="Muzyka" tvg-id="DE_DELUXE_RAP" tvg-name="Deluxe RAP" tvg-logo="http://my.teleelevidenie.com/assets/logo/Deluxe_Rap_Logo_2023.png",Deluxe RAP
+https://my.teleelevidenie.com/play/hls-custom-c1892-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1893" group-title="Muzyka" tvg-id="DE_DELUXE_ROCK" tvg-name="Deluxe Rock" tvg-logo="http://my.teleelevidenie.com/assets/logo/Deluxe_Rock.png",Deluxe Rock
+https://my.teleelevidenie.com/play/hls-custom-c1893-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2005" group-title="Muzyka" tvg-id="DE_DELUXE_LOUNGE" tvg-name="Deluxe Lounge",Deluxe Lounge
+https://my.teleelevidenie.com/play/hls-custom-c2005-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1774" group-title="Sport" timeshift="3" tvg-id="PL_VIAPLAY1" tvg-name="VSports 1" tvg-logo="http://my.teleelevidenie.com/assets/logo/vsports1big.png",VSports 1
+https://my.teleelevidenie.com/play/hls-custom-c1774-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1775" group-title="Sport" timeshift="3" tvg-id="PL_VIAPLAY2" tvg-name="VSports 2" tvg-logo="http://my.teleelevidenie.com/assets/logo/vsports2big.png",VSports 2
+https://my.teleelevidenie.com/play/hls-custom-c1775-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1806" group-title="Sport" timeshift="3" tvg-id="PL_VIAPLAY3" tvg-name="VSports 3" tvg-logo="http://my.teleelevidenie.com/assets/logo/vsports3.jpg",VSports 3
+https://my.teleelevidenie.com/play/hls-custom-c1806-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1807" group-title="Sport" timeshift="3" tvg-id="PL_VIAPLAY4" tvg-name="VSports 4" tvg-logo="http://my.teleelevidenie.com/assets/logo/vsports4.jpg",VSports 4
+https://my.teleelevidenie.com/play/hls-custom-c1807-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1828" group-title="Sport" timeshift="3" tvg-id="PL_VIAPLAY5" tvg-name="VSports 5" tvg-logo="http://my.teleelevidenie.com/assets/logo/vsports1big.png",VSports 5
+https://my.teleelevidenie.com/play/hls-custom-c1828-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1829" group-title="Sport" timeshift="3" tvg-id="PL_VIAPLAY6" tvg-name="VSports 6" tvg-logo="http://my.teleelevidenie.com/assets/logo/vsports2big.png",VSports 6
+https://my.teleelevidenie.com/play/hls-custom-c1829-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1830" group-title="Sport" timeshift="3" tvg-id="PL_VIAPLAY7" tvg-name="VSports 7" tvg-logo="http://my.teleelevidenie.com/assets/logo/vsports3.jpg",VSports 7
+https://my.teleelevidenie.com/play/hls-custom-c1830-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1831" group-title="Sport" timeshift="3" tvg-id="PL_VIAPLAY8" tvg-name="VSports 8" tvg-logo="http://my.teleelevidenie.com/assets/logo/vsports4.jpg",VSports 8
+https://my.teleelevidenie.com/play/hls-custom-c1831-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_225" group-title="HD Каналы" tvg-id="uatv" tvg-name="UA TV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/uatvlogo.png",UA TV HD
+https://my.teleelevidenie.com/play/hls-custom-c225-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1019" group-title="Українські" tvg-id="inter-plus" tvg-name="Интер+ HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/inter-plus-ua.png",Интер+ HD
+https://my.teleelevidenie.com/play/hls-custom-c1019-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1020" group-title="Українські" tvg-id="ictv" tvg-name="ICTV" tvg-logo="http://my.teleelevidenie.com/assets/logo/ictv.png",ICTV
+https://my.teleelevidenie.com/play/hls-custom-c1020-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1018" group-title="Українські" tvg-id="inter" tvg-name="Интер" tvg-logo="http://my.teleelevidenie.com/assets/logo/inter-ua.png",Интер
+https://my.teleelevidenie.com/play/hls-custom-c1018-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1003" group-title="Українські" tvg-id="1p1_int" tvg-name="1+1 International" tvg-logo="http://my.teleelevidenie.com/assets/logo/1plus1-int.png",1+1 International
+https://my.teleelevidenie.com/play/hls-custom-c1003-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1125" group-title="Українські" tvg-id="UA_ESPRESOTV" tvg-name="Espreso TV " tvg-logo="http://my.teleelevidenie.com/assets/logo/espreso.png",Espreso TV 
+https://my.teleelevidenie.com/play/hls-custom-c1125-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1401" group-title="HD Каналы" tvg-id="ukraina24" tvg-name="Украина 24 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/ukraine24.png",Украина 24 HD
+https://my.teleelevidenie.com/play/hls-custom-c1401-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1625" group-title="HD Каналы" tvg-id="inter" tvg-name="Интер HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/inter-ua.png",Интер HD
+https://my.teleelevidenie.com/play/hls-custom-c1625-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1621" group-title="HD Каналы" tvg-id="ictv" tvg-name="ICTV HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/ictv.png",ICTV HD
+https://my.teleelevidenie.com/play/hls-custom-c1621-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1623" group-title="HD Каналы" tvg-id="stb" tvg-name="СТБ HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/3361.png",СТБ HD
+https://my.teleelevidenie.com/play/hls-custom-c1623-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1827" group-title="Informacje" tvg-id="Echo24.pl" tvg-name="Echo 24 HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/TV+echo+24.png",Echo 24 HD
+https://my.teleelevidenie.com/play/hls-custom-c1827-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1900" group-title="Uncategorized" tvg-id="PL_DLIA_CIEBIE_TV" tvg-name="Dlia Ciebie TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/dlaCiebietv_Logo.jpg",Dlia Ciebie TV
+https://my.teleelevidenie.com/play/hls-custom-c1900-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1978" group-title="Rozrywka" timeshift="3" tvg-id="PL_TVN_REW_W_KUCHNI" tvg-name="TVN Rewolucje w Kuchni" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_rev_kuchnia_55090786.png",TVN Rewolucje w Kuchni
+https://my.teleelevidenie.com/play/hls-custom-c1978-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1979" group-title="Rozrywka" tvg-id="PL_TVN_KULTOWE_SERIALE" tvg-name="TVN Kultowe Seriale" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_kultowe_seriale.png",TVN Kultowe Seriale
+https://my.teleelevidenie.com/play/hls-custom-c1979-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1980" group-title="Rozrywka" tvg-id="PL_TVN_RAJSKA_MILOSC" tvg-name="TVN Rajska Miłość" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_rajska_milosc.png",TVN Rajska Miłość
+https://my.teleelevidenie.com/play/hls-custom-c1980-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1981" group-title="Rozrywka" tvg-id="PL_TVN_TALK_SHOW" tvg-name="TVN Talk Show" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_talk_show.png",TVN Talk Show
+https://my.teleelevidenie.com/play/hls-custom-c1981-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1982" group-title="Rozrywka" timeshift="3" tvg-id="PL_TVN_KRYMINALNIE" tvg-name="TVN Kryminalnie" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_kryminalnie.png",TVN Kryminalnie
+https://my.teleelevidenie.com/play/hls-custom-c1982-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1983" group-title="Rozrywka" tvg-id="PL_TVN_MOMENTY_PRAWDY" tvg-name="TVN Momenty Prawdy" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_momenty_prawdy.png",TVN Momenty Prawdy
+https://my.teleelevidenie.com/play/hls-custom-c1983-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1984" group-title="Rozrywka" tvg-id="PL_TVN_ZYCIE_JAK_W_BAJCE" tvg-name="TVN Życie Jak w Bajce" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_zycie_jak_w_bajce.png",TVN Życie Jak w Bajce
+https://my.teleelevidenie.com/play/hls-custom-c1984-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1985" group-title="Rozrywka" tvg-id="PL_TVN_TELENOWELE" tvg-name="TVN Telenowele" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_telenowele.png",TVN Telenowele
+https://my.teleelevidenie.com/play/hls-custom-c1985-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1986" group-title="Rozrywka" timeshift="3" tvg-id="PL_TVN_SZPITALNE_HISTORIA" tvg-name="TVN Szpitalne Historie" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_szpytalnie_historie.png",TVN Szpitalne Historie
+https://my.teleelevidenie.com/play/hls-custom-c1986-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1987" group-title="Rozrywka" tvg-id="PL_TVN_SERIALE_O_KOBIETACH" tvg-name="TVN Seriale o Kobietach" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_seriale_o_kobietach.png",TVN Seriale o Kobietach
+https://my.teleelevidenie.com/play/hls-custom-c1987-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1988" group-title="Rozrywka" tvg-id="PL_TVN_SZKOLA_ZYCIE" tvg-name="TVN Szkoła Życia" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_szkola_zycie.png",TVN Szkoła Życia
+https://my.teleelevidenie.com/play/hls-custom-c1988-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1989" group-title="Rozrywka" tvg-id="PL_TVN_W_DOMU" tvg-name="TVN W Domu" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_w_domu.png",TVN W Domu
+https://my.teleelevidenie.com/play/hls-custom-c1989-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1990" group-title="Rozrywka" timeshift="3" tvg-id="PL_TVN_MOTO" tvg-name="TVN Moto" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_moto.png",TVN Moto
+https://my.teleelevidenie.com/play/hls-custom-c1990-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1991" group-title="Rozrywka" timeshift="3" tvg-id="PL_TVN_USTERKA" tvg-name="TVN Usterka" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_usterka.png",TVN Usterka
+https://my.teleelevidenie.com/play/hls-custom-c1991-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_1992" group-title="Rozrywka" tvg-id="PL_TVN_PRAWO" tvg-name="TVN Prawo i Życie" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_prawo.png",TVN Prawo i Życie
+https://my.teleelevidenie.com/play/hls-custom-c1992-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2003" group-title="Rozrywka" tvg-id="PL_TVN_MILIONERZY" tvg-name="TVN Milionerzy" tvg-logo="http://my.teleelevidenie.com/assets/logo/tvn_million.png",TVN Milionerzy
+https://my.teleelevidenie.com/play/hls-custom-c2003-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2007" group-title="Popularne" tvg-id="PL_TVN_PORA_NA_SHOW" tvg-name="TVN Pora na Show" tvg-logo="http://my.teleelevidenie.com/assets/logo/TVN_Pora_na_Show.png",TVN Pora na Show
+https://my.teleelevidenie.com/play/hls-custom-c2007-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2037" group-title="Dokument" tvg-id="PL_TVN_PATROL" tvg-name="TVN Patrol",TVN Patrol
+https://my.teleelevidenie.com/play/hls-custom-c2037-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2038" group-title="Dokument" tvg-id="PL_TVN_CZAS_NA_SLUB" tvg-name="TVN Czas na Ślub",TVN Czas na Ślub
+https://my.teleelevidenie.com/play/hls-custom-c2038-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2039" group-title="Dokument" tvg-id="PL_TVN_KULINARNE_PODOROZE" tvg-name="TVN Kulinarne Podróże",TVN Kulinarne Podróże
+https://my.teleelevidenie.com/play/hls-custom-c2039-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2002" group-title="Muzyka" tvg-id="PL_SZLAGIER_TV" tvg-name="SZLAGIER TV",SZLAGIER TV
+https://my.teleelevidenie.com/play/hls-custom-c2002-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2001" group-title="Popularne" tvg-id="PL_TVC_SUPER" tvg-name="TVC SUPER",TVC SUPER
+https://my.teleelevidenie.com/play/hls-custom-c2001-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
+#EXTINF:0 id="48_2004" group-title="Popularne" tvg-id="PL_VIDOC_TV" tvg-name="ViDoc TV" tvg-logo="http://my.teleelevidenie.com/assets/logo/vidoc_tv.png",ViDoc TV
+https://my.teleelevidenie.com/play/hls-custom-c2004-t9b27e05011811aa794c4ecf6d78183c5f6291a1a667375308d4b21050405600a.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="ext" tvg-name="Hustler HD" tvg-logo="" group-title="xxxx",Hustler HD
