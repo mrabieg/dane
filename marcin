@@ -1,468 +1,322 @@
 #EXTM3U url-tvg="https://epg.ovh/pltv.xml"
 
 
-#EXTM3U generation-date="2025.06.01 15:02:31 MSK" url-tvg="http://epg.team/tvteam.3.1.xml"
-#EXTINF:0 tvg-name="PL: 13 Ulica" tvg-logo="http://team.ga/images/chIcons/854.png" tvg-rec="3", PL: 13 Ulica
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch854/mono.m3u8?tok ... 0BQRKcyonR
-#EXTINF:0 tvg-name="PL: Active Family" tvg-logo="http://team.ga/images/chIcons/855.png" tvg-rec="3", PL: Active Family
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch855/mono.m3u8?tok ... SS9Fy_ZMO8
-#EXTINF:0 tvg-name="PL: Adventure" tvg-logo="http://team.ga/images/chIcons/856.png" tvg-rec="3", PL: Adventure
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch856/mono.m3u8?tok ... jccHur1HxO
-#EXTINF:0 tvg-name="PL: Ale Kino+ HD" tvg-logo="http://team.ga/images/chIcons/857.png" tvg-rec="3", PL: Ale Kino+ HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch857/mono.m3u8?tok ... -4CAmw5GM0
-#EXTINF:0 tvg-name="PL: Animal Planet HD" tvg-logo="http://team.ga/images/chIcons/858.png" tvg-rec="3", PL: Animal Planet HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch858/mono.m3u8?tok ... xQ20I5Qrrw
-#EXTINF:0 tvg-name="PL: AXN" tvg-logo="http://team.ga/images/chIcons/859.png" tvg-rec="3", PL: AXN
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch859/mono.m3u8?tok ... yLRf3jiQu0
-#EXTINF:0 tvg-name="PL: AXN Black" tvg-logo="http://team.ga/images/chIcons/860.png" tvg-rec="3", PL: AXN Black
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch860/mono.m3u8?tok ... 5yrGKzCjlC
-#EXTINF:0 tvg-name="PL: AXN White" tvg-logo="http://team.ga/images/chIcons/861.png" tvg-rec="3", PL: AXN White
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch861/mono.m3u8?tok ... mIr09UlnxM
-#EXTINF:0 tvg-name="PL: AXN Spin HD" tvg-logo="http://team.ga/images/chIcons/862.png" tvg-rec="3", PL: AXN Spin HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch862/mono.m3u8?tok ... joNZckZqsU
-#EXTINF:0 tvg-name="PL: AMC HD" tvg-logo="http://team.ga/images/chIcons/2141.png" tvg-rec="3", PL: AMC HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2141/mono.m3u8?to ... 7y_tySLmoj
-#EXTINF:0 tvg-name="PL: BBC Earth HD" tvg-logo="http://team.ga/images/chIcons/863.png" tvg-rec="3", PL: BBC Earth HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch863/mono.m3u8?tok ... Rez0UODtT9
-#EXTINF:0 tvg-name="PL: BBC First HD" tvg-logo="http://team.ga/images/chIcons/864.png" tvg-rec="3", PL: BBC First HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch864/mono.m3u8?tok ... E6Y4IKdK9F
-#EXTINF:0 tvg-name="PL: BBC Brit HD" tvg-logo="http://team.ga/images/chIcons/2143.png" tvg-rec="3", PL: BBC Brit HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2143/mono.m3u8?to ... 8hUPowAUB4
-#EXTINF:0 tvg-name="PL: BBC Lifestyle HD" tvg-logo="http://team.ga/images/chIcons/2147.png" tvg-rec="3", PL: BBC Lifestyle HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2147/mono.m3u8?to ... SgTlH3qgMm
-#EXTINF:0 tvg-name="PL: BBC CBeebies" tvg-logo="http://team.ga/images/chIcons/2175.png" tvg-rec="3", PL: BBC CBeebies
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2175/mono.m3u8?to ... 2ofQNemG-r
-#EXTINF:0 tvg-name="PL: Biznes24 HD" tvg-logo="http://team.ga/images/chIcons/2157.png" tvg-rec="3", PL: Biznes24 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2157/mono.m3u8?to ... LIgltJo2n1
-#EXTINF:0 tvg-name="PL: Canal+ Premium HD" tvg-logo="http://team.ga/images/chIcons/865.png" tvg-rec="3", PL: Canal+ Premium HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch865/mono.m3u8?tok ... oUJ8hrNNOO
-#EXTINF:0 tvg-name="PL: CANAL+ 1" tvg-logo="http://team.ga/images/chIcons/866.png" tvg-rec="3", PL: CANAL+ 1
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch866/mono.m3u8?tok ... Lf9qMOK1ar
-#EXTINF:0 tvg-name="PL: Canal+ Dokument HD" tvg-logo="http://team.ga/images/chIcons/867.png" tvg-rec="3", PL: Canal+ Dokument HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch867/mono.m3u8?tok ... R7yU5DDk0C
-#EXTINF:0 tvg-name="PL: Canal+ 360 HD" tvg-logo="http://team.ga/images/chIcons/868.png" tvg-rec="3", PL: Canal+ 360 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch868/mono.m3u8?tok ... pCm875cXnU
-#EXTINF:0 tvg-name="PL: Canal+ Film HD" tvg-logo="http://team.ga/images/chIcons/869.png" tvg-rec="3", PL: Canal+ Film HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch869/mono.m3u8?tok ... wOTw5b0mZK
-#EXTINF:0 tvg-name="PL: Canal+ Now" tvg-logo="http://team.ga/images/chIcons/870.png" tvg-rec="3", PL: Canal+ Now
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch870/mono.m3u8?tok ... uNVzpkrXHn
-#EXTINF:0 tvg-name="PL: Canal+ Seriale HD" tvg-logo="http://team.ga/images/chIcons/871.png" tvg-rec="3", PL: Canal+ Seriale HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch871/mono.m3u8?tok ... JZK4Ry7BD8
-#EXTINF:0 tvg-name="PL: Canal+ Sport HD" tvg-logo="http://team.ga/images/chIcons/872.png" tvg-rec="3", PL: Canal+ Sport HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch872/mono.m3u8?tok ... zAXNCKtsQ4
-#EXTINF:0 tvg-name="PL: Canal+ Sport 2 HD" tvg-logo="http://team.ga/images/chIcons/873.png" tvg-rec="3", PL: Canal+ Sport 2 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch873/mono.m3u8?tok ... 4LODe9li53
-#EXTINF:0 tvg-name="PL: Canal+ Sport 3 HD" tvg-logo="http://team.ga/images/chIcons/874.png" tvg-rec="3", PL: Canal+ Sport 3 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch874/mono.m3u8?tok ... zTC6UxF5ZO
-#EXTINF:0 tvg-name="PL: Canal+ Sport 4 HD" tvg-logo="http://team.ga/images/chIcons/875.png" tvg-rec="3", PL: Canal+ Sport 4 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch875/mono.m3u8?tok ... MgCIIB8Zg5
-#EXTINF:0 tvg-name="PL: Canal+ Sport 5 HD" tvg-logo="http://team.ga/images/chIcons/920.png" tvg-rec="3", PL: Canal+ Sport 5 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch920/mono.m3u8?tok ... a1sdWDjk5z
-#EXTINF:0 tvg-name="PL: Canal+ Extra 1 HD" tvg-logo="http://team.ga/images/chIcons/2188.png" tvg-rec="0", PL: Canal+ Extra 1 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2188/mono.m3u8?to ... zq3Z5mMeu5
-#EXTINF:0 tvg-name="PL: Canal+ Extra 2 HD" tvg-logo="http://team.ga/images/chIcons/2148.png" tvg-rec="0", PL: Canal+ Extra 2 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2148/mono.m3u8?to ... 8dsXCaEhNr
-#EXTINF:0 tvg-name="PL: Canal+ Extra 3 HD" tvg-logo="http://team.ga/images/chIcons/2149.png" tvg-rec="0", PL: Canal+ Extra 3 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2149/mono.m3u8?to ... fh3RI_KAqI
-#EXTINF:0 tvg-name="PL: Canal+ Extra 4 HD" tvg-logo="http://team.ga/images/chIcons/2152.png" tvg-rec="0", PL: Canal+ Extra 4 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2152/mono.m3u8?to ... dTJTpKprN2
-#EXTINF:0 tvg-name="PL: CBS Reality" tvg-logo="http://team.ga/images/chIcons/876.png" tvg-rec="3", PL: CBS Reality
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch876/mono.m3u8?tok ... L_2ry8IF2t
-#EXTINF:0 tvg-name="PL: Film Cafe HD" tvg-logo="http://team.ga/images/chIcons/2145.png" tvg-rec="3", PL: Film Cafe HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2145/mono.m3u8?to ... kQwIuraje9
-#EXTINF:0 tvg-name="PL: Cinemax HD" tvg-logo="http://team.ga/images/chIcons/878.png" tvg-rec="3", PL: Cinemax HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch878/mono.m3u8?tok ... LBSnmtMyic
-#EXTINF:0 tvg-name="PL: Cinemax 2" tvg-logo="http://team.ga/images/chIcons/877.png" tvg-rec="3", PL: Cinemax 2
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch877/mono.m3u8?tok ... -A-Zcl5BC6
-#EXTINF:0 tvg-name="PL: Comedy Сentral HD" tvg-logo="http://team.ga/images/chIcons/879.png" tvg-rec="3", PL: Comedy Сentral HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch879/mono.m3u8?tok ... GmLaA3jXnv
-#EXTINF:0 tvg-name="PL: Cartoon Network" tvg-logo="http://team.ga/images/chIcons/2182.png" tvg-rec="3", PL: Cartoon Network
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2182/mono.m3u8?to ... NeAXan_CME
-#EXTINF:0 tvg-name="PL: Crime and Investigation" tvg-logo="http://team.ga/images/chIcons/880.png" tvg-rec="3", PL: Crime and Investigation
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch880/mono.m3u8?tok ... EKRUiXuFvh
-#EXTINF:0 tvg-name="PL: Discovery" tvg-logo="http://team.ga/images/chIcons/881.png" tvg-rec="3", PL: Discovery
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch881/mono.m3u8?tok ... cfKN9Jo1cI
-#EXTINF:0 tvg-name="PL: Discovery Historia" tvg-logo="http://team.ga/images/chIcons/882.png" tvg-rec="3", PL: Discovery Historia
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch882/mono.m3u8?tok ... 9qASmrkQsh
-#EXTINF:0 tvg-name="PL: Discovery Life" tvg-logo="http://team.ga/images/chIcons/883.png" tvg-rec="3", PL: Discovery Life
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch883/mono.m3u8?tok ... GnvqofIL5K
-#EXTINF:0 tvg-name="PL: Discovery Science" tvg-logo="http://team.ga/images/chIcons/884.png" tvg-rec="3", PL: Discovery Science
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch884/mono.m3u8?tok ... 0-MFFK0FhQ
-#EXTINF:0 tvg-name="PL: Domo TV" tvg-logo="http://team.ga/images/chIcons/885.png" tvg-rec="3", PL: Domo TV
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch885/mono.m3u8?tok ... ZOlSLYQX3e
-#EXTINF:0 tvg-name="PL: Da Vinci HD" tvg-logo="http://team.ga/images/chIcons/2176.png" tvg-rec="3", PL: Da Vinci HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2176/mono.m3u8?to ... LZwyGLzhFO
-#EXTINF:0 tvg-name="PL: Disney Jr" tvg-logo="http://team.ga/images/chIcons/2204.png" tvg-rec="3", PL: Disney Jr
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2204/mono.m3u8?to ... K6nf3DoAM8
-#EXTINF:0 tvg-name="PL: E! Entertainment" tvg-logo="http://team.ga/images/chIcons/886.png" tvg-rec="3", PL: E! Entertainment
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch886/mono.m3u8?tok ... 6gGuctO6GW
-#EXTINF:0 tvg-name="PL: Eleven Sports 1 4K" tvg-logo="http://team.ga/images/chIcons/637.png" tvg-rec="0", PL: Eleven Sports 1 4K
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch637/mono.m3u8?tok ... OGQicYMtIh
-#EXTINF:0 tvg-name="PL: Eleven Sports 1 HD" tvg-logo="http://team.ga/images/chIcons/887.png" tvg-rec="3", PL: Eleven Sports 1 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch887/mono.m3u8?tok ... VeCXm6Qq99
-#EXTINF:0 tvg-name="PL: Eleven Sports 2 HD" tvg-logo="http://team.ga/images/chIcons/888.png" tvg-rec="3", PL: Eleven Sports 2 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch888/mono.m3u8?tok ... G13yY4cp0Y
-#EXTINF:0 tvg-name="PL: Eleven Sports 3 HD" tvg-logo="http://team.ga/images/chIcons/889.png" tvg-rec="3", PL: Eleven Sports 3 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch889/mono.m3u8?tok ... 3fEUN8YhlN
-#EXTINF:0 tvg-name="PL: Eleven Sports 4 HD" tvg-logo="http://team.ga/images/chIcons/890.png" tvg-rec="3", PL: Eleven Sports 4 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch890/mono.m3u8?tok ... deaziA4upe
-#EXTINF:0 tvg-name="PL: Eurosport 1 HD" tvg-logo="http://team.ga/images/chIcons/891.png" tvg-rec="3", PL: Eurosport 1 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch891/mono.m3u8?tok ... rWyBfKeroy
-#EXTINF:0 tvg-name="PL: Eurosport 2 HD" tvg-logo="http://team.ga/images/chIcons/892.png" tvg-rec="3", PL: Eurosport 2 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch892/mono.m3u8?tok ... xkwA72Ooqu
-#EXTINF:0 tvg-name="PL: Extreme Sports" tvg-logo="http://team.ga/images/chIcons/893.png" tvg-rec="3", PL: Extreme Sports
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch893/mono.m3u8?tok ... KS2XFAHtm7
-#EXTINF:0 tvg-name="PL: Epic Drama HD" tvg-logo="http://team.ga/images/chIcons/2144.png" tvg-rec="3", PL: Epic Drama HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2144/mono.m3u8?to ... 4fHzJg__nt
-#EXTINF:0 tvg-name="PL: FightBox" tvg-logo="http://team.ga/images/chIcons/894.png" tvg-rec="3", PL: FightBox
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch894/mono.m3u8?tok ... x3sgwwFppt
-#EXTINF:0 tvg-name="PL: Fightklub HD" tvg-logo="http://team.ga/images/chIcons/895.png" tvg-rec="3", PL: Fightklub HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch895/mono.m3u8?tok ... 2uHEu848NC
-#EXTINF:0 tvg-name="PL: FilmBox Action" tvg-logo="http://team.ga/images/chIcons/896.png" tvg-rec="3", PL: FilmBox Action
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch896/mono.m3u8?tok ... FyDK-QknKB
-#EXTINF:0 tvg-name="PL: Filmbox Arthouse" tvg-logo="http://team.ga/images/chIcons/897.png" tvg-rec="3", PL: Filmbox Arthouse
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch897/mono.m3u8?tok ... xBFYgVvLYo
-#EXTINF:0 tvg-name="PL: FilmBox Extra" tvg-logo="http://team.ga/images/chIcons/898.png" tvg-rec="3", PL: FilmBox Extra
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch898/mono.m3u8?tok ... OWT0ycGow2
-#EXTINF:0 tvg-name="PL: FilmBox Family" tvg-logo="http://team.ga/images/chIcons/899.png" tvg-rec="3", PL: FilmBox Family
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch899/mono.m3u8?tok ... JBFa4yLr9P
-#EXTINF:0 tvg-name="PL: FilmBox Premium" tvg-logo="http://team.ga/images/chIcons/900.png" tvg-rec="3", PL: FilmBox Premium
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch900/mono.m3u8?tok ... fiali0NCtr
-#EXTINF:0 tvg-name="PL: Food Network" tvg-logo="http://team.ga/images/chIcons/901.png" tvg-rec="3", PL: Food Network
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch901/mono.m3u8?tok ... Jwk_2aGV93
-#EXTINF:0 tvg-name="PL: FOX HD" tvg-logo="http://team.ga/images/chIcons/903.png" tvg-rec="3", PL: FOX HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch903/mono.m3u8?tok ... RIVIFsLry6
-#EXTINF:0 tvg-name="PL: Fox Comedy" tvg-logo="http://team.ga/images/chIcons/902.png" tvg-rec="3", PL: Fox Comedy
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch902/mono.m3u8?tok ... 5O8N4DpT9c
-#EXTINF:0 tvg-name="PL: History" tvg-logo="http://team.ga/images/chIcons/909.png" tvg-rec="3", PL: History
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch909/mono.m3u8?tok ... GcAMhWPXDP
-#EXTINF:0 tvg-name="PL: H2" tvg-logo="http://team.ga/images/chIcons/904.png" tvg-rec="3", PL: H2
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch904/mono.m3u8?tok ... 7xB6PrWhsT
-#EXTINF:0 tvg-name="PL: HBO HD" tvg-logo="http://team.ga/images/chIcons/907.png" tvg-rec="3", PL: HBO HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch907/mono.m3u8?tok ... 0WZ23kvX6R
-#EXTINF:0 tvg-name="PL: HBO 2 HD" tvg-logo="http://team.ga/images/chIcons/905.png" tvg-rec="3", PL: HBO 2 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch905/mono.m3u8?tok ... 8gbwakXR8R
-#EXTINF:0 tvg-name="PL: HBO 3 HD" tvg-logo="http://team.ga/images/chIcons/906.png" tvg-rec="3", PL: HBO 3 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch906/mono.m3u8?tok ... JrubsFG2lv
-#EXTINF:0 tvg-name="PL: Home TV HD" tvg-logo="http://team.ga/images/chIcons/2146.png" tvg-rec="3", PL: Home TV HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2146/mono.m3u8?to ... ApvhAh-pRW
-#EXTINF:0 tvg-name="PL: HGTV" tvg-logo="http://team.ga/images/chIcons/908.png" tvg-rec="3", PL: HGTV
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch908/mono.m3u8?tok ... kVj6gSPFNO
-#EXTINF:0 tvg-name="PL: JimJam" tvg-logo="http://team.ga/images/chIcons/910.png" tvg-rec="3", PL: JimJam
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch910/mono.m3u8?tok ... PXBFdCkJgs
-#EXTINF:0 tvg-name="PL: Kino Polska" tvg-logo="http://team.ga/images/chIcons/911.png" tvg-rec="3", PL: Kino Polska
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch911/mono.m3u8?tok ... -nLCNxA77S
-#EXTINF:0 tvg-name="PL: Kino Polska Muzyka" tvg-logo="http://team.ga/images/chIcons/912.png" tvg-rec="3", PL: Kino Polska Muzyka
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch912/mono.m3u8?tok ... 1mE7lgL-yV
-#EXTINF:0 tvg-name="PL: Kino TV" tvg-logo="http://team.ga/images/chIcons/913.png" tvg-rec="3", PL: Kino TV
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch913/mono.m3u8?tok ... nt7fXZ544z
-#EXTINF:0 tvg-name="PL: Kuchnia+ HD" tvg-logo="http://team.ga/images/chIcons/914.png" tvg-rec="3", PL: Kuchnia+ HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch914/mono.m3u8?tok ... 5oXRxcVV4o
-#EXTINF:0 tvg-name="PL: Lifetime" tvg-logo="http://team.ga/images/chIcons/915.png" tvg-rec="3", PL: Lifetime
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch915/mono.m3u8?tok ... njSu3Ye8nT
-#EXTINF:0 tvg-name="PL: MiniMini HD" tvg-logo="http://team.ga/images/chIcons/916.png" tvg-rec="3", PL: MiniMini HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch916/mono.m3u8?tok ... 2G5lhPLms-
-#EXTINF:0 tvg-name="PL: Motowizja" tvg-logo="http://team.ga/images/chIcons/917.png" tvg-rec="3", PL: Motowizja
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch917/mono.m3u8?tok ... uAbguaaBce
-#EXTINF:0 tvg-name="PL: MTV Music Polska" tvg-logo="http://team.ga/images/chIcons/2110.png" tvg-rec="3", PL: MTV Music Polska
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2110/mono.m3u8?to ... VvAsiRxmiW
-#EXTINF:0 tvg-name="PL: MTV Live HD" tvg-logo="http://team.ga/images/chIcons/2194.png" tvg-rec="3", PL: MTV Live HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2194/mono.m3u8?to ... TFNVU_BNpB
-#EXTINF:0 tvg-name="PL: Nat Geo HD" tvg-logo="http://team.ga/images/chIcons/919.png" tvg-rec="3", PL: Nat Geo HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch919/mono.m3u8?tok ... KjVcYCg8PT
-#EXTINF:0 tvg-name="PL: Nat Geo Wild HD" tvg-logo="http://team.ga/images/chIcons/918.png" tvg-rec="3", PL: Nat Geo Wild HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch918/mono.m3u8?tok ... _oQSGF_bcy
-#EXTINF:0 tvg-name="PL: Nuta TV HD" tvg-logo="http://team.ga/images/chIcons/2191.png" tvg-rec="3", PL: Nuta TV HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2191/mono.m3u8?to ... _HAXRgeYis
-#EXTINF:0 tvg-name="PL: Nickelodeon Polska" tvg-logo="http://team.ga/images/chIcons/2192.png" tvg-rec="3", PL: Nickelodeon Polska
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2192/mono.m3u8?to ... GPMF-QcNS-
-#EXTINF:0 tvg-name="PL: Planete+ HD" tvg-logo="http://team.ga/images/chIcons/921.png" tvg-rec="3", PL: Planete+ HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch921/mono.m3u8?tok ... owRAQH2_QI
-#EXTINF:0 tvg-name="PL: Polsat HD" tvg-logo="http://team.ga/images/chIcons/926.png" tvg-rec="3", PL: Polsat HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch926/mono.m3u8?tok ... Bh4Zxjr-IB
-#EXTINF:0 tvg-name="PL: Polsat 2 HD" tvg-logo="http://team.ga/images/chIcons/922.png" tvg-rec="3", PL: Polsat 2 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch922/mono.m3u8?tok ... -3dJgV9LrV
-#EXTINF:0 tvg-name="PL: Polsat Comedy Central Extra" tvg-logo="http://team.ga/images/chIcons/942.png" tvg-rec="3", PL: Polsat Comedy Central Extra
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch942/mono.m3u8?tok ... dTz4uKNQ2i
-#EXTINF:0 tvg-name="PL: Polsat Cafe HD" tvg-logo="http://team.ga/images/chIcons/923.png" tvg-rec="3", PL: Polsat Cafe HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch923/mono.m3u8?tok ... 2iPfp6L4GJ
-#EXTINF:0 tvg-name="PL: Polsat Doku" tvg-logo="http://team.ga/images/chIcons/924.png" tvg-rec="3", PL: Polsat Doku
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch924/mono.m3u8?tok ... 3ztSfnL2s_
-#EXTINF:0 tvg-name="PL: Polsat Film HD" tvg-logo="http://team.ga/images/chIcons/925.png" tvg-rec="3", PL: Polsat Film HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch925/mono.m3u8?tok ... 3pwR5F9OTF
-#EXTINF:0 tvg-name="PL: Polsat Music HD" tvg-logo="http://team.ga/images/chIcons/927.png" tvg-rec="3", PL: Polsat Music HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch927/mono.m3u8?tok ... wPpHCSQOfW
-#EXTINF:0 tvg-name="PL: Polsat News HD" tvg-logo="http://team.ga/images/chIcons/929.png" tvg-rec="3", PL: Polsat News HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch929/mono.m3u8?tok ... KegcgqYWiS
-#EXTINF:0 tvg-name="PL: Polsat News 2 HD" tvg-logo="http://team.ga/images/chIcons/928.png" tvg-rec="3", PL: Polsat News 2 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch928/mono.m3u8?tok ... BkIsZQ3zAL
-#EXTINF:0 tvg-name="PL: Polsat Play HD" tvg-logo="http://team.ga/images/chIcons/930.png" tvg-rec="3", PL: Polsat Play HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch930/mono.m3u8?tok ... baRjmQ3MUg
-#EXTINF:0 tvg-name="PL: Polsat Rodzina" tvg-logo="http://team.ga/images/chIcons/931.png" tvg-rec="3", PL: Polsat Rodzina
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch931/mono.m3u8?tok ... rmhgCXJPjc
-#EXTINF:0 tvg-name="PL: Polsat Sport 1 HD" tvg-logo="http://team.ga/images/chIcons/932.png" tvg-rec="3", PL: Polsat Sport 1 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch932/mono.m3u8?tok ... hChvSFWeoP
-#EXTINF:0 tvg-name="PL: Polsat Sport 2 HD" tvg-logo="http://team.ga/images/chIcons/933.png" tvg-rec="3", PL: Polsat Sport 2 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch933/mono.m3u8?tok ... v_QiTPV_oZ
-#EXTINF:0 tvg-name="PL: Polsat Sport 3 HD" tvg-logo="http://team.ga/images/chIcons/2489.png" tvg-rec="3", PL: Polsat Sport 3 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2489/mono.m3u8?to ... 9mI_QzQQXQ
-#EXTINF:0 tvg-name="PL: Polsat Sport Premium 1 HD" tvg-logo="http://team.ga/images/chIcons/934.png" tvg-rec="3", PL: Polsat Sport Premium 1 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch934/mono.m3u8?tok ... t2P5aaFgVg
-#EXTINF:0 tvg-name="PL: Polsat Sport Premium 2 HD" tvg-logo="http://team.ga/images/chIcons/935.png" tvg-rec="3", PL: Polsat Sport Premium 2 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch935/mono.m3u8?tok ... lHnTio8VNx
-#EXTINF:0 tvg-name="PL: Polsat Sport Premium 3(Event Only)" tvg-logo="http://team.ga/images/chIcons/2092.png" tvg-rec="0", PL: Polsat Sport Premium 3(Event Only)
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2092/mono.m3u8?to ... Qa4ffw9i84
-#EXTINF:0 tvg-name="PL: Polsat Sport Premium 4(Event Only)" tvg-logo="http://team.ga/images/chIcons/2089.png" tvg-rec="0", PL: Polsat Sport Premium 4(Event Only)
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2089/mono.m3u8?to ... cR6ITP5nZ4
-#EXTINF:0 tvg-name="PL: Polsat Sport Premium PPV 5(Event Only)" tvg-logo="http://team.ga/images/chIcons/2090.png" tvg-rec="0", PL: Polsat Sport Premium PPV 5(Event Only)
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2090/mono.m3u8?to ... 4_eDm8Yn87
-#EXTINF:0 tvg-name="PL: Polsat Sport Premium PPV 6(Event Only)" tvg-logo="http://team.ga/images/chIcons/2091.png" tvg-rec="0", PL: Polsat Sport Premium PPV 6(Event Only)
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2091/mono.m3u8?to ... _enMl4LDI7
-#EXTINF:0 tvg-name="PL: Power TV HD" tvg-logo="http://team.ga/images/chIcons/2190.png" tvg-rec="3", PL: Power TV HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2190/mono.m3u8?to ... fyxXD4OwAE
-#EXTINF:0 tvg-name="PL: Romance TV HD" tvg-logo="http://team.ga/images/chIcons/2150.png" tvg-rec="3", PL: Romance TV HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2150/mono.m3u8?to ... 65pGt9dbj1
-#EXTINF:0 tvg-name="PL: Red Carpet TV HD" tvg-logo="http://team.ga/images/chIcons/2153.png" tvg-rec="3", PL: Red Carpet TV HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2153/mono.m3u8?to ... Qt-dURpIBO
-#EXTINF:0 tvg-name="PL: SciFi" tvg-logo="http://team.ga/images/chIcons/936.png" tvg-rec="3", PL: SciFi
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch936/mono.m3u8?tok ... Jt-WoHUPRu
-#EXTINF:0 tvg-name="PL: Sport Klub HD" tvg-logo="http://team.ga/images/chIcons/937.png" tvg-rec="3", PL: Sport Klub HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch937/mono.m3u8?tok ... zD4kqUCfb_
-#EXTINF:0 tvg-name="PL: Super Polsat HD" tvg-logo="http://team.ga/images/chIcons/939.png" tvg-rec="3", PL: Super Polsat HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch939/mono.m3u8?tok ... W1OXgcbWon
-#EXTINF:0 tvg-name="PL: Sundance Channel HD" tvg-logo="http://team.ga/images/chIcons/938.png" tvg-rec="3", PL: Sundance Channel HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch938/mono.m3u8?tok ... tcTXqQYGvY
-#EXTINF:0 tvg-name="PL: StudioMed TV HD" tvg-logo="http://team.ga/images/chIcons/2187.png" tvg-rec="3", PL: StudioMed TV HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2187/mono.m3u8?to ... ZKTUsLCPSG
-#EXTINF:0 tvg-name="PL: Teletoon+ HD" tvg-logo="http://team.ga/images/chIcons/940.png" tvg-rec="3", PL: Teletoon+ HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch940/mono.m3u8?tok ... _4spPQ7na7
-#EXTINF:0 tvg-name="PL: TLC" tvg-logo="http://team.ga/images/chIcons/941.png" tvg-rec="3", PL: TLC
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch941/mono.m3u8?tok ... QdNuuONlBc
-#EXTINF:0 tvg-name="PL: Travel Channel" tvg-logo="http://team.ga/images/chIcons/943.png" tvg-rec="3", PL: Travel Channel
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch943/mono.m3u8?tok ... 0wmGKchZQX
-#EXTINF:0 tvg-name="PL: TTV" tvg-logo="http://team.ga/images/chIcons/944.png" tvg-rec="3", PL: TTV
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch944/mono.m3u8?tok ... k6J0XXRJmp
-#EXTINF:0 tvg-name="PL: TV 6" tvg-logo="http://team.ga/images/chIcons/945.png" tvg-rec="3", PL: TV 6
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch945/mono.m3u8?tok ... neZBn4A1FX
-#EXTINF:0 tvg-name="PL: TV Puls" tvg-logo="http://team.ga/images/chIcons/946.png" tvg-rec="3", PL: TV Puls
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch946/mono.m3u8?tok ... b84XnmR5pm
-#EXTINF:0 tvg-name="PL: TV Puls 2" tvg-logo="http://team.ga/images/chIcons/947.png" tvg-rec="3", PL: TV Puls 2
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch947/mono.m3u8?tok ... ETI_eU82UM
-#EXTINF:0 tvg-name="PL: TV4 HD" tvg-logo="http://team.ga/images/chIcons/948.png" tvg-rec="3", PL: TV4 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch948/mono.m3u8?tok ... lfs1P95iek
-#EXTINF:0 tvg-name="PL: TVN" tvg-logo="http://team.ga/images/chIcons/949.png" tvg-rec="3", PL: TVN
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch949/mono.m3u8?tok ... sDJCo4W5cd
-#EXTINF:0 tvg-name="PL: TVN 24" tvg-logo="http://team.ga/images/chIcons/950.png" tvg-rec="3", PL: TVN 24
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch950/mono.m3u8?tok ... 3C-Ws-Fmuf
-#EXTINF:0 tvg-name="PL: TVN 24 BiS" tvg-logo="http://team.ga/images/chIcons/951.png" tvg-rec="3", PL: TVN 24 BiS
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch951/mono.m3u8?tok ... xdG7Ye7G9s
-#EXTINF:0 tvg-name="PL: TVN 7" tvg-logo="http://team.ga/images/chIcons/952.png" tvg-rec="3", PL: TVN 7
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch952/mono.m3u8?tok ... sE828gY5dl
-#EXTINF:0 tvg-name="PL: TVN Fabula" tvg-logo="http://team.ga/images/chIcons/953.png" tvg-rec="3", PL: TVN Fabula
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch953/mono.m3u8?tok ... Ty5v29Z7LK
-#EXTINF:0 tvg-name="PL: TVN Style" tvg-logo="http://team.ga/images/chIcons/954.png" tvg-rec="3", PL: TVN Style
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch954/mono.m3u8?tok ... rK8YWIrKMl
-#EXTINF:0 tvg-name="PL: TVN Turbo" tvg-logo="http://team.ga/images/chIcons/955.png" tvg-rec="3", PL: TVN Turbo
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch955/mono.m3u8?tok ... Z8BZ2GnReV
-#EXTINF:0 tvg-name="PL: TVP HD" tvg-logo="http://team.ga/images/chIcons/959.png" tvg-rec="3", PL: TVP HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch959/mono.m3u8?tok ... UgbK-83-ja
-#EXTINF:0 tvg-name="PL: TVP 1 HD" tvg-logo="http://team.ga/images/chIcons/956.png" tvg-rec="3", PL: TVP 1 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch956/mono.m3u8?tok ... ANJZ0wsRrJ
-#EXTINF:0 tvg-name="PL: TVP 2 HD" tvg-logo="http://team.ga/images/chIcons/957.png" tvg-rec="3", PL: TVP 2 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch957/mono.m3u8?tok ... nR87mrhMUD
-#EXTINF:0 tvg-name="PL: TVP 3" tvg-logo="http://team.ga/images/chIcons/966.png" tvg-rec="3", PL: TVP 3
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch966/mono.m3u8?tok ... wOaKg8xzzB
-#EXTINF:0 tvg-name="PL: TVP ABC" tvg-logo="http://team.ga/images/chIcons/958.png" tvg-rec="3", PL: TVP ABC
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch958/mono.m3u8?tok ... fCg0YYogUA
-#EXTINF:0 tvg-name="PL: TVP Historia" tvg-logo="http://team.ga/images/chIcons/960.png" tvg-rec="3", PL: TVP Historia
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch960/mono.m3u8?tok ... WZQnGdLSO5
-#EXTINF:0 tvg-name="PL: TVP Rozrywka" tvg-logo="http://team.ga/images/chIcons/961.png" tvg-rec="3", PL: TVP Rozrywka
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch961/mono.m3u8?tok ... fibmwHxrRB
-#EXTINF:0 tvg-name="PL: TVP Seriale" tvg-logo="http://team.ga/images/chIcons/962.png" tvg-rec="3", PL: TVP Seriale
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch962/mono.m3u8?tok ... Dy8ZbUFaxq
-#EXTINF:0 tvg-name="PL: TVP Sport HD" tvg-logo="http://team.ga/images/chIcons/963.png" tvg-rec="3", PL: TVP Sport HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch963/mono.m3u8?tok ... nUg4MWmeuz
-#EXTINF:0 tvg-name="PL: TVP Info" tvg-logo="http://team.ga/images/chIcons/964.png" tvg-rec="0", PL: TVP Info
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch964/mono.m3u8?tok ... WV1CqoStr3
-#EXTINF:0 tvg-name="PL: TVP Kultura" tvg-logo="http://team.ga/images/chIcons/965.png" tvg-rec="3", PL: TVP Kultura
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch965/mono.m3u8?tok ... qaHY_TSq1b
-#EXTINF:0 tvg-name="PL: TVP Polonia" tvg-logo="http://team.ga/images/chIcons/2183.png" tvg-rec="3", PL: TVP Polonia
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2183/mono.m3u8?to ... jO7TUdoAjK
-#EXTINF:0 tvg-name="PL: TVS" tvg-logo="http://team.ga/images/chIcons/2135.png" tvg-rec="3", PL: TVS
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2135/mono.m3u8?to ... _wlG0q732q
-#EXTINF:0 tvg-name="PL: TV Regio HD" tvg-logo="http://team.ga/images/chIcons/2185.png" tvg-rec="0", PL: TV Regio HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2185/mono.m3u8?to ... xZN1heYGLx
-#EXTINF:0 tvg-name="PL: Tele5 HD" tvg-logo="http://team.ga/images/chIcons/2186.png" tvg-rec="3", PL: Tele5 HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2186/mono.m3u8?to ... bLdiyUtrhl
-#EXTINF:0 tvg-name="PL: TV Republika" tvg-logo="http://team.ga/images/chIcons/2136.png" tvg-rec="3", PL: TV Republika
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2136/mono.m3u8?to ... o9fw9ejqTw
-#EXTINF:0 tvg-name="PL: Viasat History" tvg-logo="http://team.ga/images/chIcons/967.png" tvg-rec="3", PL: Viasat History
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch967/mono.m3u8?tok ... sdl5JJGg3t
-#EXTINF:0 tvg-name="PL: Viasat Nature HD" tvg-logo="http://team.ga/images/chIcons/2139.png" tvg-rec="3", PL: Viasat Nature HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2139/mono.m3u8?to ... qnTCC8AnSN
-#EXTINF:0 tvg-name="PL: Viasat Explore HD" tvg-logo="http://team.ga/images/chIcons/2140.png" tvg-rec="3", PL: Viasat Explore HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2140/mono.m3u8?to ... sQkB58QwL4
-#EXTINF:0 tvg-name="PL: WP" tvg-logo="http://team.ga/images/chIcons/968.png" tvg-rec="3", PL: WP
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch968/mono.m3u8?tok ... ekzHWX3km9
-#EXTINF:0 tvg-name="PL: wPolsce.pl HD" tvg-logo="http://team.ga/images/chIcons/2184.png" tvg-rec="3", PL: wPolsce.pl HD
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2184/mono.m3u8?to ... GKOR4So_0b
-#EXTINF:0 tvg-name="PL: Warner TV" tvg-logo="http://team.ga/images/chIcons/2065.png" tvg-rec="7", PL: Warner TV
-#EXTGRP:2. Poland
-http://6.team.ga:80/ch2065/mono.m3u8?to ... v8sRl1nLzN
-#EXTINF:0 tvg-name="PL: Wydarzenia 24 HD" tvg-logo="http://team.ga/images/chIcons/2206.png" tvg-rec="0", PL: Wydarzenia 24 HD
-#EXTGRP:2. Poland
+#EXTINF:-1 ,ВСЕ ТВ 09.04.25 FAS-TV.COM
+https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
+#EXTINF:-1,13 Ulica HD
+http://185.236.229.62:9981/play/a03o
+#EXTINF:-1,4Fun Dance
+http://185.236.229.62:9981/play/a020
+#EXTINF:-1,4Fun Kids
+http://185.236.229.62:9981/play/a01z
+#EXTINF:-1,4Fun.TV
+http://185.236.229.62:9981/play/a01y
+#EXTINF:-1,AMC
+http://185.236.229.62:9981/play/a05g
+#EXTINF:-1,AXN
+http://185.236.229.62:9981/play/a07a
+#EXTINF:-1,AXN HD
+http://185.236.229.62:9981/play/a07s
+#EXTINF:-1,AXN SPIN HD
+http://185.236.229.62:9981/play/a044
+#EXTINF:-1,AXN White
+http://185.236.229.62:9981/play/a074
+#EXTINF:-1,BBC Brit
+http://185.236.229.62:9981/play/a06r
+#EXTINF:-1,BBC CBeebies
+http://185.236.229.62:9981/play/a06s
+#EXTINF:-1,BBC Earth HD
+http://185.236.229.62:9981/play/a02o
+#EXTINF:-1,BBC FIRST
+http://185.236.229.62:9981/play/a02n
+#EXTINF:-1,BBC Lifestyle HD
+http://185.236.229.62:9981/play/a06t
+#EXTINF:-1,CANAL+ DOMO HD
+http://185.236.229.62:9981/play/a05u
+#EXTINF:-1,CANAL+ FAMILY HD
+http://185.236.229.62:9981/play/a04z
+#EXTINF:-1,CANAL+ FILM HD
+http://185.236.229.62:9981/play/a04y
+#EXTINF:-1,CANAL+ FILM HD
+http://185.236.229.62:9981/play/a057
+#EXTINF:-1,CANAL+ KUCHNIA
+http://185.236.229.62:9981/play/a053
+#EXTINF:-1,CANAL+ PREMIUM HD
+http://185.236.229.62:9981/play/a04b
+#EXTINF:-1,CANAL+ SERIALE HD
+http://185.236.229.62:9981/play/a058
+#EXTINF:-1,CANAL+ SERIALE HD
+http://185.236.229.62:9981/play/a054
+#EXTINF:-1,CANAL+1 HD
+http://185.236.229.62:9981/play/a05s
+#EXTINF:-1,CBS Reality HD
+http://185.236.229.62:9981/play/a02v
+#EXTINF:-1,CI Polsat HD
+http://185.236.229.62:9981/play/a07w
+#EXTINF:-1,Cinemax 2 HD
+http://185.236.229.62:9981/play/a07r
+#EXTINF:-1,Cinemax HD
+http://185.236.229.62:9981/play/a05p
+#EXTINF:-1,Cinemax HD
+http://185.236.229.62:9981/play/a05m
+#EXTINF:-1,Class TV Moda
+http://185.236.229.62:9981/play/a04s
+#EXTINF:-1,Comedy Central HD
+http://185.236.229.62:9981/play/a068
+#EXTINF:-1,Da Vinci
+http://185.236.229.62:9981/play/a024
+#EXTINF:-1,Disney Junior
+http://185.236.229.62:9981/play/a06n
+#EXTINF:-1,Disney XD
+http://185.236.229.62:9981/play/a07c
+#EXTINF:-1,Dla Ciebie TV
+http://185.236.229.62:9981/play/a04u
+#EXTINF:-1,E! Entertainment
+http://185.236.229.62:9981/play/a03j
+#EXTINF:-1,EURONEWS ITALIAN SD PAL 1.8
+http://185.236.229.62:9981/play/a06q
+#EXTINF:-1,Epic Drama HD
+http://185.236.229.62:9981/play/a029
+#EXTINF:-1,Eska TV HD
+http://185.236.229.62:9981/play/a02f
+#EXTINF:-1,FX HD
+http://185.236.229.62:9981/play/a07u
+#EXTINF:-1,FilmBox Action
+http://185.236.229.62:9981/play/a033
+#EXTINF:-1,FilmBox Extra HD
+http://185.236.229.62:9981/play/a036
+#EXTINF:-1,FilmBox Family
+http://185.236.229.62:9981/play/a032
+#EXTINF:-1,FilmBox Family
+http://185.236.229.62:9981/play/a037
+#EXTINF:-1,Filmbox Arthouse
+http://185.236.229.62:9981/play/a028
+#EXTINF:-1,Filmbox Premium HD
+http://185.236.229.62:9981/play/a02x
+#EXTINF:-1,Fokus TV
+http://185.236.229.62:9981/play/a02g
+#EXTINF:-1,Food Network HD
+http://185.236.229.62:9981/play/a073
+#EXTINF:-1,Fx Comedy HD
+http://185.236.229.62:9981/play/a07t
+#EXTINF:-1,HBO HD
+http://185.236.229.62:9981/play/a06k
+#EXTINF:-1,HBO2 HD
+http://185.236.229.62:9981/play/a05x
+#EXTINF:-1,HBO3 HD
+http://185.236.229.62:9981/play/a062
+#EXTINF:-1,History 2 HD
+http://185.236.229.62:9981/play/a03l
+#EXTINF:-1,History HD
+http://185.236.229.62:9981/play/a07v
+#EXTINF:-1,KINO POLSKA HD
+http://185.236.229.62:9981/play/a05v
+#EXTINF:-1,Kino Polska Muzyka
+http://185.236.229.62:9981/play/a030
+#EXTINF:-1,Kino TV HD
+http://185.236.229.62:9981/play/a031
+#EXTINF:-1,MTV 00s
+http://185.236.229.62:9981/play/a066
+#EXTINF:-1,MTV 90s
+http://185.236.229.62:9981/play/a07f
+#EXTINF:-1,MiniMini+ HD
+http://185.236.229.62:9981/play/a04e
+#EXTINF:-1,Motowizja HD
+http://185.236.229.62:9981/play/a02r
+#EXTINF:-1,NATIONAL GEO HD
+http://185.236.229.62:9981/play/a04d
+#EXTINF:-1,NOVELAS+
+http://185.236.229.62:9981/play/a05a
+#EXTINF:-1,NOVELAS+
+http://185.236.229.62:9981/play/a05k
+#EXTINF:-1,Nat Geo People HD
+http://185.236.229.62:9981/play/a06f
+#EXTINF:-1,National Geographic Wild HD
+http://185.236.229.62:9981/play/a05z
+#EXTINF:-1,Nick Jr
+http://185.236.229.62:9981/play/a065
+#EXTINF:-1,Nickelodeon
+http://185.236.229.62:9981/play/a067
+#EXTINF:-1,Nicktoons HD
+http://185.236.229.62:9981/play/a06a
+#EXTINF:-1,Nowa TV
+http://185.236.229.62:9981/play/a02h
+#EXTINF:-1,Paramount Network Polska
+http://185.236.229.62:9981/play/a069
+#EXTINF:-1,Planete+ HD
+http://185.236.229.62:9981/play/a052
+#EXTINF:-1,Polo TV
+http://185.236.229.62:9981/play/a02e
+#EXTINF:-1,Polsat 2 HD 
+http://185.236.229.62:9981/play/a042
+#EXTINF:-1,Polsat Cafe HD
+http://185.236.229.62:9981/play/a03z
+#EXTINF:-1,Polsat Comedy Central Extra
+http://185.236.229.62:9981/play/a06c
+#EXTINF:-1,Polsat Doku HD
+http://185.236.229.62:9981/play/a07z
+#EXTINF:-1,Polsat Film HD
+http://185.236.229.62:9981/play/a040
+#EXTINF:-1,Polsat Games
+http://185.236.229.62:9981/play/a025
+#EXTINF:-1,Polsat HD
+http://185.236.229.62:9981/play/a03v
+#EXTINF:-1,Polsat Jim Jam
+http://185.236.229.62:9981/play/a07e
+#EXTINF:-1,Polsat News 2
+http://185.236.229.62:9981/play/a03u
+#EXTINF:-1,Polsat News HD
+http://185.236.229.62:9981/play/a041
+#EXTINF:-1,Polsat News Polityka HD
+http://185.236.229.62:9981/play/a07h
+#EXTINF:-1,Polsat Play HD
+http://185.236.229.62:9981/play/a03w
+#EXTINF:-1,Polsat Rodzina HD
+http://185.236.229.62:9981/play/a079
+#EXTINF:-1,Polsat Seriale HD
+http://185.236.229.62:9981/play/a07b
+#EXTINF:-1,Polsat Viasat Explore HD
+http://185.236.229.62:9981/play/a07i
+#EXTINF:-1,Polsat Viasat History HD
+http://185.236.229.62:9981/play/a07o
+#EXTINF:-1,Polsat Viasat Nature HD
+http://185.236.229.62:9981/play/a06g
+#EXTINF:-1,Puls 2 HD
+http://185.236.229.62:9981/play/a02y
+#EXTINF:-1,Red Carpet TV
+http://185.236.229.62:9981/play/a02q
+#EXTINF:-1,Romance TV
+http://185.236.229.62:9981/play/a05j
+#EXTINF:-1,STARS.TV
+http://185.236.229.62:9981/play/a01x
+#EXTINF:-1,SciFi HD
+http://185.236.229.62:9981/play/a03k
+#EXTINF:-1,Stopklatka
+http://185.236.229.62:9981/play/a023
+#EXTINF:-1,Sundance HD
+http://185.236.229.62:9981/play/a03i
+#EXTINF:-1,Super Polsat HD
+http://185.236.229.62:9981/play/a043
+#EXTINF:-1,THT
+http://185.236.229.62:9981/play/a08a
+#EXTINF:-1,TTV HD
+http://185.236.229.62:9981/play/a071
+#EXTINF:-1,TV Okazje
+http://185.236.229.62:9981/play/a07m
+#EXTINF:-1,TV Okazje
+http://185.236.229.62:9981/play/a07l
+#EXTINF:-1,TV PULS HD
+http://185.236.229.62:9981/play/a034
+#EXTINF:-1,TV Republika
+http://185.236.229.62:9981/play/a027
+#EXTINF:-1,TV4 HD
+http://185.236.229.62:9981/play/a03x
+#EXTINF:-1,TV6 HD
+http://185.236.229.62:9981/play/a03y
+#EXTINF:-1,TVN 24 HD
+http://185.236.229.62:9981/play/a06x
+#EXTINF:-1,TVN 7 HD
+http://185.236.229.62:9981/play/a06y
+#EXTINF:-1,TVN Fabula
+http://185.236.229.62:9981/play/a070
+#EXTINF:-1,TVN HD
+http://185.236.229.62:9981/play/a06u
+#EXTINF:-1,TVN STYLE HD
+http://185.236.229.62:9981/play/a06v
+#EXTINF:-1,TVN TURBO HD
+http://185.236.229.62:9981/play/a06w
+#EXTINF:-1,TVP 1 HD
+http://185.236.229.62:9981/play/a05i
+#EXTINF:-1,TVP 2 HD
+http://185.236.229.62:9981/play/a07p
+#EXTINF:-1,TVP 3
+http://185.236.229.62:9981/play/a060
+#EXTINF:-1,TVP ABC
+http://185.236.229.62:9981/play/a02z
+#EXTINF:-1,TVP Dokument HD
+http://185.236.229.62:9981/play/a05b
+#EXTINF:-1,TVP HD
+http://185.236.229.62:9981/play/a02i
+#EXTINF:-1,TVP Historia
+http://185.236.229.62:9981/play/a035
+#EXTINF:-1,TVP INFO HD
+http://185.236.229.62:9981/play/a02j
+#EXTINF:-1,TVP Kultura HD
+http://185.236.229.62:9981/play/a02t
+#EXTINF:-1,TVP Polonia
+http://185.236.229.62:9981/play/a08m
+#EXTINF:-1,TVP Rozrywka
+http://185.236.229.62:9981/play/a026
+#EXTINF:-1,TVP SERIALE
+http://185.236.229.62:9981/play/a02w
+#EXTINF:-1,TVP Sport HD
+http://185.236.229.62:9981/play/a05l
+#EXTINF:-1,TVP Sport HD
+http://185.236.229.62:9981/play/a05c
+#EXTINF:-1,TVS
+http://185.236.229.62:9981/play/a02p
+#EXTINF:-1,TeenNick
+http://185.236.229.62:9981/play/a055
+#EXTINF:-1,Travel Channel HD
+http://185.236.229.62:9981/play/a072
+#EXTINF:-1,Vatican Media Europa
+http://185.236.229.62:9981/play/a06o
+#EXTINF:-1,WP
+http://185.236.229.62:9981/play/a02u
+#EXTINF:-1,Wydarzenia 24 HD
+http://185.236.229.62:9981/play/a06j
+#EXTINF:-1,Zoom TV
+http://185.236.229.62:9981/play/a02a
+#EXTINF:-1,teleTOON+ HD
+http://185.236.229.62:9981/play/a051
+#EXTINF:-1,wPolsce.pl
+http://185.236.229.62:9981/play/a022
+#EXTINF:-1,Eleven Sports 1 4K
+http://185.236.229.62:9981/play/a03t
+#EXTINF:-1,Eleven Sports 1 HD
+http://185.236.229.62:9981/play/a05w
+#EXTINF:-1,Eleven Sports 2 HD
+http://185.236.229.62:9981/play/a05y
+#EXTINF:-1,Eleven Sports 3 HD
+http://185.236.229.62:9981/play/a061
+#EXTINF:-1,Fightbox HD
+http://185.236.229.62:9981/play/a03n
+#EXTINF:-1,Fightklub HD
+http://185.236.229.62:9981/play/a02l
+#EXTINF:-1,Polsat Sport Extra HD
+http://185.236.229.62:9981/play/a07q
+#EXTINF:-1,Polsat Sport Fight HD
+http://185.236.229.62:9981/play/a06l
+#EXTINF:-1,Polsat Sport HD
+http://185.236.229.62:9981/play/a07n
+#EXTINF:-1,Polsat Sport News HD
+http://185.236.229.62:9981/play/a06m
+#EXTINF:-1,Sportklub HD
+http://185.236.229.62:9981/play/a02k
+#EXTINF:-1 Polsat Sport Extra HD
+http://185.236.229.62:9981/play/a07q
+#EXTINF:-1 Polsat Sport Fight HD
+http://185.236.229.62:9981/play/a06l
+#EXTINF:-1 Polsat Sport HD
+http://185.236.229.62:9981/play/a07n
+#EXTINF:-1 Polsat Sport News HD
+http://185.236.229.62:9981/play/a06m
+#EXTINF:-1 Sportklub HD
+http://185.236.229.62:9981/play/a02k
+#EXTINF:-1 Eleven Sports 1 4K
+http://185.236.229.62:9981/play/a03t
+#EXTINF:-1 Eleven Sports 1 HD
+http://185.236.229.62:9981/play/a05w
+#EXTINF:-1 Eleven Sports 2 HD
+http://185.236.229.62:9981/play/a05y
+#EXTINF:-1 CANAL+ SPORT 2 HD
+http://185.236.229.62:9981/play/a05t
+#EXTINF:-1 CANAL+ SPORT 3 HD
+http://185.236.229.62:9981/play/a05e
+#EXTINF:-1 CANAL+ SPORT 4 HD
+http://185.236.229.62:9981/play/a05r
+#EXTINF:-1 CANAL+ SPORT 5 HD
+http://185.236.229.62:9981/play/a05h
 
 
 
@@ -704,4 +558,5 @@ https://live.adultiptv.net/asian.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
 
 https://live.redtraffic.net/asian.m3u8
+
 
